@@ -1,0 +1,95 @@
+(это) письмо#the letter
+(эта) книга#the book
+(этот) почтамт#the post-office
+(эта) ручка#the pen
+(эта) кухня#the kitchen
+в понедельник#on Monday
+неделя#the week
+(этот) мужчина#the man
+Украина#Ukraine
+(этот) сын#the son
+да#yes
+третий#the third
+Я есть (Я "быть")#I am
+Я был#I was
+говорить (кому-то)#to talk to
+разговаривать (с), беседовать (с)#to talk with
+читать#to read
+приходить, прибывать#to come
+любить#to love
+понимать#to understand
+наш (наша, наше)#our
+их#their
+ваш (ваша, ваше)#your
+твой (твоя, твое)#your
+правильный, правдивый, правый#right
+Хорошо! Пусть будет так!#All right!
+направо#to the right
+Я прав?#Am I right?
+Украина#Ukraine
+Россия#Russia
+Англия#England
+русская машина#a russian car
+английский велосипед#an English bicycle
+здесь#here
+маленький, мало#little
+никогда#never
+всегда#always
+двадцать#twenty
+глаз#an eye
+рот#a mouth
+воскресенье#Sunday
+пятница#Friday
+дочь#a daughter
+ребенок, младенец#a baby
+месяц#a month
+завтра#tomorrow
+письменный стол#a desk
+кровать#a bed
+кто#who
+что, какой#what
+из, из середины#out of
+летать#to fly
+приносить#to bring
+улыбаться#to smile
+есть (кушать)#to eat
+с (предлог)#with
+пожалуйста#please
+одинадцать#eleven
+двенадцать#twelve
+самолет#a plane, an aeroplane
+часовня#a chapel
+имя#a name
+спальня#a bedroom
+сестра#sister
+рука#hand
+деньги#money
+вопрос#question
+способ, дорога#way
+костюм#suit
+сад#garden
+рыба, рыбы#fish
+вчера#yesterday
+вторник#Tuesday
+среда#Wednesday
+животное#animal
+в среду#on Wednesday
+быть (наст.заверш.время)#have been
+временами, иногда, неоднократно#sometimes
+много (с исчисл.существ.)#many
+много (с неисчисл.существ)#much
+держать#to keep
+платить#to pay
+слышать#to hear
+пробовать, пытаться#to try
+вместе#together
+больше чем#more than
+дешевый#cheap
+дорогой#expensive
+быть (ед.ч простое.прошедш.время)#was
+быть (мн.ч простое.прошедш.время)#were
+1 лицо вспомог.глагол простое будущ.время#shall
+все кроме 1 лица вспомог.глагол простое будущ.время#will
+бы (всп.глагол условное накл)#should
+сделовало бы (всп.глагол условное накл)#would
+собака#dog

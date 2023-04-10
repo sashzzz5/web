@@ -1,0 +1,25 @@
+entrance#вход
+car#машина, автомобиль
+bus#автобус
+woman#женщина
+sidewalk#тротуар
+building#дом, здание
+the apartment#квартира
+boy#мальчик
+to walk#идти пешком
+to go#идти, ходить, перемещаться
+to have#иметь
+to have no#не иметь (вообще)
+to look#смотреть
+to drive#водить (авто), ехать (на авто)
+to go to#идти в, к...
+to walk to#идти пешком, ходить к...
+to have to#быть должным
+to look at#смотреть на...
+by#чем?
+to go by train#ехать поездом
+to go by bus#ехать автобусом
+to go by car#ехать машиной
+no#не один
+so#итак, поэтому
+then#позже, потом, затем

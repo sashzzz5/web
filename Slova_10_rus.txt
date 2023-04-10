@@ -1,0 +1,37 @@
+медсестра#nurse
+футбол#football
+матч#match
+журнал#magazine
+весна#spring
+осень#autumn
+машинистка#typist
+газета#newspaper
+инструменты#tools
+пекарь#baker
+молоко#milk
+сахар#sugar
+но, кроме, помимо#but
+до#till
+с, вместе с…#with
+другой, иной#other
+готовый#ready
+полный#full
+разные, разнообразные, разного рода#all kinds of
+разные, разнообразные, разного вида#all sorts of
+род#kind
+вид#sort
+наблюдать, смотреть со вниманием#to watch
+Как ты (Вы) себя чувствуете?#How are you?
+Как у нее дела?#How is she?
+Январь#January
+Февраль#February
+Март#March
+Апрель#April
+Май#May
+Июнь#June
+Июль#Jule
+Август#August
+Сентябрь#September
+Октябрь#October
+Ноябрь#November
+Декабрь#December

@@ -1,0 +1,44 @@
+an hour#час
+a minute#минута
+the father#(этот) отец
+the chair#(этот) стул
+today#сегодня
+six o'clock#шесть часов
+the second#второй
+the square#(эта) площадь
+a statue#статуя
+one#один
+two#два
+three#три
+four#четыре
+five#пять
+six#шесть
+seven#семь
+eight#восемь
+nine#девять
+ten#десять
+half#половина
+past#после
+half an hour#полчаса
+half past one#половина второго
+shall 'll#глагол будущего времени
+will 'll#глагол будущего времени
+(to wait) for half an hour#полчаса (ждать)
+(to visit) at six o'clock#в шесть часов (посетить)
+(to go) in half an hour#через полчаса (идти)
+ten minutes past six#десять минут седьмого
+half past three#половина четвертого
+into#внуть, в середину
+to go into#входить в…
+to walk into#входить (пешком) в….
+this#этот, эта, это
+that#тот, та, то
+these#эти
+those#те
+home#дом (семейный очаг)
+at#предлог в, на, по
+to thank for#благодарить за…
+to write to#писать кому-то
+to take#брать
+to give to#давать кому-то
+to take for#принимать за кого-либо

@@ -1,0 +1,28 @@
+shopping street#торговая улица
+shopping#покупки
+shop#магазин
+street#улица
+railway station#железнодорожная станция
+railway#железная дорога
+train#поезд
+station#станция
+church tower#церковная башня
+church#церковь
+tower#башня
+street door#уличная дверь
+door#дверь
+house#дом
+a an#артикль a и an
+the#артикль the
+to see#видеть
+to visit#посещать
+to open#открывать
+to enter#входить
+I#Я
+you#ты или вы
+he#он
+she#она
+it#оно
+we#мы
+they#они
+and#и

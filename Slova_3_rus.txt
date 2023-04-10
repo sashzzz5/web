@@ -1,0 +1,68 @@
+страна#country
+город#town
+стол#table
+часы#clock
+день#day
+девушка#girl
+время#time
+полдень (12 часов)#afternoon
+после полудня (днем)#in the afternoon
+мать#mother
+предлог for#for
+ждать кого-либо#to wait for
+целый (весь) день#for a day
+идти на прогулку#to go for a walk
+искать#to look for
+приятный, милый, красивый#nice
+крупный, большой#big
+первый#first
+какой-то, немного, несколько#some
+там#there
+быть, находиться, являться#to be
+Я есть#I am I'm
+Ты есть Вы есть#you are you're
+Он, она, оно есть#he she it is he's she's it's
+Мы есть#we are we're
+Они есть#they are they're
+спрашивать, просить#to ask
+жить, проживать#to live
+хотеть#to want
+думать#to think
+через, по, сквозь; насквозь, от начала до конца#through
+за, позади, после#behind
+делать#to do
+Я иду#I go
+Я делаю#I do
+Мы идем#we go
+Мы делаем#we do
+Он идет#he goes
+Он делает#he does
+Она идет#she goes
+Она делает#she does
+где, куда#where
+его#his
+его велосипед#his bicycle
+его дом#his house
+его стол#his table
+его башня#his tower
+её#her
+её комната#her room
+её страна#her country
+её город#her town
+её речь#her speech
+её квартира#her apartment
+не (есть)#is not isn't
+не (есть) (2-лицо или множественное)#are not aren't
+не иметься#have not haven't
+не имеет#has not hasn't
+не делается#do not don't
+не делает#does not doesn't
+один#one
+два#two
+четыре#four
+пять#five
+семь#seven
+зеленый#green
+голубой#blue
+короткий#short
+длинный#long

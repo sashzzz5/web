@@ -1,0 +1,77 @@
+хлеб#bread
+четверть#quarter
+муж#husband
+книжный шкаф#bookcase
+лампа#lamp
+растение, завод#plant
+галстук#tie
+столовая#dining-room
+завтрак#breakfast
+родители#parents
+рубашка#shirt
+больница#hospital
+обед#dinner
+парковать (машину)#to park
+вставать (просыпаться)#to get up
+надевать на себя#to put on
+оставаться, пребывать#to stay
+завтракать#to have breakfast
+впереди, перед#in front of
+напротив#opposite
+после#after
+еще (все еще)#still
+когда, если#when
+вниз (по лестнице)#downstairs
+Луна, месяц#moon Moon
+птица#bird
+подвал#cellar
+угол#corner
+телевизор#television set
+ребенок#child
+вещь#thing
+кинотеатр#cinema
+гараж, сарай#shed
+носок#sock
+жилая комната, гостиная#living-room
+сиденье, место для сиденья#seat
+последний, прошлый#last
+каждый#every
+снова, опять еще раз#again
+перед, раньше, до#before
+медсестра#nurse
+футбол#football
+матч#match
+журнал#magazine
+весна#spring
+осень#autumn
+машинистка#typist
+газета#newspaper
+инструменты#tools
+пекарь#baker
+молоко#milk
+сахар#sugar
+но, кроме, помимо#but
+до#till
+с, вместе с…#with
+другой, иной#other
+готовый#ready
+полный#full
+разные, разнообразные, разного рода#all kinds of
+разные, разнообразные, разного вида#all sorts of
+род#kind
+вид#sort
+наблюдать, смотреть со вниманием#to watch
+Как ты (Вы) себя чувствуете?#How are you?
+Как у нее дела?#How is she?
+Январь#January
+Февраль#February
+Март#March
+Апрель#April
+Май#May
+Июнь#June
+Июль#Jule
+Август#August
+Сентябрь#September
+Октябрь#October
+Ноябрь#November
+Декабрь#December

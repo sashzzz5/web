@@ -1,0 +1,40 @@
+bread#хлеб
+quarter#четверть
+husband#муж
+bookcase#книжный шкаф
+lamp#лампа
+plant#растение, завод
+tie#галстук
+dining-room#столовая
+breakfast#завтрак
+parents#родители
+shirt#рубашка
+hospital#больница
+dinner#обед
+to park#парковать (машину)
+to get up#вставать (просыпаться)
+to put on#надевать на себя
+to stay#оставаться, пребывать
+to have breakfast#завтракать
+in front of#впереди, перед
+opposite#напротив
+after#после
+still#еще (все еще)
+when#когда, если
+downstairs#вниз (по лестнице)
+moon Moon#Луна, месяц
+bird#птица
+cellar#подвал
+corner#угол
+television set#телевизор
+child#ребенок
+thing#вещь
+cinema#кинотеатр
+shed#гараж, сарай
+sock#носок
+living-room#жилая комната, гостиная
+seat#сиденье, место для сиденья
+last#последний, прошлый
+every#каждый
+again#снова, опять еще раз
+before#перед, раньше, до

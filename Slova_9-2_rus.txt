@@ -1,0 +1,16 @@
+Луна, месяц#moon Moon
+птица#bird
+подвал#cellar
+угол#corner
+телевизор#television set
+ребенок#child
+вещь#thing
+кинотеатр#cinema
+гараж, сарай#shed
+носок#sock
+жилая комната, гостиная#living-room
+сиденье, место для сиденья#seat
+последний, прошлый#last
+каждый#every
+снова, опять еще раз#again
+перед, раньше, до#before

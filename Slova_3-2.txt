@@ -1,0 +1,38 @@
+through#через, по, сквозь; насквозь, от начала до конца
+behind#за, позади, после
+to do#делать
+I go#Я иду
+I do#Я делаю
+we go#Мы идем
+we do#Мы делаем
+he goes#Он идет
+he does#Он делает
+she goes#Она идет
+she does#Она делает
+where#где, куда
+his#его
+his bicycle#его велосипед
+his house#его дом
+his table#его стол
+his tower#его башня
+her#её
+her room#её комната
+her country#её страна
+her town#её город
+her speech#её речь
+her apartment#её квартира
+is not isn't#не (есть)
+are not aren't#не (есть) (2-лицо или множественное)
+have not haven't#не иметься
+has not hasn't#не имеет
+do not don't#не делается
+does not doesn't#не делает
+one#один
+two#два
+four#четыре
+five#пять
+seven#семь
+green#зеленый
+blue#голубой
+short#короткий
+long#длинный

@@ -1,0 +1,42 @@
+brother#брат
+friend#друг
+horse#конь, лошадь
+ship#корабль
+cigarette#сигарета
+fourth#четвертый
+year#год
+foot feet#нога (стопа); ноги
+radio#радио
+song#песня
+music#музыка
+family#семья
+a cup of coffee#чашка кофе
+a lot of cars#много машин
+a piece of paper#кусок бумаги
+the town of Paris#город Париж
+the month of March#месяц март
+some of my friends#некоторые из моих друзей
+cup#чашка
+coffee#кофе
+a lot#много
+piece#кусок, обрывок
+paper#бумага
+March#март
+less than#меньше, чем
+around#вокруг
+fast#быстро
+easy#легко
+about#о
+What about ...?#Что слышно…? Как насчет…?
+to sit#сидеть
+to smoke#курить
+to worry#волноваться, беспокоиться
+to show#показывать, демонстрировать
+to buy#покупать
+to sing#петь
+can#мочь, уметь
+why#почему
+which#который, какой
+good#хороший (нач.форма)
+better#лучше (сравн.степень)
+the best#наилучший, самый лучший (превосх. степень)

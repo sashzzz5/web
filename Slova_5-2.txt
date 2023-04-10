@@ -1,0 +1,25 @@
+an eye#глаз
+a mouth#рот
+Sunday#воскресенье
+Friday#пятница
+a daughter#дочь
+a baby#ребенок, младенец
+a month#месяц
+tomorrow#завтра
+a desk#письменный стол
+a bed#кровать
+who#кто
+what#что, какой
+out of#из, из середины
+to fly#летать
+to bring#приносить
+to smile#улыбаться
+to eat#есть (кушать)
+with#с (предлог)
+please#пожалуйста
+eleven#одинадцать
+twelve#двенадцать
+a plane, an aeroplane#самолет
+a chapel#часовня
+a name#имя
+a bedroom#спальня

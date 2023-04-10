@@ -1,0 +1,38 @@
+the letter#(это) письмо
+the book#(эта) книга
+the post-office#(этот) почтамт
+the pen#(эта) ручка
+the kitchen#(эта) кухня
+on Monday#в понедельник
+the week#неделя
+the man#(этот) мужчина
+Ukraine#Украина
+the son#(этот) сын
+yes#да
+the third#третий
+I am#Я есть (Я "быть")
+I was#Я был
+to talk to#говорить (кому-то)
+to talk with#разговаривать (с), беседовать (с)
+to read#читать
+to come#приходить, прибывать
+to love#любить
+to understand#понимать
+our#наш (наша, наше)
+their#их
+your#ваш (ваша, ваше)
+your#твой (твоя, твое)
+right#правильный, правдивый, правый
+All right!#Хорошо! Пусть будет так!
+to the right#направо
+Am I right?#Я прав?
+Ukraine#Украина
+Russia#Россия
+England#Англия
+a russian car#русская машина
+an English bicycle#английский велосипед
+here#здесь
+little#маленький, мало
+never#никогда
+always#всегда
+twenty#двадцать

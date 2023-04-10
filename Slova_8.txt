@@ -1,0 +1,40 @@
+people#люди, народ
+East West#восток / запад
+date#дата
+August#август
+December#декабрь
+winter#зима
+leg#нога, лапа
+shoe#туфля, ботинок
+barber#парикмахер
+hair#волосы
+sun#солнце
+weather#погода
+snow#снег
+one man#один мужчина
+five men#пятеро мужчин
+this woman#эта женщина
+those women#те женщины
+ten#десять
+twenty#двадцать
+thirty#тридцать
+forty#сорок
+fifty#пятьдесят
+sixty#шестьдесят
+seventy#семьдесят
+eighty#восемьдесят
+ninety#девяносто
+brown#коричневый
+black#черный
+else#другой, еще один
+what else#что еще
+almost#почти
+difficult#трудный
+soon#скоро, вскоре
+all#все
+to put#помещать, ставить, класть
+to make#делать, творить
+to cut#резать, отделять
+to rain#падать (только о дожде)
+to shine#светить
+must#должен, нужно, надо

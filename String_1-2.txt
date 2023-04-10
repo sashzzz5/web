@@ -1,0 +1,40 @@
+I see a car.#Я вижу машину.
+I open the door.#Я открываю (эту) дверь.
+You enter the building.#Ты входить в (это) здание.
+We see the boy.#Мы видим (этого) мальчика.
+They visit the woman.#Они навещают (эту) женщину.
+You enter the apartment.#Ты входить в (эту) квартиру.
+I see the sidewalk.#Я вижу (этот) тротуар.
+I see the entrance.#Я вижу (этот) вход.
+to go to the church#идти в (эту) церковь
+to walk to the station#идти пешком, ходить к (этой) станции
+I drive a car.#Я вожу машину.
+We go to the house.#Мы идем в (этот) дом.
+They have no apartment.#У них нет квартиры.
+You look at the sidewalk.#Ты смотришь на (этот) тротуар.
+I have a car.#У меня есть машина.
+We look at the woman.#Мы смотрим на (эту) женщину.
+I have to go to the entrance.#Я должен пройти к (этому) выходу.
+The woman drives a car.#Женщина ведет машину.
+She looks at the building.#Она смотрит на (это) здание.
+He sees the car.#Он видит (эту) машину.
+They enter the building and go to an apartment.#Они входят в это здание и идут в квартиру.
+We look at the car.#Мы смотрим на (эту) машину.
+You see the door.#Вы видите (эту) дверь.
+They visit a tower.#Они посещают башню.
+The woman goes to a shop.#(Эта) женщина идет в магазин.
+The street has a sidewalk.#(Эта) улица имеет тротуар.
+The bus has a door.#В (этом) автобусе есть дверь.
+The church has a tower.#У (этой) церкви есть башня.
+The shop has a door.#У (этого) магазина есть дверь.
+I go to the bus station.#Я иду на (эту) автостанцию.
+She goes to a church.#Она идет в церковь.
+He looks at the apartment.#Он смотрит на (эту) квартиру.
+We see the boy and a woman.#Мы видим (этого) мальчика и женщину.
+He goes to Kiev. He goes by train.#Он едет в Киев. Он едет поездом.
+The train enters the station.#(Этот) поезд входит на (эту) станцию.
+He looks at the buildings.#Он смотрит на (это) здание.
+He has no car, so he has to walk.#Он не имеет машины, поэтому он должен идти пешком.
+He sees a church tower. The tower has a door.#Он видит церковную башню. (Эта) башня имеет дверь.
+He visits the tower and he looks at Kiev.#Он посещает (эту) башню и он смотрит на Киев.
+Then he goes to a shop.#Затем он идет в магазин.

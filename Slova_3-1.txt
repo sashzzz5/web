@@ -1,0 +1,30 @@
+country#страна
+town#город
+table#стол
+clock#часы
+day#день
+girl#девушка
+time#время
+afternoon#полдень (12 часов)
+in the afternoon#после полудня (днем)
+mother#мать
+for#предлог for
+to wait for#ждать кого-либо
+for a day#целый (весь) день
+to go for a walk#идти на прогулку
+to look for#искать
+nice#приятный, милый, красивый
+big#крупный, большой
+first#первый
+some#какой-то, немного, несколько
+there#там
+to be#быть, находиться, являться
+I am I'm#Я есть
+you are you're#Ты есть Вы есть
+he she it is he's she's it's#Он, она, оно есть
+we are we're#Мы есть
+they are they're#Они есть
+to ask#спрашивать, просить
+to live#жить, проживать
+to want#хотеть
+to think#думать

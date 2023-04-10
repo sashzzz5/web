@@ -1,0 +1,46 @@
+гостиница#hotel
+комната#room
+окно#window
+ресторан#restaurant
+уличное движение#traffic
+велосипед#bicycle
+школа#school
+фабрика#factory
+офис, бюро, учреждение#office
+там, туда#there
+там есть...#there is
+в#in
+также, тоже (=и)#also
+возле, рядом#near
+не#not
+часто#often
+он есть#he is
+она есть#she is
+работать#to work
+получать#to get
+знать#to know
+ждать#to wait
+говорить#to speak
+любить, нравиться#to like
+работать в, на...#to work at in
+ждать кого-либо#to wait for
+говорить с кем-либо#to speak to
+любить (что-то делать)#to like to
+быть#to be
+(я) есть#am
+(он, она, оно) есть#is
+(ты, вы, они) есть#are
+прогулка#a walk
+работа#the work
+шофер, водитель#the driver
+речь#a speech
+утро#morning
+вечер#evening
+красный#red
+белый#white
+хороший#good
+плохой, нехороший#bad
+пять#five
+два#two
+(когда?) вечером#in the evening
+(когда?) утром#in the morning
