@@ -1,0 +1,140 @@
+She reads a newspaper.#Она читает газету.
+Is it still spring?#Еще весна?
+We have tools in the shed.#У нас инструменты в сарае.
+Do you like sugar?#Ты любишь сахар?
+This magazine is in the car.#Этот журнал в машине.
+The nurse works in the hospital.#Медсестра работает в больнице.
+His sister is a typist.#Его сестра - машинистка.
+Is there a match tonight?#Сегодня вечером есть матч?
+They don't like football.#Они не любят футбол.
+Children often drink milk.#Дети часто пьют молоко.
+Autumn comes after summer.#Осень приходит после лета.
+My friend is a baker.#Мой друг - пекарь.
+Tools are expensive.#Инструменты дорогие.
+The trees are green in spring.#Весной деревья зеленые.
+The typists are busy.#Машинистки заняты.
+Give me a milk or water.#Дай мне молока или воды.
+That match was bad.#Тот матч был плохой.
+Is sugar always white?#Сахар всегда белый?
+The baker works in a cellar.#(Этот) Пекарь работает в подвале.
+The nurse went downstairs.#(Эта) Медсестра пошла вниз по лестнице.
+Do all children like football?#Все ли дети любят футбол?
+The leaves are brown in autumn.#Осенью листья коричневые.
+It is in this magazine.#Это в этом журнале.
+The newspaper is on that chair.#Газета на том стуле.
+We have often been to Russia.#Мы часто бывали в России.
+What did you eat yesterday?#Что ты ел вчера?
+I thought he was here.#Я думала, что он здесь.
+The plane flew to the West.#(Этот) Самолет летел на запад.
+Have you given the money?#Ты отдал деньги?
+We understood the question.#Мы поняли вопрос.
+Have you read the book?#Ты прочитал книгу?
+I wrote the letter last month.#В прошлом месяце я написал письмо.
+I read a book yesterday.#Я читала эту книгу вчера.
+He was in Kiev last month.#Он был в Киеве в прошлом месяце.
+I have read this book this week.#Я прочитала эту книгу на этой неделе (неделя еще длится).
+He has been to Kiev this month.#Он был в Киеве в этом месяце (месяц еще продолжается).
+He was in the cellar.#Он был в подвале. (прост.прош.)
+What have you done?#Что ты сделал? (наст.заверш.)
+I have thought a lot.#Я много думал. (наст.заверш.)
+Have you ever flown?#Ты когда-нибудь летал? (наст.заверш.)
+We gave many tomatoes.#Мы дали много помидоров. (прост.прош.)
+Have you understood him?#Ты его понял? (наст.заверш.)
+I read the book in August.#Я читала (эту) книгу в августе. (прост.прош.)
+She wrote a long letter.#Она написала длинное письмо (прост.прош.)
+Have you ever been in England?#Ты была когда-нибудь в Англии? (наст.заверш.)
+What did you do yesterday?#Что ты делала вчера? (прост.прош.)
+I thought I knew her.#Я думала, что знаю ее. (согласование времен)
+We flew to Paris.#Мы летели в Париж. (прост.прош.)
+She has given me shoes.#Она дала мне туфли. (наст.заверш.)
+She understood I wanted coffee.#Она поняла, что я хочу кофе. (согласование времен)
+I have read that newspaper.#Я прочитала ту газету. (наст.заверш.)
+Have you written this?#Ты это написал? (наст.заверш.)
+Are you ready?#Ты готова?
+I want other pens.#Я хочу другие ручки.
+Not water, but tea.#Не вода, а чай.
+This cup is full.#Это чашка полная.
+We work till five.#Мы работаем до пяти.
+I shall go with him.#Я пойду с ним.
+Give me that book, please.#Дай мне ту книгу, пожалуйста.
+Here you are.#Вот она. (какой то предмет)
+Thank you.#Спасибо.
+We have all kinds of plants in the garden.#У нас в саду есть все виды растений.
+They saw all sorts of animals there.#Они видели там различных животных.
+We visited all kinds of shops.#Мы посетили разные магазины.
+They looked at us.#Они посмотрели на нас.
+She looked at her friend.#Она посмотрела на своего друга.
+Children like to watch television.#Детям нравится смотреть телевизор.
+I often watch a football match.#Я часто смотрю футбольный матч.
+How are you?#Как ты себя чувствуешь? Как Вы себя чувствуете?
+How is she?#Как у нее дела?
+How are they?#Как у них дела?
+How is your brother?#Как дела у твоего брата?
+March is a spring month.#Март - весенний месяц.
+Come with me.#Идем со мной!
+He reads all kinds of newspapers.#Он читает разные газеты.
+Drink milk. it is good.#Пей молоко! Это полезно.
+How is he?#Как у него дела?
+He wrote in a magazine.#Он писал в журнале.
+She has done the work.#Она сделала (эту) работу.
+The baker gave me a loaf.#Пекарь дал мне буханку.
+We shall stay till April.#Мы останемся до апреля.
+I watch the children.#Я смотрю за детьми.
+She flew to London in June.#Она летала в июне в Лондон.
+He wants other shoes.#Он хочет другие туфли.
+The typist understood me.#Машинистка меня поняла.
+The corner is full of water.#Подвал полон воды.
+Jule is in summer.#Июль - летом.
+March is the third month.#Март - третий месяц.
+I have books but no tools.#У меня есть книги, но нет инструментов.
+How are your parents?#Как дела у твоих родителей?
+I like tea with sugar.#Я люблю чай с сахаром.
+The baker works till seven.#Пекарь работает до семи.
+Can the nurse drive a car?#(Эта) Медсестра может водить машину?
+There are all kinds of trees there.#Там растут всякие деревья.
+Do all cats like milk?#Все кошки любят молоко?
+The match was in the evening.#(Этот) Матч был вечером.
+I knew the room was full.#Я знал, что комната заполнена.
+She often watches the birds.#Она часто наблюдает за птицами.
+I have a magazine for you.#У меня есть для тебя журнал.
+Here you are!#Вот, пожалуйста! (предоставить что то)
+His other sister is not here.#Другой его сестры здесь нет.
+When will breakfast be ready?#Когда будет готов завтрак?
+She went to school with me.#Она пошла в школу со мной.
+He saw the other typist.#Он увидел другую машинистку.
+Is she still a nurse?#Она еще медсестра?
+Have they ever flown?#Они когда-либо летали?
+We don't like autumn.#Мы не любим осень.
+There's a match tonight.#Сегодня вечером матч.
+He reads all sorts of books.#Он читает разные книги.
+The tools are in the corner.#Инструменты в (этом) углу.
+The cinema was full of people.#(Этот) Кинотеатр был полон народа.
+But what else does she want?#Но что она еще хочет?
+Milk and sugar are white.#Молоко и сахар белые.
+Do you often watch television?#Ты часто смотришь телевизор?
+February is a short month.#Февраль короткий месяц.
+Have you read the letter?#Ты прочитал письмо?
+He will wait for the nurse.#Он будет ждать (эту) медсестру.
+I was in this town last autumn.#Я был в этом городе прошлой осенью.
+Look at that animal.#Посмотри на того зверя!
+It is a goose.#Это - гусь.
+The tools are in the shed.#(Эти) Инструменты - в (этом) сарае.
+His wife likes that magazine.#Его жена любит тот журнал.
+Is the typist ready?#(Эта) Машинистка готова?
+We saw all sorts of bookcases.#Мы видели всякие книжные шкафы.
+How is your daughter?#Как дела у твоей дочери?
+He likes football matches.#Он любит матчи по футболу.
+Our baker cannot come today.#Наш пекарь не может сегодня прийти.
+There is a newspaper on the desk.#На (этом) письменном столе - газета.
+Put the lamp on the television set.#Поставь (эту) лампу на (этот) телевизор.
+Coffee with sugar, please.#Пожалуйста, кофе с сахаром.
+Here you are.#Вот, пожалуйста! (предоставить что то)
+She gave me the other tie.#Она дала мне другой галстук.
+I shall do it after six.#Я сделаю это после шести.
+This cup is too full.#Эта чашка слишком полная.
+The barber cut your hair yesterday.#Вчера парикмахер подстриг тебе волосы.
+They had ten loaves.#У них было десять буханок.
+It rained till a quarter past two.#Дождь шел до четверти третьего.
+He saw the Moon last night.#Вчера вечером он видел Луну.
+Is it a potato?#Это картофель?
+She drove a fast car.#Она водила быстроходный автомобиль.
