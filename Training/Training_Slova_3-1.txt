@@ -1,0 +1,129 @@
+shopping street#торговая улица
+shopping#покупки
+shop#магазин
+street#улица
+railway station#железнодорожная станция
+railway#железная дорога
+train#поезд
+station#станция
+church tower#церковная башня
+church#церковь
+tower#башня
+street door#уличная дверь
+door#дверь
+house#дом
+a an#артикль a и an
+the#артикль the
+to see#видеть
+to visit#посещать
+to open#открывать
+to enter#входить
+I#Я
+you#ты или вы
+he#он
+she#она
+it#оно
+we#мы
+they#они
+and#и
+entrance#вход
+car#машина, автомобиль
+bus#автобус
+woman#женщина
+sidewalk#тротуар
+building#дом, здание
+the apartment#квартира
+boy#мальчик
+to walk#идти пешком
+to go#идти, ходить, перемещаться
+to have#иметь
+to have no#не иметь (вообще)
+to look#смотреть
+to drive#водить (авто), ехать (на авто)
+to go to#идти в, к...
+to walk to#идти пешком, ходить к...
+to have to#быть должным
+to look at#смотреть на...
+by#чем?
+to go by train#ехать поездом
+to go by bus#ехать автобусом
+to go by car#ехать машиной
+no#не один
+so#итак, поэтому
+then#позже, потом, затем
+hotel#гостиница
+room#комната
+window#окно
+restaurant#ресторан
+traffic#уличное движение
+bicycle#велосипед
+school#школа
+factory#фабрика
+office#офис, бюро, учреждение
+there#там, туда
+there is#там есть...
+in#в
+also#также, тоже (=и)
+near#возле, рядом
+not#не
+often#часто
+he is#он есть
+she is#она есть
+to work#работать
+to get#получать
+to know#знать
+to wait#ждать
+to speak#говорить
+to like#любить, нравиться
+to work at in#работать в, на...
+to wait for#ждать кого-либо
+to speak to#говорить с кем-либо
+to like to#любить (что-то делать)
+to be#быть
+am#(я) есть
+is#(он, она, оно) есть
+are#(ты, вы, они) есть
+a walk#прогулка
+the work#работа
+the driver#шофер, водитель
+a speech#речь
+morning#утро
+evening#вечер
+red#красный
+white#белый
+good#хороший
+bad#плохой, нехороший
+five#пять
+two#два
+in the evening#(когда?) вечером
+in the morning#(когда?) утром
+country#страна
+town#город
+table#стол
+clock#часы
+day#день
+girl#девушка
+time#время
+afternoon#полдень (12 часов)
+in the afternoon#после полудня (днем)
+mother#мать
+for#предлог for
+to wait for#ждать кого-либо
+for a day#целый (весь) день
+to go for a walk#идти на прогулку
+to look for#искать
+nice#приятный, милый, красивый
+big#крупный, большой
+first#первый
+some#какой-то, немного, несколько
+there#там
+to be#быть, находиться, являться
+I am I'm#Я есть
+you are you're#Ты есть Вы есть
+he she it is he's she's it's#Он, она, оно есть
+we are we're#Мы есть
+they are they're#Они есть
+to ask#спрашивать, просить
+to live#жить, проживать
+to want#хотеть
+to think#думать
