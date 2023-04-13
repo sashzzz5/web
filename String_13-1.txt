@@ -1,0 +1,96 @@
+We have large plates.#У нас большие тарелки.
+Here is your fork.#Вот твоя вилка.
+Where is the other spoon?#Где другая ложка?
+This is a nice salt-pot.#Это хорошая солонка.
+We have to buy salt.#Мы должны купить соль.
+I put butter on my bread.#Я кладу масло на (свой) хлеб.
+Do you like eggs?#Ты любишь яйца?
+A cup without a saucer.#Чашка без блюдца.
+This cheese is white.#Этот сыр белый.
+Give me this napkin, please.#Дай мне, пожалуйста, эту салфетку.
+Put the bread in the toaster.#Положи хлеб в тостер.
+These are cheap egg-cups.#Это дешевые подставки для яиц.
+Put the toaster on the table.#Поставь (этот) тостер на стол.
+Are there six plates?#Есть шесть тарелок?
+These spoons are too short.#Эти ложки слишком короткие.
+Salt is expensive.#Соль дорогая.
+I eat an egg every day.#Я съедаю яйцо каждый день.
+He doesn't like cheese.#Он не любит сыр.
+The egg-cups are from England.#(Эти) Подставки для яиц из Англии.
+The fork is on my plate.#(Эта) Вилка на моей тарелке.
+The salt-pot is full.#(Эта) Солонка полная.
+I never eat butter.#Я никогда не ем масла.
+The saucers are in the kitchen.#(Эти) Блюдца в кухне.
+The napkin is under your chair.#(Эта) Салфетка под твоим стулом.
+He goes to church on Sundays.#Он ходит в церковь по воскресеньям.
+We always have breakfast at eight.#Мы всегда завтракаем в восемь.
+I go to work every day.#Я хожу на работу каждый день.
+They live in Kharkov.#Они живут в Харькове.
+I like music.#Я люблю музыку.
+Snow is white.#Снег (есть) белый.
+I hear the radio.#Я слышу радио.
+He loves your sister.#Он любит твою сестру.
+He thinks you are a doctor.#Он думает, что ты врач.
+The boys start school on Monday.#Мальчики пойдут в школу в понедельник.
+I go to Berlin tonight.#Сегодня вечером я еду в Берлин.
+These tomatoes are delicious.#Эти помидоры вкусные.
+Are they here already?#Они уже здесь?
+Don't eat in a hurry.#Не ешь в спешке.
+He likes fried potatoes.#Он любит жареный картофель.
+Your cup is empty.#Твоя чашка пуста.
+She smoked while I ate.#Она курила, пока я ел.
+Too much fat is not good.#Слишком много жира нехорошо.
+Who is that fat boy?#Кто тот толстый парень?
+That fat man eats too much.#Тот толстый мужчина слишком много ест.
+Don't walk outside while it rains.#Не гуляй во дворе, когда идет дождь.
+Is her plate empty?#Ее тарелка пустая?
+I like fried fish.#Я люблю жареную рыбу.
+Are you in a hurry?#Ты спешишь? (досл.: Ты в спешке?)
+She has already got up.#Она уже встала.
+The cheese is delicious.#(Этот) Сыр вкусный.
+Is there much fat in it?#В нем (сыре) много жира?
+This bicycle is mine.#Этот велосипед мой.
+Is that book yours?#Те книга твоя?
+Those pens are his.#Те ручки его.
+That coat is hers.#То пальто её.
+The apples are ours.#Эти яблоки наши.
+Are these cigarettes yours?#Эти сигареты Ваши?
+They are theirs.#Они (есть ) их.
+This clock is his.#Эти часы его.
+Is that car hers?#Тот автомобиль её?
+Those cups are yours.#Те чашки Ваши.
+These desks are theirs.#Эти письменные столы их.
+This money is mine.#Эти деньги мои.
+Those cats are ours.#Те коты наши.
+These shoes are yours.#Эти туфли твои.
+They have left.#Они уехали.
+She boiled eggs.#Она варила (готовила) яйца.
+Have you sent a letter?#Ты отправила письмо?
+I sent it yesterday.#Я послала его вчера.
+We have used it.#Мы это использовали.
+He poured out the coffee.#Он разлил (этот) кофе.
+Pass the sugar, please.#Передай, пожалуйста, сахар.
+She said it was too late.#Она сказала, что слишком поздно.
+Have you told your father?#Ты рассказал своему отцу?
+Have you poured out the tea?#Ты разлил чай?
+They used bad pens.#Они пользовались плохими ручками.
+Has she passed the salt?#Она передала соль?
+I left at eight.#Я вышел в восемь.
+He has left her.#Он покинул ее.
+I didn't say that.#Я этого не говорила.
+She sent the money long ago.#Она давно выслала деньги.
+He told us all he knew.#Он рассказал нам все, что знал.
+I have boiled them.#Я сварил их.
+We have sent flowers.#Мы выслали цветы.
+You used too much salt.#Вы использовали слишком много соли.
+She said it in a hurry.#Она сказала это в спешке.
+Have they left already?#Они уже вышли?
+They have sent us a few letters.#Они послали нам несколько писем.
+The salt-pot is empty.#(Эта) Солонка пуста.
+She poured the tea while I boiled an egg.#Она наливала чай, пока я варил яйцо.
+Isn't this fried fish delicious?#Разве эта жареная рыба не вкусная?
+Have I told you you are too fat?#Говорила ли я тебе, что ты слишком толстый?
+We sent the books in last month.#Мы выслали (эти) книги в прошлом месяце.
+They eat cheese for breakfast.#Они едят на завтрак сыр.
+Your napkin is on your plate.#Твоя салфетка на (твоей) тарелке.
+Are these forks ours?#Эти вилки наши?
