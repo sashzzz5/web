@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тренировка</title>
+    <style>
+	   /* Стили для центрирования элементов и установки их ширины */
+      body {
+	    display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+      #container {
+	    width: 100%;
+		height: 200px;
+        //max-width: 600px;
+      }
+      #text-input {
+	    display: flex;
+	    width: 100%;
+        height: 100px;
+        box-sizing: border-box;
+		background-color: #FFFFCC;
+        border: none;
+        padding: 18px;
+		margin: 2px 0;
+        text-align: center;
+        font-size: 23px;
+		font-weight: bold;
+		align-items: center;
+        justify-content: center;
+      }
+	  #text-input_rus {
+	    width: 100%;
+        height: 100px;
+        box-sizing: border-box;
+		background-color: #FFFFCC;
+        border: none;
+        padding: 18px;
+		margin: 2px 0;
+        text-align: center;
+        font-size: 23px;
+		font-weight: bold;
+		align-items: center;
+        justify-content: center;
+	}
+	  .hidden {
+			display: none;
+		}	
+    		
+		#left, #right {
+		    display: flex;
+            position: fixed;
+            bottom: 0;
+            height: 50%;
+            width: 50%;
+            align-items: flex-end;
+        }
+
+#left {
+  left: 0;
+}
+
+#right {
+  right: 0;
+}
+		
+	 </style>
+</head>
+<body>
+ 
+    <div id="left" style="left"></div>
+    <div id="right" style="right"></div>
+	
+   <div id="container">
+	<input type="text" id="text-input">
+	<input type="text" id="text-input_rus" class="hidden">
+   </div>	
+
+	
+</body>
+		
+		
+	<script>
+			
+	const params = new URLSearchParams(window.location.search);
+    const selectedFile = params.get('file');
+
+	
+	
+	 const left = document.querySelector('#left');
+     const right = document.querySelector('#right');
+     const textInput = document.querySelector('#text-input');
+     const textInputRus = document.querySelector('#text-input_rus');
+	
+		// Fetch text file
+		if (selectedFile) {
+           fetch(selectedFile)
+			.then(response => response.text())
+			.then(data => {
+				const lines = data.split('\n'); // Split text file into array of lines
+				let currentIndex = -1; // Initialize current index
+				const textField1 = document.getElementById('text-input');
+				const textField2 = document.getElementById('text-input_rus');
+				const randomizeIndex = () => { // Function to randomize current index
+					currentIndex = Math.floor(Math.random() * lines.length);
+				}
+				const updateTextFields = () => { // Function to update text fields
+					const [firstPart, secondPart] = lines[currentIndex].split('#');
+					textField1.value = firstPart;
+					textField2.value = secondPart;
+					textField2.classList.add('hidden');
+				}
+				randomizeIndex();
+				updateTextFields();
+				
+				
+                left.addEventListener('touchstart', (event) => {
+                  event.preventDefault(); // Остановить стандартное поведение браузера
+                  //textInputRus.type = 'text-input_rus'; // Показать поле secondPart
+				  textField2.classList.remove('hidden');
+                });
+
+				right.addEventListener('touchstart', (event) => {
+				  event.preventDefault(); // Остановить стандартное поведение браузера
+				  randomizeIndex();
+				  textField2.classList.add('hidden');
+				  updateTextFields();
+				});
+			});
+		}
+	</script>
+</html>
