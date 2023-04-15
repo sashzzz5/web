@@ -1,0 +1,39 @@
+arm#рука
+knee#колено
+toe#палец на ноге
+nail#ноготь
+finger#палец на руке
+belly#живот
+chest#грудная клетка, грудь
+elbow#локоть
+wrist#запятье
+wrist-watch#наручные часы
+back#спина
+shoulders#плечи
+Whose#чей, чья, чьё, чьи
+because#потому что; так как
+electric#электрический
+tired#усталый, уставший
+sweet#сладкий
+only#только, единственный
+to taste#отведать (на вкус) пробовать
+tasted#пробовал (на вкус)
+have tasted#попробовал (на вкус)
+to feel#чувствовать
+felt#чувствовал
+have felt#почувствовал
+to begin#начинать
+began#начинал
+have begun#начал
+to build#строить
+built#строил
+have built#построил
+to catch#ловить
+caught#ловил
+have caught#поймал
+to fall#падать
+fell#падал
+have fallen#упал
+to be hungry#быть голодным
+to be thirsty#быть жаждущим, испытывать жажду, хотеть пить
+another#другой, еще один
