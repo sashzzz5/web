@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Выбор урока</title>
+    <style>
+     /* Стили для центрирования элементов и установки их ширины */
+     body {
+        display: flex;
+        justify-content: center;
+		flex-direction: column;
+        align-items: center;
+        height: 100vh;
+      }	
+	  
+    .styled select {
+       background: transparent;
+       width: 350px;
+       font-size: 20px;
+       font-weight: bold;
+       border: 1px solid #CCC;
+       height: 34px;
+    }
+	
+    .styled {
+       margin: 20px;
+       width: 350px;
+       height: 34px;
+       border: 1px solid #111;
+       border-radius: 3px;
+       overflow: hidden;
+       background-color: #FFFFCC;
+    }
+	
+	 </style>
+</head>
+<body>
+
+<div class="styled">
+<select id="file-select1">
+  <option value="">Выберите одну часть урока</option>
+  <option value="Slova_1-1_rus.txt">Slova_1-1</option>
+  <option value="Slova_1-2_rus.txt">Slova_1-2</option>
+  <option value="Slova_2-1_rus.txt">Slova_2-1</option>
+  <option value="Slova_3-1_rus.txt">Slova_3-1</option>
+  <option value="Slova_3-2_rus.txt">Slova_3-2</option>
+  <option value="Slova_4-1_rus.txt">Slova_4-1</option>
+  <option value="Slova_5-1_rus.txt">Slova_5-1</option>
+  <option value="Slova_5-2_rus.txt">Slova_5-2</option>
+  <option value="Slova_6-1_rus.txt">Slova_6-1</option>
+  <option value="Slova_7-1_rus.txt">Slova_7-1</option>
+  <option value="Slova_7-2_rus.txt">Slova_7-2</option>
+  <option value="Slova_8-1_rus.txt">Slova_8-1</option>
+  <option value="Slova_9-1_rus.txt">Slova_9-1</option>
+  <option value="Slova_9-2_rus.txt">Slova_9-2</option>
+  <option value="Slova_10-1_rus.txt">Slova_10-1</option>
+  <option value="Slova_11-1_rus.txt">Slova_11-1</option>
+  <option value="Slova_11-2_rus.txt">Slova_11-2</option>
+  <option value="Slova_12-1_rus.txt">Slova_12-1</option>
+  <option value="Slova_13-1_rus.txt">Slova_13-1</option>
+  <option value="Slova_13-2_rus.txt">Slova_13-2</option>
+  <option value="Slova_14-1_rus.txt">Slova_14-1</option>
+  <option value="Slova_15-1_rus.txt">Slova_15-1</option>
+  <option value="Slova_15-2_rus.txt">Slova_15-2</option>
+  <option value="Slova_16-1_rus.txt">Slova_16-1</option>
+  <option value="Slova_17-1_rus.txt">Slova_17-1</option>
+  <option value="Slova_17-2_rus.txt">Slova_17-2</option>
+  <option value="Slova_18-1_rus.txt">Slova_18-1</option>
+  <option value="Slova_19-1_rus.txt">Slova_19-1</option>
+  <option value="Slova_19-2_rus.txt">Slova_19-2</option>
+  <option value="Slova_20-1_rus.txt">Slova_20-1</option>
+  <option value="Slova_21-1_rus.txt">Slova_21-1</option>
+  <option value="Slova_21-2_rus.txt">Slova_21-2</option>
+  <option value="Slova_22-1_rus.txt">Slova_22-1</option>
+  <option value="Slova_23-1_rus.txt">Slova_23-1</option>
+  <option value="Slova_23-2_rus.txt">Slova_23-2</option>
+  <option value="Slova_24-1_rus.txt">Slova_24-1</option>
+  <option value="Slova_25-1_rus.txt">Slova_25-1</option>
+  <option value="Slova_25-2_rus.txt">Slova_25-2</option>
+  <option value="Slova_26-1_rus.txt">Slova_26-1</option>
+  <option value="Slova_27-1_rus.txt">Slova_27-1</option>
+  <option value="Slova_27-2_rus.txt">Slova_27-2</option>
+  <option value="Slova_28-1_rus.txt">Slova_28-1</option>
+  <option value="Slova_29-1_rus.txt">Slova_29-1</option>
+  <option value="Slova_29-2_rus.txt">Slova_29-2</option>
+  <option value="Slova_30-1_rus.txt">Slova_30-1</option>
+  <option value="Slova_31-1_rus.txt">Slova_31-1</option>
+  <option value="Slova_31-2_rus.txt">Slova_31-2</option>
+  <option value="Slova_32-1_rus.txt">Slova_32-1</option>
+</select>
+</div>
+<button id="load-file-btn1">Загрузить файл</button>
+
+<div class="styled">
+<select id="file-select2">
+  <option value="">Выберите один целый урок</option>
+  <option value="Slova_1_rus.txt">Slova_1</option>
+  <option value="Slova_2_rus.txt">Slova_2</option>
+  <option value="Slova_3_rus.txt">Slova_3</option>
+  <option value="Slova_4_rus.txt">Slova_4</option>
+  <option value="Slova_5_rus.txt">Slova_5</option>
+  <option value="Slova_6_rus.txt">Slova_6</option>
+  <option value="Slova_7_rus.txt">Slova_7</option>
+  <option value="Slova_8_rus.txt">Slova_8</option>
+  <option value="Slova_9_rus.txt">Slova_9</option>
+  <option value="Slova_10_rus.txt">Slova_10</option>
+  <option value="Slova_11_rus.txt">Slova_11</option>
+  <option value="Slova_12_rus.txt">Slova_12</option>
+  <option value="Slova_13_rus.txt">Slova_13</option>
+  <option value="Slova_14_rus.txt">Slova_14</option>
+  <option value="Slova_15_rus.txt">Slova_15</option>
+  <option value="Slova_16_rus.txt">Slova_16</option>
+  <option value="Slova_17_rus.txt">Slova_17</option>
+  <option value="Slova_18_rus.txt">Slova_18</option>
+  <option value="Slova_19_rus.txt">Slova_19</option>
+  <option value="Slova_20_rus.txt">Slova_20</option>
+  <option value="Slova_21_rus.txt">Slova_21</option>
+  <option value="Slova_22_rus.txt">Slova_22</option>
+  <option value="Slova_23_rus.txt">Slova_23</option>
+  <option value="Slova_24_rus.txt">Slova_24</option>
+  <option value="Slova_25_rus.txt">Slova_25</option>
+  <option value="Slova_26_rus.txt">Slova_26</option>
+  <option value="Slova_27_rus.txt">Slova_27</option>
+  <option value="Slova_28_rus.txt">Slova_28</option>
+  <option value="Slova_29_rus.txt">Slova_29</option>
+  <option value="Slova_30_rus.txt">Slova_30</option>
+  <option value="Slova_31_rus.txt">Slova_31</option>
+  <option value="Slova_32_rus.txt">Slova_32</option>
+</select>
+</div>	
+<button id="load-file-btn2">Загрузить файл</button>
+	
+ 
+<div class="styled">
+<select id="file-select3">
+  <option value="">Выберите блок из 4 уроков</option>
+  <option value="Slova_1-4_rus.txt">Slova_1-4</option>
+  <option value="Slova_5-8_rus.txt">Slova_5-8</option>
+  <option value="Slova_9-12_rus.txt">Slova_9-12</option>
+  <option value="Slova_13-16_rus.txt">Slova_13-16</option>
+  <option value="Slova_17-20_rus.txt">Slova_17-20</option>
+  <option value="Slova_21-24_rus.txt">Slova_21-24</option>
+  <option value="Slova_25-28_rus.txt">Slova_25-28</option>
+  <option value="Slova_29-32_rus.txt">Slova_29-32</option>
+</select>
+</div>	
+<button id="load-file-btn3">Загрузить файл</button>	
+
+
+	
+	
+</body>
+	<script>
+  const fileSelect1 = document.getElementById('file-select1');
+  const loadFileBtn1 = document.getElementById('load-file-btn1');
+  const fileSelect2 = document.getElementById('file-select2');
+  const loadFileBtn2 = document.getElementById('load-file-btn2');
+  const fileSelect3 = document.getElementById('file-select3');
+  const loadFileBtn3 = document.getElementById('load-file-btn3');
+ 
+
+  loadFileBtn1.addEventListener('click', () => {
+    const selectedFile = fileSelect1.value;
+    if (selectedFile) {
+      window.location.href = `mob_SL_rus.html?file=${selectedFile}`;
+    }
+  });
+  
+  loadFileBtn2.addEventListener('click', () => {
+    const selectedFile = fileSelect2.value;
+    if (selectedFile) {
+      window.location.href = `mob_SL_rus.html?file=${selectedFile}`;
+    }
+  });
+  
+  loadFileBtn3.addEventListener('click', () => {
+    const selectedFile = fileSelect3.value;
+    if (selectedFile) {
+      window.location.href = `mob_SL_rus.html?file=${selectedFile}`;
+    }
+  });
+  
+  
+</script>	
+	
+</html>
