@@ -11,6 +11,8 @@
         justify-content: center;
         align-items: center;
         height: 100vh;
+		background-color: #FFFFCC;
+		margin: 0;
       }
       #container {
 	    width: 100%;
@@ -27,7 +29,7 @@
         padding: 18px;
 		margin: 2px 0;
         text-align: center;
-        font-size: 23px;
+        font-size: 28px;
 		font-weight: bold;
 		align-items: center;
         justify-content: center;
@@ -41,7 +43,7 @@
         padding: 18px;
 		margin: 2px 0;
         text-align: center;
-        font-size: 23px;
+        font-size: 28px;
 		font-weight: bold;
 		align-items: center;
         justify-content: center;
@@ -100,21 +102,27 @@
            fetch(selectedFile)
 			.then(response => response.text())
 			.then(data => {
-				const lines = data.split('\n'); // Split text file into array of lines
-				let currentIndex = -1; // Initialize current index
+				const lines = data.split('\n').filter(Boolean); // Split text file into array of non-empty lines
+				
+				const shuffledLines = shuffleArray(lines); // Shuffle the lines randomly
+                let currentIndex = 0; // Initialize current index
+
 				const textField1 = document.getElementById('text-input');
 				const textField2 = document.getElementById('text-input_rus');
-				const randomizeIndex = () => { // Function to randomize current index
-					currentIndex = Math.floor(Math.random() * lines.length);
-				}
-				const updateTextFields = () => { // Function to update text fields
-					const [firstPart, secondPart] = lines[currentIndex].split('#');
-					textField1.value = firstPart;
-					textField2.value = secondPart;
-					textField2.classList.add('hidden');
-				}
-				randomizeIndex();
-				updateTextFields();
+				
+                const updateTextFields = () => { // Function to update text fields
+                  if (currentIndex >= shuffledLines.length) { // Check if all lines have been displayed
+                  alert('Тест пройден');
+                  return;
+                  }
+                  const [firstPart, secondPart] = shuffledLines[currentIndex].split('#');
+                  textField1.value = firstPart;
+                  textField2.value = secondPart;
+                  textField2.classList.add('hidden');
+                  currentIndex++;
+                }
+
+                updateTextFields();
 				
 				
                 left.addEventListener('touchstart', (event) => {
@@ -125,10 +133,22 @@
 
 				right.addEventListener('touchstart', (event) => {
 				  event.preventDefault(); // Остановить стандартное поведение браузера
-				  randomizeIndex();
 				  textField2.classList.add('hidden');
 				  updateTextFields();
 				});
+				// Function to shuffle an array randomly
+                function shuffleArray(array) {
+                  let currentIndex = array.length;
+                  let temporaryValue, randomIndex;
+                  while (currentIndex !== 0) {
+                    randomIndex = Math.floor(Math.random() * currentIndex);
+                    currentIndex -= 1;
+                    temporaryValue = array[currentIndex];
+                    array[currentIndex] = array[randomIndex];
+                    array[randomIndex] = temporaryValue;
+                     }
+                return array;
+               }
 			});
 		}
 	</script>
