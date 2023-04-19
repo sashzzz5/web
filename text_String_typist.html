@@ -26,10 +26,11 @@
         box-sizing: border-box;
 		background-color: #FFFFCC;
         border: none;
+		outline: none;
         padding: 1px;
-		margin: 2px 0;
+		margin:  1px 0;
         //text-align: center;
-		padding-left: 690px;
+		padding-left: 650px;
         font-size: 30px;
 		font-weight: bold;
 		align-items: center;
@@ -44,10 +45,11 @@
         box-sizing: border-box;
 		background-color: #FFFFCC;
         border: none;
-        padding: 1px;
-		margin: 2px 0;
+		outline: none;
+		padding: 1px;
+		margin: 1px 0;
         //text-align: center;
-		padding-left: 690px;
+		padding-left: 650px;
         font-size: 30px;
 		font-weight: bold;
 		align-items: center;
@@ -62,10 +64,11 @@
         box-sizing: border-box;
 		background-color: #FFFFCC;
         border: none;
+		outline: none;
         padding: 1px;
-		margin: 2px 0;
+		margin: 1px 0;
         //text-align: center;
-		padding-left: 690px;
+		padding-left: 650px;
         font-size: 30px;
 		font-weight: bold;
 		align-items: center;
@@ -101,7 +104,7 @@
 
    <div id="container">
     <textarea class="text-input" id="text-input"></textarea>
-	<textarea class="text-input-typist" id="text-input-typist" placeholder="Начните печатать в этом поле"></textarea>
+	<textarea class="text-input-typist" id="text-input-typist"></textarea>
 	<textarea class="hidden" id="text-input_rus"></textarea>
    </div>	
 
@@ -121,7 +124,7 @@
 	 const textInputTypist = document.querySelector('#text-input-typist');
 	 textInputTypist.focus();
 	
-	 
+	 //<textarea class="text-input-typist" id="text-input-typist" placeholder="Начните печатать в этом поле"></textarea>
 
 		// Fetch text file
 		if (selectedFile) {
