@@ -1,0 +1,32 @@
+platform#платформа
+glass#стекло, стакан
+accident#случай, авария, проишествие
+beer#пиво
+hammer#молоток
+vegetables#овощи
+key#ключ
+story#рассказ, история
+meat#мясо
+news#новости, сведения
+wood#лес, дерево
+own#собственный
+to help#помогать
+to clean#чистить
+to switch on#включать
+to switch off#выключать
+to sell#продавать
+sold#продавал
+have sold#продал
+to find#находить
+found#находил
+have found#нашел
+to hurt#болеть, приничить боль
+hurt#болело, повредил
+have hurt#заболело, повредилось
+old#старый
+new#новый
+everything#всё
+everybody#все, каждый, всякий
+clean#чистый
+nobody#никто
+nothing#ничего, ничто
