@@ -1,0 +1,32 @@
+clothes#одежда
+button#пуговица
+hat#шляпа
+collar#воротник
+sleeve#рукав
+pocket#карман
+skirt#юбка
+blouse#блузка
+handbag#дамская сумочка
+necklace#ожерелье
+ear-ring#серьга
+jersey#свитер
+out of fashion#немодный
+to change#переодеваться
+soaked#намокший
+worn#поношенный
+woollen#шерстяной
+waterproof#водонепроницаемый, непромокаемый, водоотталкивающий
+latest#последний, самый новый
+since#с (период времени, с ...)
+to wear#иметь на себе, быть одетым, носить
+to fit#подходить, соответствовать
+to zip up#застегивать (на молнию)
+to try on#примерять
+to knit#вязать
+whom#кого, кому, с кем
+worse#хуже
+the worst#самый плохой, наихудший
+less#меньше
+the least#самый маленький
+fewer#меньше
+the fewest#меньше всего
