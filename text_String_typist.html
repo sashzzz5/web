@@ -165,7 +165,7 @@
                 });
 					
 				document.addEventListener("keydown", function(event) {
-				 if (event.code === "ArrowLeft") {
+				 if (event.code === "ArrowDown") {
                   event.preventDefault(); // Остановить стандартное поведение браузера
                   //textInputRus.type = 'text-input_rus'; // Показать поле secondPart
 				  textField2.classList.remove('hidden');
@@ -173,7 +173,7 @@
                 });
 
                 document.addEventListener("keydown", function(event) {
-                if (event.code === "ArrowRight") {
+                if (event.code === "ArrowUp") {
 	              event.preventDefault(); // Остановить стандартное поведение браузера
 				  textField2.classList.add('hidden');
 				  updateTextFields();
