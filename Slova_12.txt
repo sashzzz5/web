@@ -1,0 +1,18 @@
+floor#пол
+carpet#ковер
+curtains#шторы, занавески
+ceiling#потолок
+fireplace#камин
+wall-paper#обои
+ashtray#пепельница
+socket#розетка
+picture#картина
+table-lamp#настольная лампа
+easy chair#кресло
+settee#диван, софа
+a few#несколько (с исч., замена some)
+under#под
+over#над
+by#при, через, по(с чем), (самое позднее) до
+from#с, от, из
+across#по другую сторону, через, поперек
