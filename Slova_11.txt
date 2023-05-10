@@ -1,0 +1,61 @@
+cold#холод, холодный
+sky#небо
+cloud#туча, облако
+fog#туман
+wind#ветер
+heat#жара
+temperature#температура
+weather-forecast#прогноз погоды
+shawl#шаль
+coat#плащ
+boots#ботинки, сапоги
+outside#во дворе, извне, на улице
+foggy#туманный, мглистый
+high#высокий
+sunny#солнечный
+low#низкий
+windy#ветренный
+cloudy#хмурый, облачный
+brought#приносил
+have brought#принес
+ate#ел (кушал)
+have eaten#поел (покушал)
+kept#держал (to keep)
+have kept#сохранил (to keep)
+taught#учил
+have taught#научил
+heard#слышал
+have heard#услышал
+paid#платил
+have paid#заплатил
+stamp#почтовая марка
+ticket#билет
+novel#роман, новелла
+telephone#телефон
+tram#трамвай
+tram stop#трамвайная остановка
+bus stop#автобусная остановка
+flower#цветок
+bank#банк
+calendar#календарь
+secretary#секретарь
+purse#кошелек, сумочка
+next to#рядом, возле
+early#рано, ранний
+late#поздно, поздний
+to get on#входить (в транспорт)
+to get off#слезать, выходить (из транспорта)
+now#сейчас
+sat#сидел
+have sat#посидел
+showed#показывал
+have shown#показал
+bought#покупал
+have bought#купил
+sang#пел
+have sung#спел
+drank#пил
+have drunk#выпил
+forgot#забыл
+have forgotten#не помнит (забыл)
+too late#слишком поздно

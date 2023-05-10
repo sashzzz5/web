@@ -1,0 +1,31 @@
+почтовая марка#stamp
+билет#ticket
+роман, новелла#novel
+телефон#telephone
+трамвай#tram
+трамвайная остановка#tram stop
+автобусная остановка#bus stop
+цветок#flower
+банк#bank
+календарь#calendar
+секретарь#secretary
+кошелек, сумочка#purse
+рядом, возле#next to
+рано, ранний#early
+поздно, поздний#late
+входить (в транспорт)#to get on
+слезать, выходить (из транспорта)#to get off
+сейчас#now
+сидел#sat
+посидел#have sat
+показывал#showed
+показал#have shown
+покупал#bought
+купил#have bought
+пел#sang
+спел#have sung
+пил#drank
+выпил#have drunk
+забыл#forgot
+не помнит (забыл)#have forgotten
+слишком поздно#too late

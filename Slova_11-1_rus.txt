@@ -1,0 +1,30 @@
+холод, холодный#cold
+небо#sky
+туча, облако#cloud
+туман#fog
+ветер#wind
+жара#heat
+температура#temperature
+прогноз погоды#weather-forecast
+шаль#shawl
+плащ#coat
+ботинки, сапоги#boots
+во дворе, извне, на улице#outside
+туманный, мглистый#foggy
+высокий#high
+солнечный#sunny
+низкий#low
+ветренный#windy
+хмурый, облачный#cloudy
+приносил#brought
+принес#have brought
+ел (кушал)#ate
+поел (покушал)#have eaten
+держал (to keep)#kept
+сохранил (to keep)#have kept
+учил#taught
+научил#have taught
+слышал#heard
+услышал#have heard
+платил#paid
+заплатил#have paid
