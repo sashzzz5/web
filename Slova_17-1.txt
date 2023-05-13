@@ -1,0 +1,25 @@
+job#работа
+wages#зарплата, заработок
+raise#подъём, повышение
+labourer#рабочий (неквалифицированный)
+unemployment#безработица
+colleague#коллега
+trade-union#профсоюз
+member#член
+negotiations#переговоры, обсуждение условий
+employee#служащий
+strike#забастовка
+management#дирекция
+to negotiate#вести переговоры
+to raise#поднимать, повышать
+to fire#уволить
+to apply for#обращаться
+to earn#заслужить, заработать
+to reduce#сократить, уменьшить
+contents#содержимое
+oats#овёс
+savings#сбережения
+proceeds#доход (только во мн. числе)
+riches#богатство (только во мн. числе)
+thanks#благодарность (только во мн. числе)
+surroundings#окрестности (только во мн. числе)
