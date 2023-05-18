@@ -31,7 +31,44 @@
     <div style="display: flex; flex-direction: column; margin: 10px 0;">
 
 	
-	<a href="https://www.youtube.com/watch?v=_GqI83aNDYU">*  Чехия</a>
+	<!-- <a href="https://www.youtube.com/watch?v=_GqI83aNDYU">*  Чехия</a>-->
+	
+	
+	<audio id="myAudio" src="/web/Sounds/урок 01.mp3"></audio>
+	<input type="range" id="seekBar" min="0" step="1" value="0" onchange="updateSeekBar()">
+
+
+    <button onclick="toggleAudio()">
+     <span id="playPauseIcon">&#9658;</span>
+    </button>
+
+    <script>
+      var audio = document.getElementById("myAudio");
+      var playPauseButton = document.getElementById("playPauseIcon");
+	  var seekBar = document.getElementById("seekBar");
+
+    function toggleAudio() {
+       if (audio.paused) {
+        audio.play();
+        playPauseButton.innerHTML = "&#10074;&#10074;"; // Значок паузы
+       } else {
+        audio.pause();
+        playPauseButton.innerHTML = "&#9658;"; // Значок воспроизведения
+      }
+    }
+	
+	 function updateSeekBar() {
+    var seekBarValue = parseInt(seekBar.value);
+    audio.currentTime = seekBarValue;
+  }
+
+  audio.addEventListener("timeupdate", function() {
+    seekBar.value = audio.currentTime;
+  });
+	
+</script>
+
+
 	
 
   </div>	
