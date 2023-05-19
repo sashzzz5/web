@@ -324,29 +324,26 @@
   <script>
     // JavaScript для управления аудио
 
-    var currentlyPlayingAudio = null;
-	     
-    function playAudio(audioId) {
-      if (currentlyPlayingAudio !== null) {
-        currentlyPlayingAudio.pause();
-      }
+var currentlyPlayingAudio = null;
 
-      var audioElement = document.getElementById('audio-' + audioId);
+function playAudio(audioId) {
+  var audioElement = document.getElementById('audio-' + audioId);
+  
+  if (currentlyPlayingAudio === audioElement) {
+    if (audioElement.paused) {
       audioElement.play();
-      currentlyPlayingAudio = audioElement;
+    } else {
+      audioElement.pause();
+    }
+  } else {
+    if (currentlyPlayingAudio !== null) {
+      currentlyPlayingAudio.pause();
     }
 
-    document.body.onkeyup = function (e) {
-      // Пробел (код 32) используется для паузы
-      if (e.keyCode === 32 && currentlyPlayingAudio !== null) {
-	   e.preventDefault(); // Предотвращаем действие по умолчанию (прокрутку страницы)
-        if (currentlyPlayingAudio.paused) {
-		 currentlyPlayingAudio.play();
-        } else {
-		 currentlyPlayingAudio.pause();
-        }
-      }
-    };
+    audioElement.play();
+    currentlyPlayingAudio = audioElement;
+  }
+}
   </script>
 </body>
 </html>
