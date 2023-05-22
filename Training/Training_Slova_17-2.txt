@@ -734,3 +734,65 @@ less#меньше
 the least#самый маленький
 fewer#меньше
 the fewest#меньше всего
+job#работа
+wages#зарплата, заработок
+raise#подъём, повышение
+labourer#рабочий (неквалифицированный)
+unemployment#безработица
+colleague#коллега
+trade-union#профсоюз
+member#член
+negotiations#переговоры, обсуждение условий
+employee#служащий
+strike#забастовка
+management#дирекция
+to negotiate#вести переговоры
+to raise#поднимать, повышать
+to fire#уволить
+to apply for#обращаться
+to earn#заслужить, заработать
+to reduce#сократить, уменьшить
+contents#содержимое
+oats#овёс
+savings#сбережения
+proceeds#доход (только во мн. числе)
+riches#богатство (только во мн. числе)
+thanks#благодарность (только во мн. числе)
+surroundings#окрестности (только во мн. числе)
+trolley#тележка для покупок
+customer#клиент, покупатель
+shop-assistant#продавец
+receipt#квитанция
+shopping-list#список покупок
+cash-desk#касса
+shop-window#витрина
+exit#выход
+bargain#выгодная, дешевая покупка, сделка
+discount#скидка
+sales#распродажа
+shopping-bag#сумка для покупок
+newer#новее
+the newest#новейший
+same#тот самый, такоей же
+important#важный
+satisfied#довольный
+hardly#едва, лишь
+true#настоящий
+even#даже
+how much#сколько, как много
+How much is?#Сколько стоит … ?
+cash#наличные
+unskilled#неквалифицированный
+hardly any#едва ли
+hardly ever#едва ли когда-нибудь, редко
+useful#полезный, пригодный
+quickly#быстро (как?)
+quite#довольно (как?)
+to serve#служить, обслуживать
+to wrap up#паковать
+to deliver#доставлять
+to stock#иметь в наличии (напр.: на складе)
+to start#начинать, стартовать
+to support#поддерживать
+somebody#кто-то, кто-нибудь
+anybody#кто-то, кто-нибудь (в отрицат. Или вопрос. предлож.)
