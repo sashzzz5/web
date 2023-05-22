@@ -1,0 +1,37 @@
+тележка для покупок#trolley
+клиент, покупатель#customer
+продавец#shop-assistant
+квитанция#receipt
+список покупок#shopping-list
+касса#cash-desk
+витрина#shop-window
+выход#exit
+выгодная, дешевая покупка, сделка#bargain
+скидка#discount
+распродажа#sales
+сумка для покупок#shopping-bag
+новее#newer
+новейший#the newest
+тот самый, такоей же#same
+важный#important
+довольный#satisfied
+едва, лишь#hardly
+настоящий#true
+даже#even
+сколько, как много#how much
+Сколько стоит … ?#How much is?
+наличные#cash
+неквалифицированный#unskilled
+едва ли#hardly any
+едва ли когда-нибудь, редко#hardly ever
+полезный, пригодный#useful
+быстро (как?)#quickly
+довольно (как?)#quite
+служить, обслуживать#to serve
+паковать#to wrap up
+доставлять#to deliver
+иметь в наличии (напр.: на складе)#to stock
+начинать, стартовать#to start
+поддерживать#to support
+кто-то, кто-нибудь#somebody
+кто-то, кто-нибудь (в отрицат. Или вопрос. предлож.)#anybody
