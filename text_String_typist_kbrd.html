@@ -106,7 +106,7 @@
         img {
 	  	  display: flex;
 		  position: fixed;
-          top: 0;
+          top: 70px;
 		  left: 500px;
 		  opacity: 50%;
         }
@@ -148,6 +148,7 @@
 	 const textInputRus = document.querySelector('#text-input_rus');
 	 const textInputTypist = document.querySelector('#text-input-typist');
 	 textInputTypist.focus();
+	 let enterPressed = false;
 	 let enterKbrd = false;
 	
 	 //<textarea class="text-input-typist" id="text-input-typist" placeholder="Начните печатать в этом поле"></textarea>
@@ -181,16 +182,36 @@
 
                 updateTextFields();
 				
-			
 
-
-                textInputTypist.addEventListener('keyup', (event) => {
-                 if (event.key === 'Enter') { // Проверяем, была ли нажата клавиша Enter
+                textInputTypist.addEventListener("keydown", function(event) {
+                 if (event.code === "Enter") { // Проверяем, была ли нажата клавиша Enter
+				   event.preventDefault(); // Остановить стандартное поведение браузера
+					if (!enterPressed) {
+                      event.preventDefault(); // Остановить стандартное поведение браузера
+                      textField2.classList.remove('hidden');
+					//console.log("Enter pressed for the first time.");
+					textInputTypist.focus(); // Устанавливаем фокус на поле для ввода текста
+					enterPressed = true;
+				} else {
+				  event.preventDefault(); // Остановить стандартное поведение браузера
                   updateTextFields(); // Загружаем следующую строку
                   textInputTypist.value = ''; // Очищаем поле для ввода текста
                   textInputTypist.focus(); // Устанавливаем фокус на поле для ввода текста
-                  }
-                });
+					//console.log("Enter pressed for the second time.");
+					//console.log("Test completed.");
+					enterPressed = false;
+				  }
+				 }
+                });			
+
+
+               <!-- textInputTypist.addEventListener('keyup', (event) => {
+                <!--  if (event.key === 'Enter') { // Проверяем, была ли нажата клавиша Enter
+                 <!--  updateTextFields(); // Загружаем следующую строку
+                 <!--  textInputTypist.value = ''; // Очищаем поле для ввода текста
+                 <!--  textInputTypist.focus(); // Устанавливаем фокус на поле для ввода текста
+                 <!--  }
+                <!-- }); -->
 					
 				document.addEventListener("keydown", function(event) {
 				 if (event.code === "ArrowDown") {
