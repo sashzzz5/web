@@ -103,6 +103,14 @@
         }
 
 
+        img {
+	  	  display: flex;
+		  position: fixed;
+          top: 0;
+		  left: 500px;
+		  opacity: 50%;
+        }
+	
 	
    
 	
@@ -112,6 +120,8 @@
 	
 	 <!--  -->
 	 
+	<img src="/web/klava.jpg" alt="klava"  id="img-klava"> 
+	
     <div id="left" style="left"></div>
     <div id="right" style="right"></div>
 
@@ -138,6 +148,7 @@
 	 const textInputRus = document.querySelector('#text-input_rus');
 	 const textInputTypist = document.querySelector('#text-input-typist');
 	 textInputTypist.focus();
+	 let enterKbrd = false;
 	
 	 //<textarea class="text-input-typist" id="text-input-typist" placeholder="Начните печатать в этом поле"></textarea>
 
@@ -153,7 +164,7 @@
 				
 				const textField1 = document.getElementById('text-input');
 				const textField2 = document.getElementById('text-input_rus');
-			
+				const imgklava = document.getElementById('img-klava');
 				
                 const updateTextFields = () => { // Function to update text fields
                   if (currentIndex >= shuffledLines.length) { // Check if all lines have been displayed
@@ -164,6 +175,7 @@
                   textField1.value = firstPart;
                   textField2.value = secondPart;
                   textField2.classList.add('hidden');
+				  <!-- imgklava.classList.remove('hidden'); -->
 				  currentIndex++;
                 }
 
@@ -203,10 +215,36 @@
 	            }
 	  			});
 								
-						
+				
+				
+				
+				document.addEventListener("keydown", function(event) {
+                 if (event.ctrlKey && ['`','`'].includes(event.key) ) { // Проверяем, была ли нажата клавиша комбинация отключающая img клавиатуры
+				   event.preventDefault(); // Остановить стандартное поведение браузера
+					if (!enterKbrd) {
+                      event.preventDefault(); // Остановить стандартное поведение браузера
+                      console.log('выключить клаву');
+				      imgklava.classList.add('hidden');
+					  enterKbrd = true;
+				    } else {
+				     event.preventDefault(); // Остановить стандартное поведение браузера
+                      console.log('включить клаву');
+				      imgklava.classList.remove('hidden');
+					  enterKbrd = false;
+				    }
+				   }
+                });
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
 			
-				
-				
 				
 				// Function to shuffle an array randomly
                 function shuffleArray(array) {
