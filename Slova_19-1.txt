@@ -1,0 +1,80 @@
+gale#шторм, ураганный ветер
+hail#град
+shower#ливень
+ice#лёд, мороженое
+shade#тень
+dew#роса
+thunderstorm#гроза
+umbrella#зонт
+road#дорога
+hurricane#ураган
+thaw#оттепель
+sunny spells#солнечный период
+thirteen#13     (тринадцать)
+fourteen#14     (четырнадцать)
+fifteen#15     (пятнадцать)
+sixteen#16     (шестнадцать)
+seventeen#17     (семнадцать)
+eighteen#18     (восемнадцать)
+nineteen#19     (девятнадцать)
+twenty#20     (двадцать)
+twenty-one#21     (двадцать один)
+twenty-two#22     (двадцать два)
+twenty-three#23     (двадцать три)
+twenty-four#24     (двадцать четыре)
+twenty-five#25     (двадцать пять)
+twenty-six#26     (двадцать шесть)
+twenty-seven#27     (двадцать семь)
+twenty-eight#28     (двадцать восемь)
+twenty-nine#29     (двадцать девять)
+thirty#30     (тридцать)
+forty#40     (сорок)
+fifty#50     (пятьдесят)
+sixty#60     (шестьдесят)
+seventy#70     (семьдесят)
+eighty#80     (восемьдесят)
+ninety#90     (девяносто)
+one hundred#100   (сто)
+slippery#скользкий
+severe#строгий, суровый
+changeable#изменчивый
+dense#густой
+oppressive#душный, тяжелый
+dangerous#опасный
+first#первый
+second#второй
+third#третий
+fourth#четвертый
+fifth#пятый
+sixth#шестой
+seventh#седьмой
+eighth#восьмой
+ninth#девятый
+tenth#десятый
+eleventh#одиннадцатый
+twelfth#двенадцатый
+thirteenth#тринадцатый
+fourteenth#четырнадцатый
+fifteenth#пятнадцатый
+sixteenth#шестнадцатый
+seventeenth#семнадцатый
+eighteenth#восемнадцатый
+nineteenth#девятнадцатый
+twentieth#двадцатый
+twenty-first#двадцать первый
+twenty-second#двадцать второй
+twenty-third#двадцать третий
+thirtieth#тридцатый
+fortieth#сороковой
+fiftieth#пятидесятый
+sixtieth#шестидесятый
+seventieth#семидесятый
+eightieth#восмидесятый
+ninetieth#девяностый
+to need#нуждаться
+to melt#таять
+to drizzle#моросить
+to drop#ронять, падать
+to blow#дуть
+to freeze#заморозить, замерзать
+to set in#начинаться (фразовый глагол)
