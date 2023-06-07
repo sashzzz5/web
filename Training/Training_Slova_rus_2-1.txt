@@ -1,0 +1,99 @@
+торговая улица#shopping street
+покупки#shopping
+магазин#shop
+улица#street
+железнодорожная станция#railway station
+железная дорога#railway
+поезд#train
+станция#station
+церковная башня#church tower
+церковь#church
+башня#tower
+уличная дверь#street door
+дверь#door
+дом#house
+артикль a и an#a an
+артикль the#the
+видеть#to see
+посещать#to visit
+открывать#to open
+входить#to enter
+Я#I
+ты или вы#you
+он#he
+она#she
+оно#it
+мы#we
+они#they
+и#and
+вход#entrance
+машина, автомобиль#car
+автобус#bus
+женщина#woman
+тротуар#sidewalk
+дом, здание#building
+квартира#the apartment
+мальчик#boy
+идти пешком#to walk
+идти, ходить, перемещаться#to go
+иметь#to have
+не иметь (вообще)#to have no
+смотреть#to look
+водить (авто), ехать (на авто)#to drive
+идти в, к...#to go to
+идти пешком, ходить к...#to walk to
+быть должным#to have to
+смотреть на...#to look at
+чем?#by
+ехать поездом#to go by train
+ехать автобусом#to go by bus
+ехать машиной#to go by car
+не один#no
+итак, поэтому#so
+позже, потом, затем#then
+гостиница#hotel
+комната#room
+окно#window
+ресторан#restaurant
+уличное движение#traffic
+велосипед#bicycle
+школа#school
+фабрика#factory
+офис, бюро, учреждение#office
+там, туда#there
+там есть...#there is
+в#in
+также, тоже (=и)#also
+возле, рядом#near
+не#not
+часто#often
+он есть#he is
+она есть#she is
+работать#to work
+получать#to get
+знать#to know
+ждать#to wait
+говорить#to speak
+любить, нравиться#to like
+работать в, на...#to work at in
+ждать кого-либо#to wait for
+говорить с кем-либо#to speak to
+любить (что-то делать)#to like to
+быть#to be
+(я) есть#am
+(он, она, оно) есть#is
+(ты, вы, они) есть#are
+прогулка#a walk
+работа#the work
+шофер, водитель#the driver
+речь#a speech
+утро#morning
+вечер#evening
+красный#red
+белый#white
+хороший#good
+плохой, нехороший#bad
+пять#five
+два#two
+(когда?) вечером#in the evening
+(когда?) утром#in the morning

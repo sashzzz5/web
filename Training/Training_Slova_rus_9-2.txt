@@ -1,0 +1,448 @@
+торговая улица#shopping street
+покупки#shopping
+магазин#shop
+улица#street
+железнодорожная станция#railway station
+железная дорога#railway
+поезд#train
+станция#station
+церковная башня#church tower
+церковь#church
+башня#tower
+уличная дверь#street door
+дверь#door
+дом#house
+артикль a и an#a an
+артикль the#the
+видеть#to see
+посещать#to visit
+открывать#to open
+входить#to enter
+Я#I
+ты или вы#you
+он#he
+она#she
+оно#it
+мы#we
+они#they
+и#and
+вход#entrance
+машина, автомобиль#car
+автобус#bus
+женщина#woman
+тротуар#sidewalk
+дом, здание#building
+квартира#the apartment
+мальчик#boy
+идти пешком#to walk
+идти, ходить, перемещаться#to go
+иметь#to have
+не иметь (вообще)#to have no
+смотреть#to look
+водить (авто), ехать (на авто)#to drive
+идти в, к...#to go to
+идти пешком, ходить к...#to walk to
+быть должным#to have to
+смотреть на...#to look at
+чем?#by
+ехать поездом#to go by train
+ехать автобусом#to go by bus
+ехать машиной#to go by car
+не один#no
+итак, поэтому#so
+позже, потом, затем#then
+гостиница#hotel
+комната#room
+окно#window
+ресторан#restaurant
+уличное движение#traffic
+велосипед#bicycle
+школа#school
+фабрика#factory
+офис, бюро, учреждение#office
+там, туда#there
+там есть...#there is
+в#in
+также, тоже (=и)#also
+возле, рядом#near
+не#not
+часто#often
+он есть#he is
+она есть#she is
+работать#to work
+получать#to get
+знать#to know
+ждать#to wait
+говорить#to speak
+любить, нравиться#to like
+работать в, на...#to work at in
+ждать кого-либо#to wait for
+говорить с кем-либо#to speak to
+любить (что-то делать)#to like to
+быть#to be
+(я) есть#am
+(он, она, оно) есть#is
+(ты, вы, они) есть#are
+прогулка#a walk
+работа#the work
+шофер, водитель#the driver
+речь#a speech
+утро#morning
+вечер#evening
+красный#red
+белый#white
+хороший#good
+плохой, нехороший#bad
+пять#five
+два#two
+(когда?) вечером#in the evening
+(когда?) утром#in the morning
+страна#country
+город#town
+стол#table
+часы#clock
+день#day
+девушка#girl
+время#time
+полдень (12 часов)#afternoon
+после полудня (днем)#in the afternoon
+мать#mother
+предлог for#for
+целый (весь) день#for a day
+идти на прогулку#to go for a walk
+искать#to look for
+приятный, милый, красивый#nice
+крупный, большой#big
+первый#first
+какой-то, немного, несколько#some
+там#there
+быть, находиться, являться#to be
+Я есть#I am I'm
+Ты есть Вы есть#you are you're
+Он, она, оно есть#he she it is he's she's it's
+Мы есть#we are we're
+Они есть#they are they're
+спрашивать, просить#to ask
+жить, проживать#to live
+хотеть#to want
+думать#to think
+через, по, сквозь; насквозь, от начала до конца#through
+за, позади, после#behind
+делать#to do
+Я иду#I go
+Я делаю#I do
+Мы идем#we go
+Мы делаем#we do
+Он идет#he goes
+Он делает#he does
+Она идет#she goes
+Она делает#she does
+где, куда#where
+его#his
+его велосипед#his bicycle
+его дом#his house
+его стол#his table
+его башня#his tower
+её#her
+её комната#her room
+её страна#her country
+её город#her town
+её речь#her speech
+её квартира#her apartment
+не (есть)#is not isn't
+не (есть) (2-лицо или множественное)#are not aren't
+не иметься#have not haven't
+не имеет#has not hasn't
+не делается#do not don't
+не делает#does not doesn't
+один#one
+четыре#four
+семь#seven
+зеленый#green
+голубой#blue
+короткий#short
+длинный#long
+час#an hour
+минута#a minute
+(этот) отец#the father
+(этот) стул#the chair
+сегодня#today
+шесть часов#six o'clock
+второй#the second
+(эта) площадь#the square
+статуя#a statue
+три#three
+шесть#six
+восемь#eight
+девять#nine
+десять#ten
+половина#half
+после#past
+полчаса#half an hour
+половина второго#half past one
+глагол будущего времени#shall 'll
+глагол будущего времени#will 'll
+полчаса (ждать)#(to wait) for half an hour
+в шесть часов (посетить)#(to visit) at six o'clock
+через полчаса (идти)#(to go) in half an hour
+десять минут седьмого#ten minutes past six
+половина четвертого#half past three
+внуть, в середину#into
+входить в…#to go into
+входить (пешком) в….#to walk into
+этот, эта, это#this
+тот, та, то#that
+эти#these
+те#those
+дом (семейный очаг)#home
+предлог в, на, по#at
+благодарить за…#to thank for
+писать кому-то#to write to
+брать#to take
+давать кому-то#to give to
+принимать за кого-либо#to take for
+(это) письмо#the letter
+(эта) книга#the book
+(этот) почтамт#the post-office
+(эта) ручка#the pen
+(эта) кухня#the kitchen
+в понедельник#on Monday
+неделя#the week
+(этот) мужчина#the man
+(этот) сын#the son
+да#yes
+третий#the third
+Я есть (Я "быть")#I am
+Я был#I was
+говорить (кому-то)#to talk to
+разговаривать (с), беседовать (с)#to talk with
+читать#to read
+приходить, прибывать#to come
+любить#to love
+понимать#to understand
+наш (наша, наше)#our
+их#their
+ваш (ваша, ваше)#your
+твой (твоя, твое)#your
+правильный, правдивый, правый#right
+Хорошо! Пусть будет так!#All right!
+направо#to the right
+Я прав?#Am I right?
+Россия#Russia
+Англия#England
+русская машина#a russian car
+английский велосипед#an English bicycle
+здесь#here
+маленький, мало#little
+никогда#never
+всегда#always
+двадцать#twenty
+глаз#an eye
+рот#a mouth
+воскресенье#Sunday
+пятница#Friday
+дочь#a daughter
+ребенок, младенец#a baby
+месяц#a month
+завтра#tomorrow
+письменный стол#a desk
+кровать#a bed
+кто#who
+что, какой#what
+из, из середины#out of
+летать#to fly
+приносить#to bring
+улыбаться#to smile
+есть (кушать)#to eat
+с (предлог)#with
+пожалуйста#please
+одинадцать#eleven
+двенадцать#twelve
+самолет#a plane, an aeroplane
+часовня#a chapel
+имя#a name
+спальня#a bedroom
+сестра#sister
+рука#hand
+деньги#money
+вопрос#question
+способ, дорога#way
+костюм#suit
+сад#garden
+рыба, рыбы#fish
+вчера#yesterday
+вторник#Tuesday
+среда#Wednesday
+животное#animal
+в среду#on Wednesday
+быть (наст.заверш.время)#have been
+временами, иногда, неоднократно#sometimes
+много (с исчисл.существ.)#many
+много (с неисчисл.существ)#much
+держать#to keep
+платить#to pay
+слышать#to hear
+пробовать, пытаться#to try
+вместе#together
+больше чем#more than
+дешевый#cheap
+дорогой#expensive
+быть (ед.ч простое.прошедш.время)#was
+быть (мн.ч простое.прошедш.время)#were
+1 лицо вспомог.глагол простое будущ.время#shall
+все кроме 1 лица вспомог.глагол простое будущ.время#will
+бы (всп.глагол условное накл)#should
+сделовало бы (всп.глагол условное накл)#would
+собака#dog
+брат#brother
+друг#friend
+конь, лошадь#horse
+корабль#ship
+сигарета#cigarette
+четвертый#fourth
+год#year
+нога (стопа); ноги#foot feet
+радио#radio
+песня#song
+музыка#music
+семья#family
+чашка кофе#a cup of coffee
+много машин#a lot of cars
+кусок бумаги#a piece of paper
+город Париж#the town of Paris
+месяц март#the month of March
+некоторые из моих друзей#some of my friends
+чашка#cup
+кофе#coffee
+много#a lot
+кусок, обрывок#piece
+бумага#paper
+март#March
+меньше, чем#less than
+вокруг#around
+быстро#fast
+легко#easy
+о#about
+Что слышно…? Как насчет…?#What about ...?
+сидеть#to sit
+курить#to smoke
+волноваться, беспокоиться#to worry
+показывать, демонстрировать#to show
+покупать#to buy
+петь#to sing
+мочь, уметь#can
+почему#why
+который, какой#which
+хороший (нач.форма)#good
+лучше (сравн.степень)#better
+наилучший, самый лучший (превосх. степень)#the best
+бедный#poor
+богатый#rich
+давно#long ago
+кот#cat
+сегодня вечером#tonight
+прошлым вечером (вчера вечером)#last night
+пить#to drink
+лето#summer
+парк#park
+дерево#tree
+суббота#Saturday
+яблоко#apple
+чай#tea
+вода#water
+я видел#I saw
+я знал#I knew
+высокий#tall
+большой по площади#large
+большой по объему, большой по размеру#big
+большой, замечательный, отличный, классный#great
+не мочь, не быть в состоянии#cannot
+забывать, забыть#to forget
+прекратить, остановить(ся)#to stop
+слушать#to listen
+без#without
+что-то, кое-что#something
+слишком#too
+когда-то, когда-нибудь#ever
+навсегда, без конца#forever
+между#between
+или (при выборе)#or
+Спокойной ночи!#Good night!
+люди, народ#people
+восток / запад#East West
+дата#date
+август#August
+декабрь#December
+зима#winter
+нога, лапа#leg
+туфля, ботинок#shoe
+парикмахер#barber
+волосы#hair
+солнце#sun
+погода#weather
+снег#snow
+один мужчина#one man
+пятеро мужчин#five men
+эта женщина#this woman
+те женщины#those women
+тридцать#thirty
+сорок#forty
+пятьдесят#fifty
+шестьдесят#sixty
+семьдесят#seventy
+восемьдесят#eighty
+девяносто#ninety
+коричневый#brown
+черный#black
+другой, еще один#else
+что еще#what else
+почти#almost
+трудный#difficult
+скоро, вскоре#soon
+все#all
+помещать, ставить, класть#to put
+делать, творить#to make
+резать, отделять#to cut
+падать (только о дожде)#to rain
+светить#to shine
+должен, нужно, надо#must
+хлеб#bread
+четверть#quarter
+муж#husband
+книжный шкаф#bookcase
+лампа#lamp
+растение, завод#plant
+галстук#tie
+столовая#dining-room
+завтрак#breakfast
+родители#parents
+рубашка#shirt
+больница#hospital
+обед#dinner
+парковать (машину)#to park
+вставать (просыпаться)#to get up
+надевать на себя#to put on
+оставаться, пребывать#to stay
+завтракать#to have breakfast
+впереди, перед#in front of
+напротив#opposite
+после#after
+еще (все еще)#still
+когда, если#when
+вниз (по лестнице)#downstairs
+Луна, месяц#moon Moon
+птица#bird
+подвал#cellar
+угол#corner
+телевизор#television set
+ребенок#child
+вещь#thing
+кинотеатр#cinema
+гараж, сарай#shed
+носок#sock
+жилая комната, гостиная#living-room
+сиденье, место для сиденья#seat
+последний, прошлый#last
+каждый#every
+снова, опять еще раз#again
+перед, раньше, до#before
