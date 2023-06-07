@@ -1,0 +1,28 @@
+to see the train#видеть (этот) поезд
+to visit the station#посещать (эту) станцию
+to enter the house#войти в (этот) дом
+to open the door#открыть (эту) дверь
+to enter a shop#войти в магазин
+to see the street#видеть (эту) улицу
+to open the door#открыть (эту) дверь
+to visit a tower#посетить башню
+to enter a church#войти в церковь
+to open a door#открыть дверь
+to see the tower#видеть (эту) башню
+to visit the shop#посещать (этот) магазин
+to enter the station#войти в (эту) станцию
+to see a house#видеть дом
+to see the street#видеть (эту) улицу
+I enter the church.#Я вхожу в (эту) церковь.
+They visit the tower.#Они посещают (эту) башню.
+We see the train.#Мы видим (этот) поезд.
+You open the door.#Ты открываешь (эту) дверь.
+We see the tower.#Мы видим (эту) башню.
+I enter a shop.#Я вхожу в магазин.
+You see the station.#Ты видишь (эту) станцию.
+They visit a church.#Они посещают церковь.
+I open the door.#Я открываю (эту) дверь.
+You visit the house.#Ты посещаешь (этот) дом.
+They see the street.#Они видят (эту) улицу.
+We enter the railway station and I see the train.#Мы входим на (эту) железнодорожную станцию, и я вижу (этот) поезд.
+You open the door and I enter the house.#Ты открываешь (эту дверь, и я вхожу в (этот) дом.
