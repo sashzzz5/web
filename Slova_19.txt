@@ -1,0 +1,121 @@
+gale#шторм, ураганный ветер
+hail#град
+shower#ливень
+ice#лёд, мороженое
+shade#тень
+dew#роса
+thunderstorm#гроза
+umbrella#зонт
+road#дорога
+hurricane#ураган
+thaw#оттепель
+sunny spells#солнечный период
+thirteen#13     (тринадцать)
+fourteen#14     (четырнадцать)
+fifteen#15     (пятнадцать)
+sixteen#16     (шестнадцать)
+seventeen#17     (семнадцать)
+eighteen#18     (восемнадцать)
+nineteen#19     (девятнадцать)
+twenty#20     (двадцать)
+twenty-one#21     (двадцать один)
+twenty-two#22     (двадцать два)
+twenty-three#23     (двадцать три)
+twenty-four#24     (двадцать четыре)
+twenty-five#25     (двадцать пять)
+twenty-six#26     (двадцать шесть)
+twenty-seven#27     (двадцать семь)
+twenty-eight#28     (двадцать восемь)
+twenty-nine#29     (двадцать девять)
+thirty#30     (тридцать)
+forty#40     (сорок)
+fifty#50     (пятьдесят)
+sixty#60     (шестьдесят)
+seventy#70     (семьдесят)
+eighty#80     (восемьдесят)
+ninety#90     (девяносто)
+one hundred#100   (сто)
+slippery#скользкий
+severe#строгий, суровый
+changeable#изменчивый
+dense#густой
+oppressive#душный, тяжелый
+dangerous#опасный
+first#первый
+second#второй
+third#третий
+fourth#четвертый
+fifth#пятый
+sixth#шестой
+seventh#седьмой
+eighth#восьмой
+ninth#девятый
+tenth#десятый
+eleventh#одиннадцатый
+twelfth#двенадцатый
+thirteenth#тринадцатый
+fourteenth#четырнадцатый
+fifteenth#пятнадцатый
+sixteenth#шестнадцатый
+seventeenth#семнадцатый
+eighteenth#восемнадцатый
+nineteenth#девятнадцатый
+twentieth#двадцатый
+twenty-first#двадцать первый
+twenty-second#двадцать второй
+twenty-third#двадцать третий
+thirtieth#тридцатый
+fortieth#сороковой
+fiftieth#пятидесятый
+sixtieth#шестидесятый
+seventieth#семидесятый
+eightieth#восмидесятый
+ninetieth#девяностый
+to need#нуждаться
+to melt#таять
+to drizzle#моросить
+to drop#ронять, падать
+to blow#дуть
+to freeze#заморозить, замерзать
+to set in#начинаться (фразовый глагол)
+double bed#двуспальная кровать
+sheet#простыня
+blanket#одеяло
+pillow#подушка
+bedspread#покрывало
+alarm clock#будильник
+wardrobe#платяной шкаф
+rug#коврик
+dressing-gown#халат
+single bed#односпальная кровать
+dream#сон
+nightmare#кошмарный сон
+to kill#убить
+to drown#тонуть
+to wreck#разрушать
+to burn#гореть
+to be killed#умереть, погибнуть
+to be drowned#утонуть
+to be wrecked#потерпеть катастрофу
+to be blown down#быть поваленным
+to be blown out#быть задутым, погашенным
+to be burnt down#быть сожжённым
+sleepy#сонный, спящий
+quiet#тихий, спокойный
+unpleasant#неприятный
+noisy#громкий, шумный
+dirty#грязный
+modern#современный
+trousers#брюки
+spectacles#очки
+scissors#ножницы
+binoculars#бинокль
+glasses#очки, стёкла очков
+pair#пара (по количеству штук)
+pair of#парные предметы в одном (очки, брюки и т.д.)
+to shave#бриться
+to undress#раздеваться
+to get#(фразовый гл.) становиться делаться
+to wake#будить, проснуться
+to snore#храпеть
+to dream#сниться

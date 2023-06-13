@@ -1,0 +1,41 @@
+double bed#двуспальная кровать
+sheet#простыня
+blanket#одеяло
+pillow#подушка
+bedspread#покрывало
+alarm clock#будильник
+wardrobe#платяной шкаф
+rug#коврик
+dressing-gown#халат
+single bed#односпальная кровать
+dream#сон
+nightmare#кошмарный сон
+to kill#убить
+to drown#тонуть
+to wreck#разрушать
+to burn#гореть
+to be killed#умереть, погибнуть
+to be drowned#утонуть
+to be wrecked#потерпеть катастрофу
+to be blown down#быть поваленным
+to be blown out#быть задутым, погашенным
+to be burnt down#быть сожжённым
+sleepy#сонный, спящий
+quiet#тихий, спокойный
+unpleasant#неприятный
+noisy#громкий, шумный
+dirty#грязный
+modern#современный
+trousers#брюки
+spectacles#очки
+scissors#ножницы
+binoculars#бинокль
+glasses#очки, стёкла очков
+pair#пара (по количеству штук)
+pair of#парные предметы в одном (очки, брюки и т.д.)
+to shave#бриться
+to undress#раздеваться
+to get#(фразовый гл.) становиться делаться
+to wake#будить, проснуться
+to snore#храпеть
+to dream#сниться
