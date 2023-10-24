@@ -1,0 +1,251 @@
+job#работа
+wages#зарплата, заработок
+raise#подъём, повышение
+labourer#рабочий (неквалифицированный)
+unemployment#безработица
+colleague#коллега
+trade-union#профсоюз
+member#член
+negotiations#переговоры, обсуждение условий
+employee#служащий
+strike#забастовка
+management#дирекция
+to negotiate#вести переговоры
+to raise#поднимать, повышать
+to fire#уволить
+to apply for#обращаться
+to earn#заслужить, заработать
+to reduce#сократить, уменьшить
+contents#содержимое
+oats#овёс
+savings#сбережения
+proceeds#доход (только во мн. числе)
+riches#богатство (только во мн. числе)
+thanks#благодарность (только во мн. числе)
+surroundings#окрестности (только во мн. числе)
+trolley#тележка для покупок
+customer#клиент, покупатель
+shop-assistant#продавец
+receipt#квитанция
+shopping-list#список покупок
+cash-desk#касса
+shop-window#витрина
+exit#выход
+bargain#выгодная, дешевая покупка, сделка
+discount#скидка
+sales#распродажа
+shopping-bag#сумка для покупок
+newer#новее
+the newest#новейший
+same#тот самый, такоей же
+important#важный
+satisfied#довольный
+hardly#едва, лишь
+true#настоящий
+even#даже
+how much#сколько, как много
+How much is?#Сколько стоит … ?
+cash#наличные
+unskilled#неквалифицированный
+hardly any#едва ли
+hardly ever#едва ли когда-нибудь, редко
+useful#полезный, пригодный
+quickly#быстро (как?)
+quite#довольно (как?)
+to serve#служить, обслуживать
+to wrap up#паковать
+to deliver#доставлять
+to stock#иметь в наличии (напр.: на складе)
+to start#начинать, стартовать
+to support#поддерживать
+somebody#кто-то, кто-нибудь
+anybody#кто-то, кто-нибудь (в отрицат. Или вопрос. предлож.)
+towel#полотенце
+bucket#ведро
+fridge#холодильник
+mop#швабра
+sink#раковина
+tile#кафель (одна плитка)
+gas-cooker#газовая плита
+tap#кран
+cupboard#буфет, шкаф для посуды
+rubbish-bin#корзина для мусора
+saucepan#кастрюля
+oven#духовка
+wire#проволока, провод
+insulated#изолированный
+to let#сдавать внаём
+for sale#на продажу
+usually#обычно
+out of order#испорченный
+greasy#жирный (сальный)
+somewhere#где-то (в утверд.предлож.)
+anywhere#где-нибудь, куда-нибудь, никуда
+nowhere#нигде, никуда
+to mop#вытирать
+to iron#гладить
+to dust#вытирать пыль
+to peel#(по)чистить (фрукты, овощи)
+to empty#опорожнять, опустошать, вытряхивать
+to turn off#выключать, закручивать (кран)
+to turn on#включать, откручивать (кран)
+clearly#ясно (нареч.)
+far#далеко (нареч.)
+well#хорошо (нареч.)
+to offer#предлагать, пытаться, жертвовать
+to permit#позволять (более официально)
+to promise#обещать
+to refuse#отказывать, отвергать
+to allow#позволять (менее официально)
+gale#шторм, ураганный ветер
+hail#град
+shower#ливень
+ice#лёд, мороженое
+shade#тень
+dew#роса
+thunderstorm#гроза
+umbrella#зонт
+road#дорога
+hurricane#ураган
+thaw#оттепель
+sunny spells#солнечный период
+thirteen#13     (тринадцать)
+fourteen#14     (четырнадцать)
+fifteen#15     (пятнадцать)
+sixteen#16     (шестнадцать)
+seventeen#17     (семнадцать)
+eighteen#18     (восемнадцать)
+nineteen#19     (девятнадцать)
+twenty#20     (двадцать)
+twenty-one#21     (двадцать один)
+twenty-two#22     (двадцать два)
+twenty-three#23     (двадцать три)
+twenty-four#24     (двадцать четыре)
+twenty-five#25     (двадцать пять)
+twenty-six#26     (двадцать шесть)
+twenty-seven#27     (двадцать семь)
+twenty-eight#28     (двадцать восемь)
+twenty-nine#29     (двадцать девять)
+thirty#30     (тридцать)
+forty#40     (сорок)
+fifty#50     (пятьдесят)
+sixty#60     (шестьдесят)
+seventy#70     (семьдесят)
+eighty#80     (восемьдесят)
+ninety#90     (девяносто)
+one hundred#100   (сто)
+slippery#скользкий
+severe#строгий, суровый
+changeable#изменчивый
+dense#густой
+oppressive#душный, тяжелый
+dangerous#опасный
+first#первый
+second#второй
+third#третий
+fourth#четвертый
+fifth#пятый
+sixth#шестой
+seventh#седьмой
+eighth#восьмой
+ninth#девятый
+tenth#десятый
+eleventh#одиннадцатый
+twelfth#двенадцатый
+thirteenth#тринадцатый
+fourteenth#четырнадцатый
+fifteenth#пятнадцатый
+sixteenth#шестнадцатый
+seventeenth#семнадцатый
+eighteenth#восемнадцатый
+nineteenth#девятнадцатый
+twentieth#двадцатый
+twenty-first#двадцать первый
+twenty-second#двадцать второй
+twenty-third#двадцать третий
+thirtieth#тридцатый
+fortieth#сороковой
+fiftieth#пятидесятый
+sixtieth#шестидесятый
+seventieth#семидесятый
+eightieth#восмидесятый
+ninetieth#девяностый
+to need#нуждаться
+to melt#таять
+to drizzle#моросить
+to drop#ронять, падать
+to blow#дуть
+to freeze#заморозить, замерзать
+to set in#начинаться (фразовый глагол)
+double bed#двуспальная кровать
+sheet#простыня
+blanket#одеяло
+pillow#подушка
+bedspread#покрывало
+alarm clock#будильник
+wardrobe#платяной шкаф
+rug#коврик
+dressing-gown#халат
+single bed#односпальная кровать
+dream#сон
+nightmare#кошмарный сон
+to kill#убить
+to drown#тонуть
+to wreck#разрушать
+to burn#гореть
+to be killed#умереть, погибнуть
+to be drowned#утонуть
+to be wrecked#потерпеть катастрофу
+to be blown down#быть поваленным
+to be blown out#быть задутым, погашенным
+to be burnt down#быть сожжённым
+sleepy#сонный, спящий
+quiet#тихий, спокойный
+unpleasant#неприятный
+noisy#громкий, шумный
+dirty#грязный
+modern#современный
+trousers#брюки
+spectacles#очки
+scissors#ножницы
+binoculars#бинокль
+glasses#очки, стёкла очков
+pair#пара (по количеству штук)
+pair of#парные предметы в одном (очки, брюки и т.д.)
+to shave#бриться
+to undress#раздеваться
+to get#(фразовый гл.) становиться делаться
+to wake#будить, проснуться
+to snore#храпеть
+to dream#сниться
+zebra-crossing#переход ("зебра")
+traffic-lights#светофор
+pedestrian#пешеход
+right of way#преимущество проезда (в дорожном движении)
+time-table#расписание
+cab#такси
+destination#цель путешествия, место назначения
+underground#метро
+witness#свидетель, очевидец
+ambulance#скорая помощь, машина скорой помощи
+onlookers#наблюдатель, зритель
+injured#раненый
+unconscious#бессознательный, без сознания
+mainly#главным образом, преимущественно
+in vain#напрасно, тщетно
+serious#серьезный, важный
+necessary#необходимый
+nil#ноль (в спортивных состязаниях)
+zero#ноль (при назывании мер, в т.ч. Температуры))
+nought (naught)#ноль (в математике)
+number#номер
+result#результат
+minus#минус
+below#ниже, под, внизу
+degree#градус, степень
+to prevent#предотвращать
+to direct#руководить
+to cause#быть поводом, вызывать
+to travel#путешествовать
+to run over#переехать (машиной)
+to hit#ударять, попадать
