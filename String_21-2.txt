@@ -1,0 +1,109 @@
+What is the trouble?#В чем неисправность?
+Is there enough petrol?#Безина достаточно?
+How many litres do you want?#Сколько литров Вы хотите?
+This is a heavy lorry.#Это тяжелый грузовик.
+I use a cheap kind of oil.#Я использую дешевый вид масла.
+This is a very good battery.#Это очень хороший аккумулятор.
+Her brother is a mechanic.#Ее брат - механик.
+You need two new tyres.#Тебе нужны две новые шины.
+These are foreign brakes.#Это заграничные тормоза.
+Are the indicators all right?#Индикаторы в порядке?
+I want to sell this engine.#Я хочу продать этот двигатель.
+The breakdown van will soon be here.#Техпомощь скоро будет здесь.
+Ten litres, please.#Пожалуйста, 10 литров.
+Where do they sell these brakes?#Где продаются эти тормоза?
+You have two worn tyres.#У Вас две изношенные покрышки.
+I don't know what the trouble is.#Я не знаю, в чем неисправность.
+How much is this engine?#Сколько стоит этот двигатель?
+She drives a breakdown van.#Она водит машину техпомощи.
+You need another kind of oil.#Вам нужен другой вид масла.
+Where can we park these lorries?#Где мы можем припарковать эти грузовые машины?
+Petrol is expensive in this country.#Бензин в этой стране дорогой.
+This battery is out of order.#Этот аккумулятор испорчен.
+Is there a mechanic to help me?#Есть механик, чтобы мне помочь?
+Use the indicators!#Используй индикаторы!
+This is the cheaper of the two cars.#Из двух машин эта дешевле.
+The older of the two tables was a beautiful one.#Более старый из этих столов был красивый.
+Is this the taller of the two buildings?#Из этих двух зданий это выше?
+She is the cleverer of their two children.#Из их двоих детей она смышленее.
+Which is the stranger of these two stories?#Какая из этих двух историй удивительнее?
+The car moved faster and faster.#Машина двигалась все быстрее и быстрее.
+Petrol is becoming more and more expensive.#Бензин становится все более и более дорогим.
+It became more and more difficult.#Становилось все труднее и труднее.
+It blew harder and harder.#Дуло все сильнее и сильнее.
+They talked less and less quietly.#Они разговаривали все менее и менее спокойно (тихо).
+She sang better and better.#Она пела все лучше и лучше.
+He drove worse and worse.#Он ехал все хуже и хуже.
+You have to have a spare tyre.#Ты должен иметь запасную покрышку.
+The left indicator is out of order.#Левый указатель не в порядке.
+The rear tyres were very bad, but the front ones were not.#Задние покрышки были очень плохие, а передние - нет.
+Is this car economical?#Эта машина экономична?
+No, but it is very reliable.#Нет, но она очень надежна.
+Can you give me your spare tyres?#Ты можешь дать мне запасные покрышки?
+The cars are becoming more and more reliable.#Машины становятся все более надежными.
+There is something is his left eye.#У него что-то в левом глазу.
+What is the most economical car?#Какая машина самая экономичная?
+The right rear tyre is getting worse and worse.#Правая задняя покрышка становится все хуже и хуже.
+Do come and visit me!#Приходи, наконец, меня проведать!
+Do sit down!#Садись же!
+I can tell you that he does work.#Я могу тебе сказать, что он действительно работает.
+Do listen to me!#Но послушай меня!
+You tell me you don't know, but what do you know?#Ты говоришь мне, что не знаешь, так что же ты знаешь?
+You say you know him, but do you know him?#Ты говоришь, что знаешь его, но действительно ли ты его знаешь?
+Will you fill it up, please?#Вы можете заполнить это доверху?
+Have you checked the oil?#Ты проверил масло?
+They repaired the bus in a hurry.#Они в спешке ремонтировали автобус.
+Did you brake in time?#Ты притормозил вовремя?
+The car accelerated easily.#Машина легко набирала ход.
+They overtook us near Kiev.#Они обогнали нас возле Киева.
+I have filled it up.#Я наполнила бак.
+They checked the indicators only yesterday.#Они только вчера проверили индикаторы.
+This car has not been repaired yet.#Эта машина еще не отремонтирована.
+They often braked on that bad road.#Они часто тормозили на той плохой дороге.
+The bus accelerated more and more.#Автобус набирал скорость все больше и больше.
+We have overtaken him.#Мы обогнали его.
+The car is always repaired by the same mechanic.#Машина всегда ремонтируется тем же самым механиком.
+Who has filled it up?#Кто это наполнил (бак)?
+He is trying to overtake her.#Он пытается обогнать ее.
+She braked very hard.#Она затормозила очень резко.
+The indicators have been checked by me.#Индикаторы были мной проверены.
+It accelerates beautifully.#Он (автомобиль) прекрасно набирает скорость.
+Has he filled up the green one?#Он наполнил бак этого зеленого (автомобиля)?
+They repaired his car first.#Его машину отремонтировали первой.
+It can be easily checked.#Это можно легко проверить.
+Have you ever braked on a slippery road?#Ты тормозил когда-нибудь на скользкой дороге?
+It has never accelerated well.#Он (автомобиль) никогда не набирал скорость хорошо.
+That big one overtook me a few minutes ago.#Тот большой (грузовик) обогнал меня несколько минут назад.
+She will do your hair.#Она причешет (сделает) тебе волосы.
+I have to do this now.#Я должен это сделать сейчас.
+What can I do for you?#Что я могу для Вас сделать?
+She works as hard as you do.#Она работает так же усердно, как и ты (работаешь).
+He writes as beautifully as his father did.#Он пишет так же красиво, как это делал его отец.
+Who knows this man? I do.#Кто знает этого мужчину? Я (знаю).
+I asked him to repair the car and he did so.#Я просила его отремонтировать машину, и он отремонтировал (досл.: это сделал).
+we told them to leave quietly and they did so.#Мы им сказали тихо выйти, и они вышли (досл.: так и сделали).
+She told him to wait, but he didn't.#Она сказала ему подождать, но он не подождал (досл.: этого не сделал).
+It is difficult to do this well.#Трудно это сделать хорошо.
+You will have to do this at home.#Тебе придется сделать это дома.
+I bought as little as he did.#Я купил так же мало, как и он (купил).
+He dreams as often as you did.#Он мечтает так же часто, как и ты (мечтал).
+He asked us to tell everything and we did so.#Он просил нас все рассказать, и мы рассказали (досл.: так и сделали).
+I asked him to come early and he did so.#Я просила его прийти рано, и он пришел (досл.: так и сделал).
+That invention is exciting.#То изобретение впечатляет.
+This task is a difficult one.#Это задание трудное.
+The film was very disappointing.#(Этот) Фильм был очень печальным.
+Which is the more dangerous of those two diseases?#Какая из тех двух болезней более опасна?
+I think it is the foreign one.#Я думаю, что это заграничная.
+It is getting more and more tiring.#Это становится все более и более утомительным.
+There were many apples, but I have chosen the green ones.#Было много яблок, но я выбрала зеленые.
+I asked him to go to the play with me and he did so.#Я просила его пойти со мной на эту пьесу, и он пошел.
+He moves more quietly than you do.#Он движется спокойнее, чем ты.
+This situation is an alarming one.#Эта ситуация тревожна.
+Can you do your own hair?#Ты умеешь делать себе прическу (досл.: делать свои волосы)?
+His struggle was a useless one.#Его борьба была бесполезной.
+The engines are getting more and more economical.#Двигатели становятся все более и более экономичными.
+She overtakes as many cars as you do.#Она обгоняет так же много машин, как и ты.
+This mechanic is a reliable one.#Этот механик надежен.
+Which is more older of the front tyres?#Какая из передних шин более старая?
+I asked him wait for the breakdown van and he did so.#Я просила его подождать техпомощь, и он так и сделал.
+You have changed the front tyres, but what about the rear ones?#Ты поменял передние покрышки, а как с задними?
