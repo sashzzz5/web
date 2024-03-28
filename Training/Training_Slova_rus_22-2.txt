@@ -1,0 +1,1098 @@
+торговая улица#shopping street
+покупки#shopping
+магазин#shop
+улица#street
+железнодорожная станция#railway station
+железная дорога#railway
+поезд#train
+станция#station
+церковная башня#church tower
+церковь#church
+башня#tower
+уличная дверь#street door
+дверь#door
+дом#house
+артикль a и an#a an
+артикль the#the
+видеть#to see
+посещать#to visit
+открывать#to open
+входить#to enter
+Я#I
+ты или вы#you
+он#he
+она#she
+оно#it
+мы#we
+они#they
+и#and
+вход#entrance
+машина, автомобиль#car
+автобус#bus
+женщина#woman
+тротуар#sidewalk
+дом, здание#building
+квартира#the apartment
+мальчик#boy
+идти пешком#to walk
+идти, ходить, перемещаться#to go
+иметь#to have
+не иметь (вообще)#to have no
+смотреть#to look
+водить (авто), ехать (на авто)#to drive
+идти в, к...#to go to
+идти пешком, ходить к...#to walk to
+быть должным#to have to
+смотреть на...#to look at
+чем?#by
+ехать поездом#to go by train
+ехать автобусом#to go by bus
+ехать машиной#to go by car
+не один#no
+итак, поэтому#so
+позже, потом, затем#then
+гостиница#hotel
+комната#room
+окно#window
+ресторан#restaurant
+уличное движение#traffic
+велосипед#bicycle
+школа#school
+фабрика#factory
+офис, бюро, учреждение#office
+там, туда#there
+там есть...#there is
+в#in
+также, тоже (=и)#also
+возле, рядом#near
+не#not
+часто#often
+он есть#he is
+она есть#she is
+работать#to work
+получать#to get
+знать#to know
+ждать#to wait
+говорить#to speak
+любить, нравиться#to like
+работать в, на...#to work at in
+ждать кого-либо#to wait for
+говорить с кем-либо#to speak to
+любить (что-то делать)#to like to
+быть#to be
+(я) есть#am
+(он, она, оно) есть#is
+(ты, вы, они) есть#are
+прогулка#a walk
+работа#the work
+шофер, водитель#the driver
+речь#a speech
+утро#morning
+вечер#evening
+красный#red
+белый#white
+хороший#good
+плохой, нехороший#bad
+пять#five
+два#two
+(когда?) вечером#in the evening
+(когда?) утром#in the morning
+страна#country
+город#town
+стол#table
+часы#clock
+день#day
+девушка#girl
+время#time
+полдень (12 часов)#afternoon
+после полудня (днем)#in the afternoon
+мать#mother
+предлог for#for
+целый (весь) день#for a day
+идти на прогулку#to go for a walk
+искать#to look for
+приятный, милый, красивый#nice
+крупный, большой#big
+первый#first
+какой-то, немного, несколько#some
+там#there
+быть, находиться, являться#to be
+Я есть#I am I'm
+Ты есть Вы есть#you are you're
+Он, она, оно есть#he she it is he's she's it's
+Мы есть#we are we're
+Они есть#they are they're
+спрашивать, просить#to ask
+жить, проживать#to live
+хотеть#to want
+думать#to think
+через, по, сквозь; насквозь, от начала до конца#through
+за, позади, после#behind
+делать#to do
+Я иду#I go
+Я делаю#I do
+Мы идем#we go
+Мы делаем#we do
+Он идет#he goes
+Он делает#he does
+Она идет#she goes
+Она делает#she does
+где, куда#where
+его#his
+его велосипед#his bicycle
+его дом#his house
+его стол#his table
+его башня#his tower
+её#her
+её комната#her room
+её страна#her country
+её город#her town
+её речь#her speech
+её квартира#her apartment
+не (есть)#is not isn't
+не (есть) (2-лицо или множественное)#are not aren't
+не иметься#have not haven't
+не имеет#has not hasn't
+не делается#do not don't
+не делает#does not doesn't
+один#one
+четыре#four
+семь#seven
+зеленый#green
+голубой#blue
+короткий#short
+длинный#long
+час#an hour
+минута#a minute
+(этот) отец#the father
+(этот) стул#the chair
+сегодня#today
+шесть часов#six o'clock
+второй#the second
+(эта) площадь#the square
+статуя#a statue
+три#three
+шесть#six
+восемь#eight
+девять#nine
+десять#ten
+половина#half
+после#past
+полчаса#half an hour
+половина второго#half past one
+глагол будущего времени#shall 'll
+глагол будущего времени#will 'll
+полчаса (ждать)#(to wait) for half an hour
+в шесть часов (посетить)#(to visit) at six o'clock
+через полчаса (идти)#(to go) in half an hour
+десять минут седьмого#ten minutes past six
+половина четвертого#half past three
+внуть, в середину#into
+входить в…#to go into
+входить (пешком) в….#to walk into
+этот, эта, это#this
+тот, та, то#that
+эти#these
+те#those
+дом (семейный очаг)#home
+предлог в, на, по#at
+благодарить за…#to thank for
+писать кому-то#to write to
+брать#to take
+давать кому-то#to give to
+принимать за кого-либо#to take for
+(это) письмо#the letter
+(эта) книга#the book
+(этот) почтамт#the post-office
+(эта) ручка#the pen
+(эта) кухня#the kitchen
+в понедельник#on Monday
+неделя#the week
+(этот) мужчина#the man
+(этот) сын#the son
+да#yes
+третий#the third
+Я есть (Я "быть")#I am
+Я был#I was
+говорить (кому-то)#to talk to
+разговаривать (с), беседовать (с)#to talk with
+читать#to read
+приходить, прибывать#to come
+любить#to love
+понимать#to understand
+наш (наша, наше)#our
+их#their
+ваш (ваша, ваше)#your
+твой (твоя, твое)#your
+правильный, правдивый, правый#right
+Хорошо! Пусть будет так!#All right!
+направо#to the right
+Я прав?#Am I right?
+Россия#Russia
+Англия#England
+русская машина#a russian car
+английский велосипед#an English bicycle
+здесь#here
+маленький, мало#little
+никогда#never
+всегда#always
+двадцать#twenty
+глаз#an eye
+рот#a mouth
+воскресенье#Sunday
+пятница#Friday
+дочь#a daughter
+ребенок, младенец#a baby
+месяц#a month
+завтра#tomorrow
+письменный стол#a desk
+кровать#a bed
+кто#who
+что, какой#what
+из, из середины#out of
+летать#to fly
+приносить#to bring
+улыбаться#to smile
+есть (кушать)#to eat
+с (предлог)#with
+пожалуйста#please
+одинадцать#eleven
+двенадцать#twelve
+самолет#a plane, an aeroplane
+часовня#a chapel
+имя#a name
+спальня#a bedroom
+сестра#sister
+рука#hand
+деньги#money
+вопрос#question
+способ, дорога#way
+костюм#suit
+сад#garden
+рыба, рыбы#fish
+вчера#yesterday
+вторник#Tuesday
+среда#Wednesday
+животное#animal
+в среду#on Wednesday
+быть (наст.заверш.время)#have been
+временами, иногда, неоднократно#sometimes
+много (с исчисл.существ.)#many
+много (с неисчисл.существ)#much
+держать#to keep
+платить#to pay
+слышать#to hear
+пробовать, пытаться#to try
+вместе#together
+больше чем#more than
+дешевый#cheap
+дорогой#expensive
+быть (ед.ч простое.прошедш.время)#was
+быть (мн.ч простое.прошедш.время)#were
+1 лицо вспомог.глагол простое будущ.время#shall
+все кроме 1 лица вспомог.глагол простое будущ.время#will
+бы (всп.глагол условное накл)#should
+сделовало бы (всп.глагол условное накл)#would
+собака#dog
+брат#brother
+друг#friend
+конь, лошадь#horse
+корабль#ship
+сигарета#cigarette
+четвертый#fourth
+год#year
+нога (стопа); ноги#foot feet
+радио#radio
+песня#song
+музыка#music
+семья#family
+чашка кофе#a cup of coffee
+много машин#a lot of cars
+кусок бумаги#a piece of paper
+город Париж#the town of Paris
+месяц март#the month of March
+некоторые из моих друзей#some of my friends
+чашка#cup
+кофе#coffee
+много#a lot
+кусок, обрывок#piece
+бумага#paper
+март#March
+меньше, чем#less than
+вокруг#around
+быстро#fast
+легко#easy
+о#about
+Что слышно…? Как насчет…?#What about ...?
+сидеть#to sit
+курить#to smoke
+волноваться, беспокоиться#to worry
+показывать, демонстрировать#to show
+покупать#to buy
+петь#to sing
+мочь, уметь#can
+почему#why
+который, какой#which
+хороший (нач.форма)#good
+лучше (сравн.степень)#better
+наилучший, самый лучший (превосх. степень)#the best
+бедный#poor
+богатый#rich
+давно#long ago
+кот#cat
+сегодня вечером#tonight
+прошлым вечером (вчера вечером)#last night
+пить#to drink
+лето#summer
+парк#park
+дерево#tree
+суббота#Saturday
+яблоко#apple
+чай#tea
+вода#water
+я видел#I saw
+я знал#I knew
+высокий#tall
+большой по площади#large
+большой по объему, большой по размеру#big
+большой, замечательный, отличный, классный#great
+не мочь, не быть в состоянии#cannot
+забывать, забыть#to forget
+прекратить, остановить(ся)#to stop
+слушать#to listen
+без#without
+что-то, кое-что#something
+слишком#too
+когда-то, когда-нибудь#ever
+навсегда, без конца#forever
+между#between
+или (при выборе)#or
+Спокойной ночи!#Good night!
+люди, народ#people
+восток / запад#East West
+дата#date
+август#August
+декабрь#December
+зима#winter
+нога, лапа#leg
+туфля, ботинок#shoe
+парикмахер#barber
+волосы#hair
+солнце#sun
+погода#weather
+снег#snow
+один мужчина#one man
+пятеро мужчин#five men
+эта женщина#this woman
+те женщины#those women
+тридцать#thirty
+сорок#forty
+пятьдесят#fifty
+шестьдесят#sixty
+семьдесят#seventy
+восемьдесят#eighty
+девяносто#ninety
+коричневый#brown
+черный#black
+другой, еще один#else
+что еще#what else
+почти#almost
+трудный#difficult
+скоро, вскоре#soon
+все#all
+помещать, ставить, класть#to put
+делать, творить#to make
+резать, отделять#to cut
+падать (только о дожде)#to rain
+светить#to shine
+должен, нужно, надо#must
+хлеб#bread
+четверть#quarter
+муж#husband
+книжный шкаф#bookcase
+лампа#lamp
+растение, завод#plant
+галстук#tie
+столовая#dining-room
+завтрак#breakfast
+родители#parents
+рубашка#shirt
+больница#hospital
+обед#dinner
+парковать (машину)#to park
+вставать (просыпаться)#to get up
+надевать на себя#to put on
+оставаться, пребывать#to stay
+завтракать#to have breakfast
+впереди, перед#in front of
+напротив#opposite
+после#after
+еще (все еще)#still
+когда, если#when
+вниз (по лестнице)#downstairs
+Луна, месяц#moon Moon
+птица#bird
+подвал#cellar
+угол#corner
+телевизор#television set
+ребенок#child
+вещь#thing
+кинотеатр#cinema
+гараж, сарай#shed
+носок#sock
+жилая комната, гостиная#living-room
+сиденье, место для сиденья#seat
+последний, прошлый#last
+каждый#every
+снова, опять еще раз#again
+перед, раньше, до#before
+медсестра#nurse
+футбол#football
+матч#match
+журнал#magazine
+весна#spring
+осень#autumn
+машинистка#typist
+газета#newspaper
+инструменты#tools
+пекарь#baker
+молоко#milk
+сахар#sugar
+но, кроме, помимо#but
+до#till
+с, вместе с…#with
+другой, иной#other
+готовый#ready
+полный#full
+разные, разнообразные, разного рода#all kinds of
+разные, разнообразные, разного вида#all sorts of
+род#kind
+вид#sort
+наблюдать, смотреть со вниманием#to watch
+Как ты (Вы) себя чувствуете?#How are you?
+Как у нее дела?#How is she?
+Январь#January
+Февраль#February
+Апрель#April
+Май#May
+Июнь#June
+Июль#Jule
+Сентябрь#September
+Октябрь#October
+Ноябрь#November
+холод, холодный#cold
+небо#sky
+туча, облако#cloud
+туман#fog
+ветер#wind
+жара#heat
+температура#temperature
+прогноз погоды#weather-forecast
+шаль#shawl
+плащ#coat
+ботинки, сапоги#boots
+во дворе, извне, на улице#outside
+туманный, мглистый#foggy
+высокий#high
+солнечный#sunny
+низкий#low
+ветренный#windy
+хмурый, облачный#cloudy
+приносил#brought
+принес#have brought
+ел (кушал)#ate
+поел (покушал)#have eaten
+держал (to keep)#kept
+сохранил (to keep)#have kept
+учил#taught
+научил#have taught
+слышал#heard
+услышал#have heard
+платил#paid
+заплатил#have paid
+почтовая марка#stamp
+билет#ticket
+роман, новелла#novel
+телефон#telephone
+трамвай#tram
+трамвайная остановка#tram stop
+автобусная остановка#bus stop
+цветок#flower
+банк#bank
+календарь#calendar
+секретарь#secretary
+кошелек, сумочка#purse
+рядом, возле#next to
+рано, ранний#early
+поздно, поздний#late
+входить (в транспорт)#to get on
+слезать, выходить (из транспорта)#to get off
+сейчас#now
+сидел#sat
+посидел#have sat
+показывал#showed
+показал#have shown
+покупал#bought
+купил#have bought
+пел#sang
+спел#have sung
+пил#drank
+выпил#have drunk
+забыл#forgot
+не помнит (забыл)#have forgotten
+слишком поздно#too late
+пол#floor
+ковер#carpet
+шторы, занавески#curtains
+потолок#ceiling
+камин#fireplace
+обои#wall-paper
+пепельница#ashtray
+розетка#socket
+картина#picture
+настольная лампа#table-lamp
+кресло#easy chair
+диван, софа#settee
+несколько (с исч., замена some)#a few
+под#under
+над#over
+при, через, по(с чем), (самое позднее) до#by
+с, от, из#from
+по другую сторону, через, поперек#across
+тарелка#plate
+вилка#fork
+ложка#spoon
+соль#salt
+солонка#salt-pot
+масло#butter
+яйцо#egg
+блюдце#saucer
+сыр#cheese
+салфетка#napkin
+тостер#toaster
+подскавка для яиц#egg-cup
+уже (по времени готово)#already
+пустой#empty
+вкусный, прелестный#delicious
+жареный#fried
+жирный, жир, толстый#fat
+в спешке#in a hurry
+в то время как, пока (временой процесс)#while
+мой, моя, моё, мои#mine
+твой, твоя, твоё, твои (ваш, ваша, ваше, ваши)#yours
+её#hers
+наш, наша, наше, наши#ours
+их#theirs
+кипеть, кипятить, варить#to boil
+использовать, пользоваться#to use
+наливать, вливать#to pour
+подавать, передавать#to pass
+сообщать, сказать, говорить#to say
+сообщал, говорил#said
+сообщил, сказал#have said
+рассказывать, говорить#to tell
+рассказывал, говорил#told
+рассказал, высказал#have told
+высылать, отправлять#to send
+высылал, отправлял#sent
+выслал, отправил#have sent
+уезжать, отходить, выходить, покидать#to leave
+уезжал, отходил, выходил, покидал#left
+уехал, отошел, вышел, покинул#have left
+рука#arm
+колено#knee
+палец на ноге#toe
+ноготь#nail
+палец на руке#finger
+живот#belly
+грудная клетка, грудь#chest
+локоть#elbow
+запятье#wrist
+наручные часы#wrist-watch
+спина#back
+плечи#shoulders
+чей, чья, чьё, чьи#Whose
+потому что; так как#because
+электрический#electric
+усталый, уставший#tired
+сладкий#sweet
+только, единственный#only
+отведать (на вкус) пробовать#to taste
+пробовал (на вкус)#tasted
+попробовал (на вкус)#have tasted
+чувствовать#to feel
+чувствовал#felt
+почувствовал#have felt
+начинать#to begin
+начинал#began
+начал#have begun
+строить#to build
+строил#built
+построил#have built
+ловить#to catch
+ловил#caught
+поймал#have caught
+падать#to fall
+падал#fell
+упал#have fallen
+быть голодным#to be hungry
+быть жаждущим, испытывать жажду, хотеть пить#to be thirsty
+другой, еще один#another
+платформа#platform
+стекло, стакан#glass
+случай, авария, проишествие#accident
+пиво#beer
+молоток#hammer
+овощи#vegetables
+ключ#key
+рассказ, история#story
+мясо#meat
+новости, сведения#news
+лес, дерево#wood
+собственный#own
+помогать#to help
+чистить#to clean
+включать#to switch on
+выключать#to switch off
+продавать#to sell
+продавал#sold
+продал#have sold
+находить#to find
+находил#found
+нашел#have found
+болеть, приничить боль#to hurt
+болело, повредил#hurt
+заболело, повредилось#have hurt
+старый#old
+новый#new
+всё#everything
+все, каждый, всякий#everybody
+чистый#clean
+никто#nobody
+ничего, ничто#nothing
+счёт, банкнота#bill
+обмен, мелочь#change
+библиотека#library
+цвет#colour
+фрукт, фрукты#fruit
+сосед#neighbour
+груша#pear
+виноград, (одна ягода)#grape
+апельсин, апельсиновый#orange
+перерыв#break
+трава#grass
+еда, пища, продукты#food
+радостный, веселый, довольный#glad
+печальный, грустный#sad
+прекрасный, красивый#beautiful
+уродливый, некрасивый#ugly
+свежий#fresh
+во время, в течение#during
+спать#to sleep
+наслаждаться, нравиться, получать удовольствие#to enjoy
+помнить#remember
+менять(ся), разменять#to change
+возвращаться#to return
+становиться#to become
+случаться, происходить#to happen
+если, ли#if
+парикмахерская#hairdresser's
+овощной магазин#greengrocer's
+у кондитера, в кондитерской, в булочной#at the baker's
+у моего брата#at my brother's
+встреча, собрание#meeting
+потеря, утрата#loss
+рассвет, восход солнца#sunrise
+мясник#butcher
+бакалейщик#grocer
+владелец овощного магазина#greengrocer
+борода#beard
+микроавтобус#van
+аэропорт#airport
+домашняя работа#homework
+прибытие, прилет#arrival
+вылет, отъезд#departure
+достаточно#enough
+светлый, легкий#light
+темный#dark
+тяжелый#heavy
+странный, чужой#strange
+широкий#wide
+простой#simple
+умный, одаренный#clever
+узкий, тесный#narrow
+вежливый#polite
+мрачный, неясный#obscure
+поретять, упастить#to lose
+расти, становиться#to grow
+встречать#to meet
+восходить, вставать#to rise
+закрывать, захлопывать#to shut
+тратить, расходывать#to spend
+такой …, как…; так…, как…#as ... as
+не такой…, как…; не так …, как…#not so ... as
+одежда#clothes
+пуговица#button
+шляпа#hat
+воротник#collar
+рукав#sleeve
+карман#pocket
+юбка#skirt
+блузка#blouse
+дамская сумочка#handbag
+ожерелье#necklace
+серьга#ear-ring
+свитер#jersey
+немодный#out of fashion
+переодеваться#to change
+намокший#soaked
+поношенный#worn
+шерстяной#woollen
+водонепроницаемый, непромокаемый, водоотталкивающий#waterproof
+последний, самый новый#latest
+с (период времени, с ...)#since
+иметь на себе, быть одетым, носить#to wear
+подходить, соответствовать#to fit
+застегивать (на молнию)#to zip up
+примерять#to try on
+вязать#to knit
+кого, кому, с кем#whom
+хуже#worse
+самый плохой, наихудший#the worst
+меньше#less
+самый маленький#the least
+меньше#fewer
+меньше всего#the fewest
+работа#job
+зарплата, заработок#wages
+подъём, повышение#raise
+рабочий (неквалифицированный)#labourer
+безработица#unemployment
+коллега#colleague
+профсоюз#trade-union
+член#member
+переговоры, обсуждение условий#negotiations
+служащий#employee
+забастовка#strike
+дирекция#management
+вести переговоры#to negotiate
+поднимать, повышать#to raise
+уволить#to fire
+обращаться#to apply for
+заслужить, заработать#to earn
+сократить, уменьшить#to reduce
+содержимое#contents
+овёс#oats
+сбережения#savings
+доход (только во мн. числе)#proceeds
+богатство (только во мн. числе)#riches
+благодарность (только во мн. числе)#thanks
+окрестности (только во мн. числе)#surroundings
+тележка для покупок#trolley
+клиент, покупатель#customer
+продавец#shop-assistant
+квитанция#receipt
+список покупок#shopping-list
+касса#cash-desk
+витрина#shop-window
+выход#exit
+выгодная, дешевая покупка, сделка#bargain
+скидка#discount
+распродажа#sales
+сумка для покупок#shopping-bag
+новее#newer
+новейший#the newest
+тот самый, такоей же#same
+важный#important
+довольный#satisfied
+едва, лишь#hardly
+настоящий#true
+даже#even
+сколько, как много#how much
+Сколько стоит … ?#How much is?
+наличные#cash
+неквалифицированный#unskilled
+едва ли#hardly any
+едва ли когда-нибудь, редко#hardly ever
+полезный, пригодный#useful
+быстро (как?)#quickly
+довольно (как?)#quite
+служить, обслуживать#to serve
+паковать#to wrap up
+доставлять#to deliver
+иметь в наличии (напр.: на складе)#to stock
+начинать, стартовать#to start
+поддерживать#to support
+кто-то, кто-нибудь#somebody
+кто-то, кто-нибудь (в отрицат. Или вопрос. предлож.)#anybody
+полотенце#towel
+ведро#bucket
+холодильник#fridge
+швабра#mop
+раковина#sink
+кафель (одна плитка)#tile
+газовая плита#gas-cooker
+кран#tap
+буфет, шкаф для посуды#cupboard
+корзина для мусора#rubbish-bin
+кастрюля#saucepan
+духовка#oven
+проволока, провод#wire
+изолированный#insulated
+сдавать внаём#to let
+на продажу#for sale
+обычно#usually
+испорченный#out of order
+жирный (сальный)#greasy
+где-то (в утверд.предлож.)#somewhere
+где-нибудь, куда-нибудь, никуда#anywhere
+нигде, никуда#nowhere
+вытирать#to mop
+гладить#to iron
+вытирать пыль#to dust
+(по)чистить (фрукты, овощи)#to peel
+опорожнять, опустошать, вытряхивать#to empty
+выключать, закручивать (кран)#to turn off
+включать, откручивать (кран)#to turn on
+ясно (нареч.)#clearly
+далеко (нареч.)#far
+хорошо (нареч.)#well
+предлагать, пытаться, жертвовать#to offer
+позволять (более официально)#to permit
+обещать#to promise
+отказывать, отвергать#to refuse
+позволять (менее официально)#to allow
+шторм, ураганный ветер#gale
+град#hail
+ливень#shower
+лёд, мороженое#ice
+тень#shade
+роса#dew
+гроза#thunderstorm
+зонт#umbrella
+дорога#road
+ураган#hurricane
+оттепель#thaw
+солнечный период#sunny spells
+13     (тринадцать)#thirteen
+14     (четырнадцать)#fourteen
+15     (пятнадцать)#fifteen
+16     (шестнадцать)#sixteen
+17     (семнадцать)#seventeen
+18     (восемнадцать)#eighteen
+19     (девятнадцать)#nineteen
+20     (двадцать)#twenty
+21     (двадцать один)#twenty-one
+22     (двадцать два)#twenty-two
+23     (двадцать три)#twenty-three
+24     (двадцать четыре)#twenty-four
+25     (двадцать пять)#twenty-five
+26     (двадцать шесть)#twenty-six
+27     (двадцать семь)#twenty-seven
+28     (двадцать восемь)#twenty-eight
+29     (двадцать девять)#twenty-nine
+30     (тридцать)#thirty
+40     (сорок)#forty
+50     (пятьдесят)#fifty
+60     (шестьдесят)#sixty
+70     (семьдесят)#seventy
+80     (восемьдесят)#eighty
+90     (девяносто)#ninety
+100   (сто)#one hundred
+скользкий#slippery
+строгий, суровый#severe
+изменчивый#changeable
+густой#dense
+душный, тяжелый#oppressive
+опасный#dangerous
+второй#second
+третий#third
+пятый#fifth
+шестой#sixth
+седьмой#seventh
+восьмой#eighth
+девятый#ninth
+десятый#tenth
+одиннадцатый#eleventh
+двенадцатый#twelfth
+тринадцатый#thirteenth
+четырнадцатый#fourteenth
+пятнадцатый#fifteenth
+шестнадцатый#sixteenth
+семнадцатый#seventeenth
+восемнадцатый#eighteenth
+девятнадцатый#nineteenth
+двадцатый#twentieth
+двадцать первый#twenty-first
+двадцать второй#twenty-second
+двадцать третий#twenty-third
+тридцатый#thirtieth
+сороковой#fortieth
+пятидесятый#fiftieth
+шестидесятый#sixtieth
+семидесятый#seventieth
+восмидесятый#eightieth
+девяностый#ninetieth
+нуждаться#to need
+таять#to melt
+моросить#to drizzle
+ронять, падать#to drop
+дуть#to blow
+заморозить, замерзать#to freeze
+начинаться (фразовый глагол)#to set in
+двуспальная кровать#double bed
+простыня#sheet
+одеяло#blanket
+подушка#pillow
+покрывало#bedspread
+будильник#alarm clock
+платяной шкаф#wardrobe
+коврик#rug
+халат#dressing-gown
+односпальная кровать#single bed
+сон#dream
+кошмарный сон#nightmare
+убить#to kill
+тонуть#to drown
+разрушать#to wreck
+гореть#to burn
+умереть, погибнуть#to be killed
+утонуть#to be drowned
+потерпеть катастрофу#to be wrecked
+быть поваленным#to be blown down
+быть задутым, погашенным#to be blown out
+быть сожжённым#to be burnt down
+сонный, спящий#sleepy
+тихий, спокойный#quiet
+неприятный#unpleasant
+громкий, шумный#noisy
+грязный#dirty
+современный#modern
+брюки#trousers
+очки#spectacles
+ножницы#scissors
+бинокль#binoculars
+очки, стёкла очков#glasses
+пара (по количеству штук)#pair
+парные предметы в одном (очки, брюки и т.д.)#pair of
+бриться#to shave
+раздеваться#to undress
+(фразовый гл.) становиться делаться#to get
+будить, проснуться#to wake
+храпеть#to snore
+сниться#to dream
+переход ("зебра")#zebra-crossing
+светофор#traffic-lights
+пешеход#pedestrian
+преимущество проезда (в дорожном движении)#right of way
+расписание#time-table
+такси#cab
+цель путешествия, место назначения#destination
+метро#underground
+свидетель, очевидец#witness
+скорая помощь, машина скорой помощи#ambulance
+наблюдатель, зритель#onlookers
+раненый#injured
+бессознательный, без сознания#unconscious
+главным образом, преимущественно#mainly
+напрасно, тщетно#in vain
+серьезный, важный#serious
+необходимый#necessary
+ноль (в спортивных состязаниях)#nil
+ноль (при назывании мер, в т.ч. Температуры))#zero
+ноль (в математике)#nought (naught)
+номер#number
+результат#result
+минус#minus
+ниже, под, внизу#below
+градус, степень#degree
+предотвращать#to prevent
+руководить#to direct
+быть поводом, вызывать#to cause
+путешествовать#to travel
+переехать (машиной)#to run over
+ударять, попадать#to hit
+ситуация#situation
+сцена#scene
+фильм#film
+разница#difference
+болезнь#disease
+жест (напр. рукой)#gesture
+личность, человек#person
+выдумка, изобретение#invention
+представление, театральная пьеса#play
+задание#task
+борьба#struggle
+шпион#spy
+исчерпывать, утолять#to exhaust
+утомлять, вызывать усталость#to tire
+приглашать#to invite
+удивлять, быть неожиданным#to surprise
+поражать, производить впечатление#to strike
+тревожный#alarming
+эмоциональный, возбуждающий#exciting
+волнующий, трогательный#moving
+иностранный#foreign
+бесцельный, ненужный#useless
+замечательный, выдающийся#remarkable
+разочаровывать#to disappoint
+возбуждать, волновать#to excite
+двигаться, переезжать#to move
+встревожить, поднять тревогу#to alarm
+выбирать#to choose
+прятать(ся), скрывать(ся)#to hide
+двигатель#engine
+бензин#petrol
+литр#litre
+масло#oil
+батарея, аккумулятор#battery
+неисправность#trouble
+грузовая машина#lorry
+механик, монтер#mechanic
+шина, покрышка#tyre
+тормоз#brake
+счетчик, показатель, датчик, индикатор#indicator
+техпомощь (машина)#breakdown van
+запасной#spare
+левый#left
+задний#rear
+экономный, бережливый#economical
+надежный; солидный#reliable
+наполнять (напр., бак)#to fill up
+контролировать, проверять#to check
+ремонтировать, налаживать#to repair
+тормозить#to brake
+ускорять(ся) набирать скорость#to accelerate
+догонять, обгонять, опережать#to overtake
+счёт, банковский счёт#account
+чек#cheque
+рассрочка#instalment
+заём#loan
+ставка процента#rate of interest
+монета#coin
+формуляр#form
+сальдо, баланс#balance
+снятие денег со счета#withdrawal
+вклад, депозит#deposit
+информация#information
+дело, бизнес#business
+мебель, обстановка#furniture
+прогресс#progress
+сила, силы#strength
+доход, доходы#revenue
+товар, товары#merchandise
+собственность#property
+реализовывать (чек)#to cash
+одалживать (у кого-то)#to borrow
+заполнять#to fill in
+вкладывать, депонировать#to deposit
+называть, звать#to call
+учиться#to learn
+изымать (из обращения)#to withdraw
+давать взаймы (кому-то)#to lend
+готовый, приготовленный#prepared
+безопасный#safe
+присутствующий, теперешний, настоящий#present
+уверенный (в записи произносится [ш] читается всегда мягко#sure
+предыдущий#previous
+рискованный, опасный#risky
