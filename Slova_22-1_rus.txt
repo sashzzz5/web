@@ -1,0 +1,32 @@
+счёт, банковский счёт#account
+чек#cheque
+рассрочка#instalment
+заём#loan
+ставка процента#rate of interest
+монета#coin
+формуляр#form
+сальдо, баланс#balance
+снятие денег со счета#withdrawal
+вклад, депозит#deposit
+информация#information
+дело, бизнес#business
+мебель, обстановка#furniture
+прогресс#progress
+сила, силы#strength
+доход, доходы#revenue
+товар, товары#merchandise
+собственность#property
+реализовывать (чек)#to cash
+одалживать (у кого-то)#to borrow
+заполнять#to fill in
+вкладывать, депонировать#to deposit
+называть, звать#to call
+учиться#to learn
+изымать (из обращения)#to withdraw
+давать взаймы (кому-то)#to lend
+готовый, приготовленный#prepared
+безопасный#safe
+присутствующий, теперешний, настоящий#present
+уверенный (в записи произносится [ш] читается всегда мягко#sure
+предыдущий#previous
+рискованный, опасный#risky

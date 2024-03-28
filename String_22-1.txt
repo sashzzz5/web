@@ -1,0 +1,123 @@
+I have an account in this reliable bank.#У меня счет в этом надежном банке.
+Do you want money or a cheque?#Вы хотите деньги или чек?
+You can pay in instalments.#Вы можете заплатить в рассрочку.
+Can I get a loan here?#Я могу получить здесь заём?
+The rate of interest is high.#Ставка процента очень высока.
+Do you take coins?#Вы принимаете монеты?
+You need these forms.#Вам нужны эти формуляры.
+This is a useful information.#Это полезная информация.
+Is my balance high enough?#Моё сальдо достаточно высоко?
+He made a withdrawal.#Он снял деньги со счета.
+She makes weekly deposits.#Она делает вклады еженедельно.
+The rate of interest is rising.#Ставка процента повышается.
+What is this form for?#Для чего этот формуляр?
+I shall make a withdrawal today.#Сегодня я сниму деньги.
+How long have you had an account?#Как давно Вы имеете счет в банке?
+I gave him a cheque.#Я дала ему чек.
+This is my first deposit.#Это мой первый вклад.
+What is my balance?#Каково моё сальдо?
+We need more information.#Нам нужно больше информации.
+We need this loan today.#Этот заём нужен нам сегодня.
+This is the last instalment.#Это последняя рассрочка.
+He wants to change these coins.#Он хочет обменять эти монеты.
+Business is good this year.#В этом гуду дела идут хорошо.
+The furniture was cheap.#Мебель была дешевой.
+Little progress was made.#Был сделан небольшой прогресс.
+Her strength was exhausted.#Её силы были исчерпаны.
+The revenue is high enough.#Доход достаточно высокий.
+This merchandise is ready.#Эти товары готовы.
+They lost all their property.#Они потеряли всю свою собственность.
+Is this furniture new?#Эта мебель новая?
+The revenue has risen.#Доходы выросли.
+Has he much property?#У него много собственности?
+Has he enough strength for this work?#У него достаточно сил для этой работы?
+We do much business with him.#Мы имеем с ним много дел.
+Has there been much progress?#Был достигнут большой прогресс?
+They bought the merchandise at a discount.#Они купили товары со скидкой.
+She cashed the cheque.#Она реализовала чек.
+He has lent us the money.#Он дал нам денег взаймы.
+We borrowed less last year.#В прошлом году мы взяли в долг меньше.
+Have you filled in the form?#Вы заполнили формуляр?
+What did you learn yesterday?#Чему ты вчера научился?
+The withdrew all their money.#Они изъяли все свои деньги.
+How much have you deposited?#Сколько ты внёс?
+We called the cat John.#Мы назвали кота Джоном.
+I have cashed it already.#Я это уже реализовал.
+They lent us hardly anything.#Они почти ничего не дали нам взаймы.
+We have borrowed his tools.#Мы взяли взаймы его инструменты.
+I'm learning English.#Я учу английский.
+They filled in many forms.#Они заполнили много формуляров.
+We have withdrawn nothing.#Мы ничего не сняли со счета.
+Did he deposit anything?#Он что-нибудь внёс?
+What have they called their child?#Как они назвали своего ребёнка?
+Do you want to deposit much?#Вы много хотите внести?
+You haven't filled it in yet.#Ты это еще не заполнила.
+We have borrowed a lot of money from him.#Мы получили от него в долг много денег.
+He gladly lent it to us.#Он охотно дал нам в долг.
+Have you leaned to fly?#Ты научился летать?
+What did he call to you?#Что он тебе кричал?
+Use this form to withdraw money, please.#Используй этот формуляр для снятия денег со счета.
+Have you cashed this cheque already?#Ты уже реализовал этот чек?
+We have deposited money with the bank.#Мы положили (внесли) деньги в банк.
+He filled it in last night.#Он заполнил это вчера вечером.
+They borrowed it at a high rate of interest.#Они взяли это в долг под высокий процент.
+Why have you lent it to them?#Почему ты дал им в долг?
+Call me when you need me.#Позови меня, когда я буду тебе нужен.
+I have withdrawn it from my account.#Я сняла это со своего счета.
+He hasn't learned to sing yet.#Он еще не научился петь.
+Smoking is bad for you.#Курение вредно (досл.: плохо) для Вас.
+Is flying dangerous?#Полёт опасен?
+It has stopped snowing.#Снег перестал падать.
+We saw them busy repairing the car.#Мы видели, что они были заняты ремонтом машины.
+Before leaving he wrote a short letter.#Перед уходом он написал краткое письмо.
+You can learn something by doing it.#Можно научиться чему-то, делая (досл.: деланием) это.
+Walking in the woods is nice.#Прогулка в лесу приятна. Гуляние по лесу приятно. (досл.)
+Eating too much is not good for you.#Слишком много еды нехорошо для Вас. Переедание нехорошо для Вас. (досл.)
+I like reading.#Я люблю чтение.
+She doesn't like waiting.#Она не любит ожидания.
+Reading is knowing.#1. Читать - значит знать. 2. Чтение - значит знание.
+We are prepared to pay cash.#Мы готовы заплатить наличными.
+Is it safe to deposit money with that bank?#Безопасно вкладывать деньги в тот банк?
+What is the present rate of interest?#Какие ставки процента в данный момент?
+Are you sure that your balance is high enough?#Вы уверены, что Ваше сальдо достаточно высокое?
+When was your previous withdrawal?#Когда Вы снимали деньги со счета в прошлый раз?
+Lending money to them is risky.#Давать им в долг деньги рискованно.
+Are you sure you have an account here?#Вы уверены, что у Вас здесь есть счёт?
+My previous deposit was quite small.#Мой предыдущий взнос был совсем небольшим.
+Are you prepared to take a cheque?#Ты готов принять чек?
+This loan is very risky.#Этот заём очень рискованный.
+Cheques are safer than bills.#Чеки безопаснее, чем банкноты.
+The present balance is very low.#Сальдо сейчас (досл.: настоящее сальдо) очень низкое.
+We waited for one and a half hours.#Мы ждали полтора часа.
+They have lived here for three years.#Они живут здесь три года.
+He is ten years old.#Ему десять лет.
+In that accident they lost their lives.#В том происшествии они погибли (досл.: лишились своих жизней).
+We all drove our own cars.#Мы все ехали на своих собственных машинах.
+We all bought our own tickets.#Мы все купили свои собственные билеты.
+He likes driving fast.#Он любит водить (досл.: вождение) быстро. (водить как? быстро)
+You can help by listening quietly.#Ты можешь помочь, если будешь слушать тихо (досл.: слушанием тихо). (слушать как? тихо)
+She likes reading in the evening.#Ей нравится читать (досл.: чтение) вечером.
+He likes smoking after dinner.#Ему нравится курить (досл.: курение) после обеда.
+I like driving a fast car.#Мне нравится водить быстрый автомобиль.
+She likes reading a good book.#Ей нравится читать хорошую книгу.
+After writing a letter he left.#После написания письма он вышел.
+He spoke without looking at me.#Он разговаривал, не глядя на меня.
+They stopped working after a few hours.#Они прекратили работу через несколько часов.
+Do you like swimming?#Тебе нравится плавание?
+It is no use talking to him.#Нет смысла разговаривать с ним.
+The book is worth reading.#Книга стоит того, чтобы ее читали (досл.: чтения).
+After filling in the forms we got the money.#Мы получили деньги после заполнения формуляров.
+This information is reliable.#Эта информация достоверна.
+I saw him busy cleaning the room.#Я видел, что он был занят уборкой квартиры (досл.: комнаты).
+Will you call my brother?#Ты позовёшь моего брата?
+You can pay for it in instalments.#Вы можете за это заплатить в рассрочку.
+I like doing business with him.#Мне нравится иметь с ним дело.
+We all used our own bicycles.#Мы все пользовались своими собственными велосипедами.
+Are you sure that lending them money for is risky?#Ты уверен, что одолжить им деньги рискованно?
+Making a deposit is easy.#Легко сделать вклад.
+Do you know the present rate of interest?#Ты знаешь настоящий процент?
+You can do it by selling your property.#Ты можешь сделать это путем продажи своей собственности.
+I don't like borrowing.#Я не люблю брать в долг.
+How many people lost their lives?#Сколько людей умерло (досл.: лишилось своих жизней)?
+I have had an account here for ten years now.#У меня здесь счёт уже 10 лет.
+He cashed the cheque one and a half months ago.#Он реализовал этот чек полтора месяца назад.
