@@ -3844,7 +3844,7 @@ Many animals need the sea.#Многим животным нужно море.
 There are few mountains in this country.#В этой стране мало гор.
 This is a narrow canal.#Это узкий канал.
 In spring the valley of the Thames is full of flowers.#Весной долина Темзы полна цветов.
-we live in Europe.#Мы живем в Европе.
+We live in Europe.#Мы живем в Европе.
 They travelled to the lake by bus.#Они ехали на озеро автобусом.
 Many children hate going to bed.#Многие дети ненавидят укладывание в постель.
 They went on working.#Они продолжали работать.
