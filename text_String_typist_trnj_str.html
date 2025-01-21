@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тренажер строчный</title>
+    <link href="/web/favicon.ico" rel="icon" type="image/ico" />
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #container {
+            width: 100%;
+            height: 320px;
+        }
+
+        textarea {
+ 	        height: 110px;          /* задаем высоту поля */
+            line-height: 100px;     /* задаем высоту строки текста */
+            vertical-align: middle; /* задаем вертикальное выравнивание */
+            width: 100%;
+            box-sizing: border-box;
+            background-color: #FFFFCC;
+            border: none;
+            outline: none;
+	        padding: 1px;
+		    margin:  1px 0;	
+			padding-left: 650px;
+            font-size: 30px;
+            font-weight: bold;
+           	align-items: center;
+            justify-content: center;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        #left, #right {
+            display: flex;
+            position: fixed;
+            bottom: 0;
+            height: 50%;
+            width: 50%;
+            align-items: flex-end;
+        }
+
+        #left {
+            left: 0;
+        }
+
+        #right {
+            right: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="left"></div>
+    <div id="right"></div>
+
+    <div id="container">
+        <textarea class="text-input" id="text-input" readonly></textarea>
+        <textarea class="text-input-typist" id="text-input-typist"></textarea>
+    </div>
+
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const selectedFile = params.get('file');
+
+        const textInput = document.getElementById('text-input');
+        const textInputTypist = document.getElementById('text-input-typist');
+
+        let currentLine = '';
+        let buffer = '';
+        let currentWords = [];
+        let wordIndex = 0;
+        let validationMode = false;
+        let validationWord = '';
+
+        textInputTypist.focus();
+
+        if (selectedFile) {
+            fetch(selectedFile)
+                .then(response => response.text())
+                .then(data => {
+                    const lines = data.split('\n').filter(Boolean).map(line => line.split('#')[0].trim());
+                    console.log('Loaded lines:', lines);
+                    const shuffledLines = shuffleArray(lines);
+                    console.log('Shuffled lines:', shuffledLines);
+                    let lineIndex = 0;
+
+                    function loadNextLine() {
+                        if (lineIndex >= shuffledLines.length) {
+                            alert('Тест пройден');
+                            return;
+                        }
+                        currentLine = shuffledLines[lineIndex++];
+                        currentWords = currentLine.split(/\s+/).filter(Boolean);
+                        console.log('Current line:', currentLine);
+                        console.log('Current words:', currentWords);
+                        wordIndex = 0;
+                        validationMode = false;
+                        textInput.value = currentLine;
+                        textInputTypist.value = '';
+                        buffer = '';
+                    }
+
+                    loadNextLine();
+
+                    textInputTypist.addEventListener('input', () => {
+    const typedText = textInputTypist.value; // Текст, введенный пользователем
+    const words = typedText.trim().split(/\s+/); // Разбиваем введенный текст на слова
+    const userWord = words[words.length - 1]; // Последнее введенное слово
+
+    console.log('Typed text:', typedText);
+    console.log('Current buffer:', buffer);
+    console.log('User word:', userWord);
+
+    if (validationMode) {
+        console.log('Validation mode active. Validation word:', validationWord);
+        if (typedText.trim() === validationWord) {
+            console.log('Validation successful.');
+            validationMode = false;
+            buffer += validationWord + ' ';
+            textInput.value = currentLine;
+            textInputTypist.value = buffer;
+            wordIndex++;
+            if (wordIndex >= currentWords.length) {
+                loadNextLine();
+            }
+        }
+        return;
+    }
+
+   // Если пользователь завершил ввод слова (пробелом, точкой или концом строки)
+    if (typedText.endsWith(' ') || typedText.endsWith('.') || typedText.endsWith('\n')) {
+        const currentWord = currentWords[wordIndex] || '';
+        console.log('User word:', userWord, 'Expected word:', currentWord);
+
+        // Если слово введено правильно
+        if (userWord === currentWord) {
+            console.log('Correct word.');
+            buffer += `${userWord} `; // Добавляем слово в буфер
+            wordIndex++;
+
+            // Проверяем, если достигли конца строки, загружаем следующую
+            if (wordIndex >= currentWords.length) {
+                loadNextLine();
+            }
+        } else {
+            console.log('Incorrect word. Switching to validation mode.');
+
+            // Включаем режим валидации
+            validationMode = true;
+
+            // Генерируем проверочную строку
+            validationWord = `${currentWord}`; 
+
+            // Заменяем текущую строку проверочной строкой
+            textInput.value = validationWord;
+
+            // Очищаем поле ввода
+            textInputTypist.value = '';
+        }
+    }
+});
+
+                    function shuffleArray(array) {
+                        let currentIndex = array.length;
+                        let temporaryValue, randomIndex;
+                        while (currentIndex !== 0) {
+                            randomIndex = Math.floor(Math.random() * currentIndex);
+                            currentIndex -= 1;
+                            temporaryValue = array[currentIndex];
+                            array[currentIndex] = array[randomIndex];
+                            array[randomIndex] = temporaryValue;
+                        }
+                        return array;
+                    }
+                });
+        }
+    </script>
+</body>
+</html>
