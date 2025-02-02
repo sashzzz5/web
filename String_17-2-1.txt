@@ -1,0 +1,61 @@
+We pay at the cash-desk.#Мы платим в кассу.
+How much discount do I get?#Какую скидку я получаю? (досл.: Сколько скидки я получаю?)
+I've lost my shopping-list.#Я потерял свой список покупок.
+There are many customers.#(Есть) много покупателей.
+When do the sales begin?#Когда начинается распродажа?
+My shopping-bag is full.#Моя сумка для покупок полная.
+We look at the shop-windows.#Мы смотрим на витрины.
+Have you taken a trolley yet?#Ты уже взял тележку?
+She's looking for bargains.#Она ищет дешевые товары.
+How many shop-assistants are there?#Сколько там продавцов?
+We cannot find the exit.#Мы не можем найти выход.
+Have you got a receipt?#Ты получил квитанцию?
+Are there enough cash-desks?#Касс достаточно?
+I like sales.#Я люблю распродажи.
+My trolley is already full.#Моя тежека уже полная.
+I have only one shopping-bag.#У меня только одна сумка для покупок.
+There are four exits there.#Там четыре выхода.
+This is nice shopping-assistant.#Это милая продавщица.
+Many customers are already leaving.#Многие клиенты уже выходят.
+He has lost his receipt.#Он потерял свою квитанцию.
+Have you made a shopping-list?#Ты сделал список покупок?
+There is a nice radio in the shopping-window.#На витрине красивое радио.
+We give large discounts.#Мы даем большие скидки.
+This is the same car.#Это тот же автомобиль.
+How much is this clock?#Сколько стоят эти часы?
+How much do you want to pay?#Сколько ты хочешь заплатить?
+Is that customer satisfied?#Тот покупатель доволен?
+I was hardly ever in this shop.#Я вряд ли был в этом магазине.
+Is that story true?#Та история правдива?
+He always buys useful things.#Он всегда покупает полезные вещи.
+That is not important.#Это неважно.
+There is hardly any salt.#Здесь вряд ли есть соль.
+This is even cheaper.#Это даже дешевле.
+You have to pay cash.#Ты должне заплатить наличными.
+Are shop-assistants unskilled?#Продавцы неквалифицированные?
+I have hardly enough money.#У меня едва хватает денег.
+Are you satisfied with your job?#Ты довольна своей работой?
+Everybody says it is true.#Каждый говорит, что это правда.
+We earn the same wages.#Мы получаем ту же зарплату.
+How much is this bicycle?#Сколько стоит этот велосипед?
+He was even fired.#Он был даже уволен с работы.
+They are unskilled labourers.#Они неквалифицированные рабочие.
+We always pay cash.#Мы всегда платим наличными.
+It is important to negotiate.#Это важно обсудить.
+She hardly spoke.#Она едва говорила.
+I hardly ever go to matches.#Я почти никогда не хожу на матчи.
+Is a calendar a useful thing?#Календарь полезная вещь?
+They have hardly any books.#Вряд ли у них есть какие-либо книги.
+He walks quickly.#Он быстро ходит. (ходит как? быстро)
+She is a very good teacher.#Она очень хороший преподаватель (хороший в какой степени? очень)
+He speaks English quite well.#Он говорит по-английски довольно хорошо. (хорошо как? довольно)
+He drives badly.#Он плохо водит машину.
+She did it nicely.#Она мило это сделала.
+I can do it easily.#Я могу это легко сделать.
+It happens daily.#Это случается ежедневно.
+He fully understands me.#Он полностью меня понимает.
+I shall do it gladly.#Я сделаю это с радостью (досл.: радостно.)
+She sang beautifully.#Она прекрасно пела.
+The sky was strangely dark.#Небо было удивительно темным.
+This woman is widely known.#Эта женщина широко известна.
+They are truly great.#Они действительно большие.
