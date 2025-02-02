@@ -1,61 +1,61 @@
-We pay at the cash-desk.#Мы платим в кассу.
-How much discount do I get?#Какую скидку я получаю? (досл.: Сколько скидки я получаю?)
-I've lost my shopping-list.#Я потерял свой список покупок.
-There are many customers.#(Есть) много покупателей.
-When do the sales begin?#Когда начинается распродажа?
-My shopping-bag is full.#Моя сумка для покупок полная.
-We look at the shop-windows.#Мы смотрим на витрины.
-Have you taken a trolley yet?#Ты уже взял тележку?
-She's looking for bargains.#Она ищет дешевые товары.
-How many shop-assistants are there?#Сколько там продавцов?
-We cannot find the exit.#Мы не можем найти выход.
-Have you got a receipt?#Ты получил квитанцию?
-Are there enough cash-desks?#Касс достаточно?
-I like sales.#Я люблю распродажи.
-My trolley is already full.#Моя тежека уже полная.
-I have only one shopping-bag.#У меня только одна сумка для покупок.
-There are four exits there.#Там четыре выхода.
-This is nice shopping-assistant.#Это милая продавщица.
-Many customers are already leaving.#Многие клиенты уже выходят.
-He has lost his receipt.#Он потерял свою квитанцию.
-Have you made a shopping-list?#Ты сделал список покупок?
-There is a nice radio in the shopping-window.#На витрине красивое радио.
-We give large discounts.#Мы даем большие скидки.
-This is the same car.#Это тот же автомобиль.
-How much is this clock?#Сколько стоят эти часы?
-How much do you want to pay?#Сколько ты хочешь заплатить?
-Is that customer satisfied?#Тот покупатель доволен?
-I was hardly ever in this shop.#Я вряд ли был в этом магазине.
-Is that story true?#Та история правдива?
-He always buys useful things.#Он всегда покупает полезные вещи.
-That is not important.#Это неважно.
-There is hardly any salt.#Здесь вряд ли есть соль.
-This is even cheaper.#Это даже дешевле.
-You have to pay cash.#Ты должне заплатить наличными.
-Are shop-assistants unskilled?#Продавцы неквалифицированные?
-I have hardly enough money.#У меня едва хватает денег.
-Are you satisfied with your job?#Ты довольна своей работой?
-Everybody says it is true.#Каждый говорит, что это правда.
-We earn the same wages.#Мы получаем ту же зарплату.
-How much is this bicycle?#Сколько стоит этот велосипед?
-He was even fired.#Он был даже уволен с работы.
-They are unskilled labourers.#Они неквалифицированные рабочие.
-We always pay cash.#Мы всегда платим наличными.
-It is important to negotiate.#Это важно обсудить.
-She hardly spoke.#Она едва говорила.
-I hardly ever go to matches.#Я почти никогда не хожу на матчи.
-Is a calendar a useful thing?#Календарь полезная вещь?
-They have hardly any books.#Вряд ли у них есть какие-либо книги.
-He walks quickly.#Он быстро ходит. (ходит как? быстро)
-She is a very good teacher.#Она очень хороший преподаватель (хороший в какой степени? очень)
-He speaks English quite well.#Он говорит по-английски довольно хорошо. (хорошо как? довольно)
-He drives badly.#Он плохо водит машину.
-She did it nicely.#Она мило это сделала.
-I can do it easily.#Я могу это легко сделать.
-It happens daily.#Это случается ежедневно.
-He fully understands me.#Он полностью меня понимает.
-I shall do it gladly.#Я сделаю это с радостью (досл.: радостно.)
-She sang beautifully.#Она прекрасно пела.
-The sky was strangely dark.#Небо было удивительно темным.
-This woman is widely known.#Эта женщина широко известна.
-They are truly great.#Они действительно большие.
+We pay at the cash-desk.#РњС‹ РїР»Р°С‚РёРј РІ РєР°СЃСЃСѓ.
+How much discount do I get?#РљР°РєСѓСЋ СЃРєРёРґРєСѓ СЏ РїРѕР»СѓС‡Р°СЋ? (РґРѕСЃР».: РЎРєРѕР»СЊРєРѕ СЃРєРёРґРєРё СЏ РїРѕР»СѓС‡Р°СЋ?)
+I've lost my shopping-list.#РЇ РїРѕС‚РµСЂСЏР» СЃРІРѕР№ СЃРїРёСЃРѕРє РїРѕРєСѓРїРѕРє.
+There are many customers.#(Р•СЃС‚СЊ) РјРЅРѕРіРѕ РїРѕРєСѓРїР°С‚РµР»РµР№.
+When do the sales begin?#РљРѕРіРґР° РЅР°С‡РёРЅР°РµС‚СЃСЏ СЂР°СЃРїСЂРѕРґР°Р¶Р°?
+My shopping-bag is full.#РњРѕСЏ СЃСѓРјРєР° РґР»СЏ РїРѕРєСѓРїРѕРє РїРѕР»РЅР°СЏ.
+We look at the shop-windows.#РњС‹ СЃРјРѕС‚СЂРёРј РЅР° РІРёС‚СЂРёРЅС‹.
+Have you taken a trolley yet?#РўС‹ СѓР¶Рµ РІР·СЏР» С‚РµР»РµР¶РєСѓ?
+She's looking for bargains.#РћРЅР° РёС‰РµС‚ РґРµС€РµРІС‹Рµ С‚РѕРІР°СЂС‹.
+How many shop-assistants are there?#РЎРєРѕР»СЊРєРѕ С‚Р°Рј РїСЂРѕРґР°РІС†РѕРІ?
+We cannot find the exit.#РњС‹ РЅРµ РјРѕР¶РµРј РЅР°Р№С‚Рё РІС‹С…РѕРґ.
+Have you got a receipt?#РўС‹ РїРѕР»СѓС‡РёР» РєРІРёС‚Р°РЅС†РёСЋ?
+Are there enough cash-desks?#РљР°СЃСЃ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ?
+I like sales.#РЇ Р»СЋР±Р»СЋ СЂР°СЃРїСЂРѕРґР°Р¶Рё.
+My trolley is already full.#РњРѕСЏ С‚РµР¶РµРєР° СѓР¶Рµ РїРѕР»РЅР°СЏ.
+I have only one shopping-bag.#РЈ РјРµРЅСЏ С‚РѕР»СЊРєРѕ РѕРґРЅР° СЃСѓРјРєР° РґР»СЏ РїРѕРєСѓРїРѕРє.
+There are four exits there.#РўР°Рј С‡РµС‚С‹СЂРµ РІС‹С…РѕРґР°.
+This is nice shopping-assistant.#Р­С‚Рѕ РјРёР»Р°СЏ РїСЂРѕРґР°РІС‰РёС†Р°.
+Many customers are already leaving.#РњРЅРѕРіРёРµ РєР»РёРµРЅС‚С‹ СѓР¶Рµ РІС‹С…РѕРґСЏС‚.
+He has lost his receipt.#РћРЅ РїРѕС‚РµСЂСЏР» СЃРІРѕСЋ РєРІРёС‚Р°РЅС†РёСЋ.
+Have you made a shopping-list?#РўС‹ СЃРґРµР»Р°Р» СЃРїРёСЃРѕРє РїРѕРєСѓРїРѕРє?
+There is a nice radio in the shopping-window.#РќР° РІРёС‚СЂРёРЅРµ РєСЂР°СЃРёРІРѕРµ СЂР°РґРёРѕ.
+We give large discounts.#РњС‹ РґР°РµРј Р±РѕР»СЊС€РёРµ СЃРєРёРґРєРё.
+This is the same car.#Р­С‚Рѕ С‚РѕС‚ Р¶Рµ Р°РІС‚РѕРјРѕР±РёР»СЊ.
+How much is this clock?#РЎРєРѕР»СЊРєРѕ СЃС‚РѕСЏС‚ СЌС‚Рё С‡Р°СЃС‹?
+How much do you want to pay?#РЎРєРѕР»СЊРєРѕ С‚С‹ С…РѕС‡РµС€СЊ Р·Р°РїР»Р°С‚РёС‚СЊ?
+Is that customer satisfied?#РўРѕС‚ РїРѕРєСѓРїР°С‚РµР»СЊ РґРѕРІРѕР»РµРЅ?
+I was hardly ever in this shop.#РЇ РІСЂСЏРґ Р»Рё Р±С‹Р» РІ СЌС‚РѕРј РјР°РіР°Р·РёРЅРµ.
+Is that story true?#РўР° РёСЃС‚РѕСЂРёСЏ РїСЂР°РІРґРёРІР°?
+He always buys useful things.#РћРЅ РІСЃРµРіРґР° РїРѕРєСѓРїР°РµС‚ РїРѕР»РµР·РЅС‹Рµ РІРµС‰Рё.
+That is not important.#Р­С‚Рѕ РЅРµРІР°Р¶РЅРѕ.
+There is hardly any salt.#Р—РґРµСЃСЊ РІСЂСЏРґ Р»Рё РµСЃС‚СЊ СЃРѕР»СЊ.
+This is even cheaper.#Р­С‚Рѕ РґР°Р¶Рµ РґРµС€РµРІР»Рµ.
+You have to pay cash.#РўС‹ РґРѕР»Р¶РЅРµ Р·Р°РїР»Р°С‚РёС‚СЊ РЅР°Р»РёС‡РЅС‹РјРё.
+Are shop-assistants unskilled?#РџСЂРѕРґР°РІС†С‹ РЅРµРєРІР°Р»РёС„РёС†РёСЂРѕРІР°РЅРЅС‹Рµ?
+I have hardly enough money.#РЈ РјРµРЅСЏ РµРґРІР° С…РІР°С‚Р°РµС‚ РґРµРЅРµРі.
+Are you satisfied with your job?#РўС‹ РґРѕРІРѕР»СЊРЅР° СЃРІРѕРµР№ СЂР°Р±РѕС‚РѕР№?
+Everybody says it is true.#РљР°Р¶РґС‹Р№ РіРѕРІРѕСЂРёС‚, С‡С‚Рѕ СЌС‚Рѕ РїСЂР°РІРґР°.
+We earn the same wages.#РњС‹ РїРѕР»СѓС‡Р°РµРј С‚Сѓ Р¶Рµ Р·Р°СЂРїР»Р°С‚Сѓ.
+How much is this bicycle?#РЎРєРѕР»СЊРєРѕ СЃС‚РѕРёС‚ СЌС‚РѕС‚ РІРµР»РѕСЃРёРїРµРґ?
+He was even fired.#РћРЅ Р±С‹Р» РґР°Р¶Рµ СѓРІРѕР»РµРЅ СЃ СЂР°Р±РѕС‚С‹.
+They are unskilled labourers.#РћРЅРё РЅРµРєРІР°Р»РёС„РёС†РёСЂРѕРІР°РЅРЅС‹Рµ СЂР°Р±РѕС‡РёРµ.
+We always pay cash.#РњС‹ РІСЃРµРіРґР° РїР»Р°С‚РёРј РЅР°Р»РёС‡РЅС‹РјРё.
+It is important to negotiate.#Р­С‚Рѕ РІР°Р¶РЅРѕ РѕР±СЃСѓРґРёС‚СЊ.
+She hardly spoke.#РћРЅР° РµРґРІР° РіРѕРІРѕСЂРёР»Р°.
+I hardly ever go to matches.#РЇ РїРѕС‡С‚Рё РЅРёРєРѕРіРґР° РЅРµ С…РѕР¶Сѓ РЅР° РјР°С‚С‡Рё.
+Is a calendar a useful thing?#РљР°Р»РµРЅРґР°СЂСЊ РїРѕР»РµР·РЅР°СЏ РІРµС‰СЊ?
+They have hardly any books.#Р’СЂСЏРґ Р»Рё Сѓ РЅРёС… РµСЃС‚СЊ РєР°РєРёРµ-Р»РёР±Рѕ РєРЅРёРіРё.
+He walks quickly.#РћРЅ Р±С‹СЃС‚СЂРѕ С…РѕРґРёС‚. (С…РѕРґРёС‚ РєР°Рє? Р±С‹СЃС‚СЂРѕ)
+She is a very good teacher.#РћРЅР° РѕС‡РµРЅСЊ С…РѕСЂРѕС€РёР№ РїСЂРµРїРѕРґР°РІР°С‚РµР»СЊ (С…РѕСЂРѕС€РёР№ РІ РєР°РєРѕР№ СЃС‚РµРїРµРЅРё? РѕС‡РµРЅСЊ)
+He speaks English quite well.#РћРЅ РіРѕРІРѕСЂРёС‚ РїРѕ-Р°РЅРіР»РёР№СЃРєРё РґРѕРІРѕР»СЊРЅРѕ С…РѕСЂРѕС€Рѕ. (С…РѕСЂРѕС€Рѕ РєР°Рє? РґРѕРІРѕР»СЊРЅРѕ)
+He drives badly.#РћРЅ РїР»РѕС…Рѕ РІРѕРґРёС‚ РјР°С€РёРЅСѓ.
+She did it nicely.#РћРЅР° РјРёР»Рѕ СЌС‚Рѕ СЃРґРµР»Р°Р»Р°.
+I can do it easily.#РЇ РјРѕРіСѓ СЌС‚Рѕ Р»РµРіРєРѕ СЃРґРµР»Р°С‚СЊ.
+It happens daily.#Р­С‚Рѕ СЃР»СѓС‡Р°РµС‚СЃСЏ РµР¶РµРґРЅРµРІРЅРѕ.
+He fully understands me.#РћРЅ РїРѕР»РЅРѕСЃС‚СЊСЋ РјРµРЅСЏ РїРѕРЅРёРјР°РµС‚.
+I shall do it gladly.#РЇ СЃРґРµР»Р°СЋ СЌС‚Рѕ СЃ СЂР°РґРѕСЃС‚СЊСЋ (РґРѕСЃР».: СЂР°РґРѕСЃС‚РЅРѕ.)
+She sang beautifully.#РћРЅР° РїСЂРµРєСЂР°СЃРЅРѕ РїРµР»Р°.
+The sky was strangely dark.#РќРµР±Рѕ Р±С‹Р»Рѕ СѓРґРёРІРёС‚РµР»СЊРЅРѕ С‚РµРјРЅС‹Рј.
+This woman is widely known.#Р­С‚Р° Р¶РµРЅС‰РёРЅР° С€РёСЂРѕРєРѕ РёР·РІРµСЃС‚РЅР°.
+They are truly great.#РћРЅРё РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ Р±РѕР»СЊС€РёРµ.
