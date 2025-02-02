@@ -1,0 +1,46 @@
+Are these towels clean?#Эти полотенца чистые?
+We keep meat in the fridge.#Мы храним (держим) мясо в холодильнике.
+All the cupboards are full.#Все буфеты заполнены.
+I'm looking for the saucepan.#Я ищу кастрюлю.
+Where have you left the mop?#Где ты оставила швабру?
+Put those cups into the sink.#Положи чашки в раковину.
+Do they stock gas-cookers?#У них есть на складе газовые плиты?
+Put them in the oven.#Положи их в духовку.
+Bring me a bucket, please.#Пожалуйста, принеси мне ведро!
+Water comes out of the tap.#Вода течёт из крана.
+Is the rubbish-bin empty?#Корзина для мусора пустая?
+We want tiles on the walls.#Мы хотим кафель на стенах.
+I need a wire to switch on a radio.#Мне нужен провод, чтобы включить радио.
+We clean the floor with a mop.#Мы моем пол шваброй.
+The rubbish-bin was wrapped up.#Корзина для мусора была упакована.
+They have two taps.#У них два крана.
+Is there anything in that bucket?#В том ведре что-то есть?
+A fridge is very useful.#Холодильник очень полезен.
+The gas-cooker is heavy.#Газовая плита тяжелая.
+The plates are in the sink.#Тарелки в раковине.
+I like brown tiles.#Мне нравится коричневый кафель.
+The saucepan is not large enough.#Кастрюля недостаточно большая.
+Have you looked in the cupboards?#Ты смотрела в шкафах для посуды?
+Give me some towels.#Дай мне несколько полотенец.
+The backer puts the bread into the oven.#Пекарь кладет хлеб в духовку.
+She visits me monthly.#Она навещает меня каждый месяц. (досл.:ежемесячно)
+She came late.#Она пришла поздно.
+The door was wide open.#Дверь была широко открыта.
+She left early.#Она вышла рано.
+We work hard.#Мы тяжело работаем.
+Is this wire insulated?#Этот провод изолированный?
+My sister's house is for sale.#Дом моей сестры выставлен на продажу.
+The fridge is out of order.#Холодильник испорчен.
+The greasy plates are cleaned.#Жирные тарелки вымыты. (досл.: почищены)
+There are few rooms to let.#Мало комнат сдается внаём.
+He usually leaves early.#Он обычно уходит рано.
+There are hardly any houses for sale.#Вряд ли есть дома для продажи.
+Their toaster is out of order.#Их тостер испорчен.
+The oven is very greasy.#Духовка очень жирная.
+Are there any houses to late?#Сдаются ли какие-то дома внаём?
+It is usually delivered.#Это обычно доставляется.
+Insulated wires are more expensive.#Изолированные провода дороже.
+I have left it somewhere.#Я это где-то оставил.
+Have you seen it anywhere?#Ты где-нибудь это видел?
+I can't find it anywhere.#Я нигде не могу это найти. (вариант 1)
+I can find it nowhere.#Я нигде не могу это найти. (вариант 2)

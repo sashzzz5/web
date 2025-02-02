@@ -1,0 +1,88 @@
+They mopped the kitchen floor.#Они вытерли пол в кухне.
+Have you ironed the shirts?#Ты погладил сорочки?
+We dusted the chairs.#Мы вытерли стулья от пыли.
+He has peeled potatoes.#Он почистил картофель.
+She emptied the ashtrays.#Она вытряхнула пепельницу.
+I have turned off the radio.#Я выключил радио.
+He has turned on the television.#Он включил телевизор.
+Have you mopped it?#Ты это протерла?
+We ironed fewer shirts.#Мы погладили меньше сорочек.
+Have you dusted everything?#Ты все протер от пыли?
+He has emptied the rubbish-bin.#Он опорожнил корзину для мусора.
+Turn it off, please.#Выключи это, пожалуйста.
+The floor was mopped badly.#Пол был плохо протерт.
+Who is peeling the potatoes?#Кто чистит картофель?
+She has dusted the bookcase.#Она вытерла пыль в книжном шкафу.
+Have the shirts been ironed?#Сорочки поглажены?
+The rubbish-bin is emptied daily.#Мусорную корзину опорожняют каждый день.
+I shall turn it on.#Я это включу.
+They were dusting everything.#Они все протирали от пыли.
+The bucket was not emptied.#Ведро не было опустошено.
+She left earlier.#Она вышла раньше.
+We have waited longest.#Мы ждали дольше всего.
+It happened oftener then.#Это тогда случалось чаще.
+You work hardest.#Ты работаешь упорнее всего.
+He came later.#Он пришел позже.
+They opened the door wider.#Они открыли дверь шире.
+I have bought it cheapest.#Я это купила дешевле всего.
+She sang higher than her sister.#Она пела выше, чем ее сестра.
+They walked faster.#Они шли быстрее.
+You can do it more easily.#Ты можешь это сделать легче.
+She sang more beautifully.#Она пела красивее.
+He does his job well.#Он выполняет свою работу хорошо.
+You sing well.#Вы хорошо поёте.
+I know them well.#Я знаю их хорошо.
+The shirts were ironed well.#Сорочки были хорошо выглажены.
+Can he do it better?#Он может это сделать лучше?
+They did their homework worst.#Они сделали домашнюю работу хуже всего.
+Can you open the door wider?#Ты можешь шире открыть дверь?
+They walked fastest.#Они шли быстрее всех.
+We came oftenest.#Мы приходили чаще всего.
+Who left earliest?#Кто ушел раньше всех?
+They sang best.#Они пели лучше всех.
+He can peel potatoes fastest.#Он может быстрее всех почистить картофель.
+That window was open widest.#То окно было открыто шире всего.
+She understands him best.#Она понимает его лучше всех.
+We cannot wait longer.#Мы не можем ждать дольше.
+Have you worked harder?#Ты работал упорнее?
+He has wrapped it up worse.#Он это запаковал хуже.
+She usually walks to the office.#Она обычно идет до офиса пешком.
+I got a badly-written letter.#Я получил плохо написанное письмо.
+She writes beautifully.#Она пишет красиво.
+I shall gladly do this job.#Я охотно сделаю эту работу.
+John was given the English book.#Джону дали английскую книгу.
+The English book was given to John.#Английскую книгу дали Джону.
+They gave him some apples.#Они дали ему несколько яблок.
+He was given some apples.#Ему дали несколько яблок.
+His parents have permitted him to go.#Его родители разрешили ему идти.
+He has been permitted to go.#Ему разрешили идти.
+The management has promised them good wages.#Руководство пообещало им хорошую заработную плату.
+They have been promised good wages.#Им была обещана хорошая заработная плата.
+Her mother refused her the money for the earrings.#Её мать отказалась дать ей деньги (досл.: отказала ей в деньгах) на серьги.
+She was refused the money for the earrings.#Ей было отказано в деньгах на серьги.
+They have allowed us a long break.#Они позволили нам сделать долгий перерыв.
+We have been allowed a long break.#Нам позволили сделать долгий перерыв.
+This wire is more fully insulated.#Этот провод изолирован лучше. (досл.: полнее)
+Her was shown a faster car.#Ей был показан более быстрый автомобиль.
+You have to empty the rubbish-bins earlier.#Ты должен опустошить корзины для мусора раньше.
+We were paid higher wages.#Нам была выплачена более высокая зарплата.
+I can't find the bucket anywhere.#Я нигде не могу найти ведро. (вариант 1)
+I can find the bucket nowhere.#Я нигде не могу найти ведро. (вариант 2)
+He was allowed more breaks.#Ему было разрешено (делать) больше перерывов.
+The fridge was sold cheap.#Холодильник был продан дешево.
+They worked even harder.#Они работали даже тяжелее.
+She was offered a large discount.#Ей была предложена большая скидка.
+Have you seen the towel anywhere?#Ты где-нибудь видела полотенце?
+We worked longer.#Мы работали дольше.
+The floor has to be mopped oftener.#Пол должен вытираться чаще.
+You have been told the news.#Тебе была рассказана (эта) новость.
+I can peel the potatoes better than you.#Я могу очистить картофель лучше тебя.
+He usually drives best.#Он обычно водит машину лучше всех.
+Clean this greasy gas-cooker.#Почисти эту жирную газовую плиту.
+Has the fridge been turned on?#Холодильник включили?
+The radio is out of order.#Радио неисправно.
+We were promised a raise.#Нам было обещано повышение.
+I was asked not to leave yet.#Меня просили еще не уходить.
+Can he sing higher?#Он может петь выше?
+The letters are sent monthly.#Письма посылаются ежемесячно.
+The windows are wide open.#Окна широко открыты.
