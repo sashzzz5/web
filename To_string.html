@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Учебная таблица</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #FFFFCC;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            min-height: 100vh;
+        }
+        table {
+            width: auto;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px 16px;
+            text-align: left;
+            white-space: nowrap;
+        }
+        th {
+            background-color: #007BFF;
+            color: white;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+        input[type="checkbox"] {
+            transform: scale(1.2);
+        }
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            table {
+                width: 100%;
+                overflow-x: auto;
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>✔</th>
+                <th>lesson</th>
+                <th>N</th>
+                <th>✔</th>
+                <th>study</th>
+                <th>to page</th>
+                <th>✔</th>
+                <th>RUS->ENG 1</th>
+                <th>✔</th>
+                <th>RUS->ENG 2</th>
+				<th>✔</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><input type="checkbox" class="save-state" id="cb-1"></td>
+                <td>lesson</td>
+                <td>17-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-2"></td>
+                <td>17-1-1</td>
+                <td></td>
+                <td><input type="checkbox" class="save-state" id="cb-3"></td>
+                <td>16-2-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-4"></td>
+                <td>17-1-1</td>
+				<td><input type="checkbox" class="save-state" id="cb-5"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-6"></td>
+                <td>lesson</td>
+                <td>17-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-7"></td>
+                <td>17-1-2</td>
+                <td>27</td>
+                <td><input type="checkbox" class="save-state" id="cb-8"></td>
+                <td>17-1-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-9"></td>
+                <td>17-1-2</td>
+				<td><input type="checkbox" class="save-state" id="cb-10"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-11"></td>
+                <td>lesson</td>
+                <td>17-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-12"></td>
+                <td>17-2-1</td>
+                <td></td>
+                <td><input type="checkbox" class="save-state" id="cb-13"></td>
+                <td>17-1-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-14"></td>
+                <td>17-2-1</td>
+				<td><input type="checkbox" class="save-state" id="cb-15"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-16"></td>
+                <td>lesson</td>
+                <td>17-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-17"></td>
+                <td>17-2-2</td>
+                <td>17</td>
+                <td><input type="checkbox" class="save-state" id="cb-18"></td>
+                <td>17-2-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-19"></td>
+                <td>17-2-2</td>
+				<td><input type="checkbox" class="save-state" id="cb-20"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-21"></td>
+                <td>lesson</td>
+                <td>18-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-22"></td>
+                <td>18-1-1</td>
+                <td></td>
+                <td><input type="checkbox" class="save-state" id="cb-23"></td>
+                <td>17-2-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-24"></td>
+                <td>18-1-1</td>
+				<td><input type="checkbox" class="save-state" id="cb-25"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-26"></td>
+                <td>lesson</td>
+                <td>18-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-27"></td>
+                <td>18-1-2</td>
+                <td>27</td>
+                <td><input type="checkbox" class="save-state" id="cb-28"></td>
+                <td>18-1-1</td>
+                <td><input type="checkbox" class="save-state" id="cb-29"></td>
+                <td>18-1-2</td>
+				<td><input type="checkbox" class="save-state" id="cb-30"></td>
+				</tr>
+				</tr>
+				<td><input type="checkbox" class="save-state" id="cb-31"></td>
+                <td>lesson</td>
+                <td>18-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-32"></td>
+                <td>18-2</td>
+                <td></td>
+                <td><input type="checkbox" class="save-state" id="cb-33"></td>
+                <td>18-1-2</td>
+                <td><input type="checkbox" class="save-state" id="cb-34"></td>
+                <td>18-2</td>
+				<td><input type="checkbox" class="save-state" id="cb-35"></td>
+				
+				
+				
+				
+            </tr>
+            <!-- Добавить остальные строки по аналогии -->
+        </tbody>
+    </table>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            document.querySelectorAll(".save-state").forEach(function (checkbox) {
+                let savedState = localStorage.getItem(checkbox.id);
+                if (savedState === "true") {
+                    checkbox.checked = true;
+                }
+                checkbox.addEventListener("change", function () {
+                    localStorage.setItem(checkbox.id, checkbox.checked);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
