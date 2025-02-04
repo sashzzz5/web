@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Учебная таблица</title>
     
-    <!-- Firebase SDK (правильные версии) -->
+    <!-- Firebase SDK -->
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
@@ -20,6 +20,12 @@
             flex-direction: column;
             align-items: center;
             min-height: 100vh;
+        }
+        button {
+            padding: 10px 15px;
+            font-size: 16px;
+            margin-bottom: 10px;
+            cursor: pointer;
         }
         table {
             width: auto;
@@ -51,12 +57,16 @@
             transform: scale(1.2);
         }
         #login-status {
-            margin-bottom: 20px;
+            margin-bottom: 10px;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
     <div id="login-status">Авторизация...</div>
+    <button id="google-login">Войти через Google</button>
+    <button id="logout" style="display: none;">Выйти</button>
+
     <table>
         <thead>
             <tr>
@@ -85,7 +95,6 @@
                 <td><input type="checkbox" class="save-state" id="cb-4"></td>
                 <td>17-1-1</td>
             </tr>
-            <!-- Добавить остальные строки по аналогии -->
         </tbody>
     </table>
 
@@ -95,41 +104,57 @@
             authDomain: "lesson-my.firebaseapp.com",
             databaseURL: "https://lesson-my-default-rtdb.firebaseio.com",
             projectId: "lesson-my",
-            storageBucket: "lesson-my.appspot.com",  // <-- исправлено
+            storageBucket: "lesson-my.appspot.com",
             messagingSenderId: "121456912805",
             appId: "1:121456912805:web:e9d0b60204767b708c204c"
         };
 
-        // Инициализация Firebase
         firebase.initializeApp(firebaseConfig);
         const db = firebase.firestore();
         const auth = firebase.auth();
+
         const checkboxes = document.querySelectorAll(".save-state");
         const loginStatus = document.getElementById("login-status");
+        const googleLoginButton = document.getElementById("google-login");
+        const logoutButton = document.getElementById("logout");
 
-        // Анонимная авторизация пользователя
-        auth.signInAnonymously()
-            .then(userCredential => {
-                const user = userCredential.user;
-                loginStatus.innerText = "Вы вошли как анонимный пользователь";
-
-                // Загрузка данных чекбоксов из Firestore
-                db.collection("users").doc(user.uid).collection("checkboxes").get()
-                    .then(snapshot => {
-                        snapshot.forEach(doc => {
-                            const checkbox = document.getElementById(doc.id);
-                            if (checkbox) {
-                                checkbox.checked = doc.data().checked;
-                            }
-                        });
-                    });
-            })
-            .catch(error => {
-                console.error("Ошибка аутентификации:", error.code, error.message);
+        // Вход через Google
+        googleLoginButton.addEventListener("click", () => {
+            const provider = new firebase.auth.GoogleAuthProvider();
+            auth.signInWithPopup(provider).then(result => {
+                loginStatus.innerText = `Вы вошли как ${result.user.displayName}`;
+                googleLoginButton.style.display = "none";
+                logoutButton.style.display = "inline-block";
+                loadCheckboxes(result.user.uid);
+            }).catch(error => {
                 loginStatus.innerText = "Ошибка авторизации: " + error.message;
             });
+        });
 
-        // Сохранение состояния чекбоксов
+        // Выход из аккаунта
+        logoutButton.addEventListener("click", () => {
+            auth.signOut().then(() => {
+                loginStatus.innerText = "Вы вышли из аккаунта";
+                googleLoginButton.style.display = "inline-block";
+                logoutButton.style.display = "none";
+                checkboxes.forEach(checkbox => checkbox.checked = false);
+            });
+        });
+
+        // Загрузка состояний чекбоксов
+        function loadCheckboxes(userId) {
+            db.collection("users").doc(userId).collection("checkboxes").get()
+                .then(snapshot => {
+                    snapshot.forEach(doc => {
+                        const checkbox = document.getElementById(doc.id);
+                        if (checkbox) {
+                            checkbox.checked = doc.data().checked;
+                        }
+                    });
+                });
+        }
+
+        // Сохранение состояний чекбоксов
         checkboxes.forEach(checkbox => {
             checkbox.addEventListener("change", function () {
                 auth.onAuthStateChanged(user => {
@@ -140,6 +165,20 @@
                     }
                 });
             });
+        });
+
+        // Проверка входа при загрузке
+        auth.onAuthStateChanged(user => {
+            if (user) {
+                loginStatus.innerText = `Вы вошли как ${user.displayName || "пользователь"}`;
+                googleLoginButton.style.display = "none";
+                logoutButton.style.display = "inline-block";
+                loadCheckboxes(user.uid);
+            } else {
+                loginStatus.innerText = "Вы не вошли в систему";
+                googleLoginButton.style.display = "inline-block";
+                logoutButton.style.display = "none";
+            }
         });
     </script>
 </body>
