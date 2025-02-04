@@ -4,9 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Учебная таблица</title>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>
+    
+    <!-- Firebase SDK (правильные версии) -->
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -88,43 +91,52 @@
 
     <script>
         const firebaseConfig = {
-           apiKey: "AIzaSyAYz8rcQuxamOK4uZqCCttbfeYemi3rcfs",
-           authDomain: "lesson-my.firebaseapp.com",
-           projectId: "lesson-my",
-           storageBucket: "lesson-my.appspot.com",
-           messagingSenderId: "121456912805",
-           appId: "1:121456912805:web:e9d0b60204767b708c204c"
+            apiKey: "AIzaSyAYz8rcQuxamOK4uZqCCttbfeYemi3rcfs",
+            authDomain: "lesson-my.firebaseapp.com",
+            databaseURL: "https://lesson-my-default-rtdb.firebaseio.com",
+            projectId: "lesson-my",
+            storageBucket: "lesson-my.appspot.com",  // <-- исправлено
+            messagingSenderId: "121456912805",
+            appId: "1:121456912805:web:e9d0b60204767b708c204c"
         };
-        
+
+        // Инициализация Firebase
         firebase.initializeApp(firebaseConfig);
         const db = firebase.firestore();
         const auth = firebase.auth();
         const checkboxes = document.querySelectorAll(".save-state");
         const loginStatus = document.getElementById("login-status");
 
-        auth.signInAnonymously().then(userCredential => {
-            const user = userCredential.user;
-            loginStatus.innerText = "Вы вошли как анонимный пользователь";
-            
-            document.addEventListener("DOMContentLoaded", async function () {
-                const snapshot = await db.collection("users").doc(user.uid).collection("checkboxes").get();
-                snapshot.forEach(doc => {
-                    const checkbox = document.getElementById(doc.id);
-                    if (checkbox) {
-                        checkbox.checked = doc.data().checked;
-                    }
-                });
+        // Анонимная авторизация пользователя
+        auth.signInAnonymously()
+            .then(userCredential => {
+                const user = userCredential.user;
+                loginStatus.innerText = "Вы вошли как анонимный пользователь";
+
+                // Загрузка данных чекбоксов из Firestore
+                db.collection("users").doc(user.uid).collection("checkboxes").get()
+                    .then(snapshot => {
+                        snapshot.forEach(doc => {
+                            const checkbox = document.getElementById(doc.id);
+                            if (checkbox) {
+                                checkbox.checked = doc.data().checked;
+                            }
+                        });
+                    });
+            })
+            .catch(error => {
+                console.error("Ошибка аутентификации:", error.code, error.message);
+                loginStatus.innerText = "Ошибка авторизации: " + error.message;
             });
-        }).catch(error => {
-		    console.error("Ошибка аутентификации:", error.code, error.message);
-            loginStatus.innerText = "Ошибка авторизации: " + error.message;
-        });
-        
+
+        // Сохранение состояния чекбоксов
         checkboxes.forEach(checkbox => {
             checkbox.addEventListener("change", function () {
                 auth.onAuthStateChanged(user => {
                     if (user) {
-                        db.collection("users").doc(user.uid).collection("checkboxes").doc(checkbox.id).set({ checked: checkbox.checked });
+                        db.collection("users").doc(user.uid).collection("checkboxes").doc(checkbox.id).set({
+                            checked: checkbox.checked
+                        });
                     }
                 });
             });
