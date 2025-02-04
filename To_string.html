@@ -90,9 +90,8 @@
         const firebaseConfig = {
            apiKey: "AIzaSyAYz8rcQuxamOK4uZqCCttbfeYemi3rcfs",
            authDomain: "lesson-my.firebaseapp.com",
-           databaseURL: "https://lesson-my-default-rtdb.firebaseio.com",
            projectId: "lesson-my",
-           storageBucket: "lesson-my.firebasestorage.app",
+           storageBucket: "lesson-my.appspot.com",
            messagingSenderId: "121456912805",
            appId: "1:121456912805:web:e9d0b60204767b708c204c"
         };
@@ -117,6 +116,7 @@
                 });
             });
         }).catch(error => {
+		    console.error("Ошибка аутентификации:", error.code, error.message);
             loginStatus.innerText = "Ошибка авторизации: " + error.message;
         });
         
