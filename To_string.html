@@ -4,15 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Учебная таблица</title>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #FFFFCC;
+            background-color: #f4f4f4;
             margin: 0;
             padding: 20px;
             display: flex;
-            justify-content: center;
-            align-items: flex-start;
+            flex-direction: column;
+            align-items: center;
             min-height: 100vh;
         }
         table {
@@ -44,19 +47,13 @@
         input[type="checkbox"] {
             transform: scale(1.2);
         }
-        @media (max-width: 768px) {
-            body {
-                padding: 10px;
-            }
-            table {
-                width: 100%;
-                overflow-x: auto;
-                display: block;
-            }
+        #login-status {
+            margin-bottom: 20px;
         }
     </style>
 </head>
 <body>
+    <div id="login-status">Авторизация...</div>
     <table>
         <thead>
             <tr>
@@ -70,7 +67,6 @@
                 <th>RUS->ENG 1</th>
                 <th>✔</th>
                 <th>RUS->ENG 2</th>
-				<th>✔</th>
             </tr>
         </thead>
         <tbody>
@@ -85,103 +81,51 @@
                 <td>16-2-2</td>
                 <td><input type="checkbox" class="save-state" id="cb-4"></td>
                 <td>17-1-1</td>
-				<td><input type="checkbox" class="save-state" id="cb-5"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-6"></td>
-                <td>lesson</td>
-                <td>17-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-7"></td>
-                <td>17-1-2</td>
-                <td>27</td>
-                <td><input type="checkbox" class="save-state" id="cb-8"></td>
-                <td>17-1-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-9"></td>
-                <td>17-1-2</td>
-				<td><input type="checkbox" class="save-state" id="cb-10"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-11"></td>
-                <td>lesson</td>
-                <td>17-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-12"></td>
-                <td>17-2-1</td>
-                <td></td>
-                <td><input type="checkbox" class="save-state" id="cb-13"></td>
-                <td>17-1-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-14"></td>
-                <td>17-2-1</td>
-				<td><input type="checkbox" class="save-state" id="cb-15"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-16"></td>
-                <td>lesson</td>
-                <td>17-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-17"></td>
-                <td>17-2-2</td>
-                <td>17</td>
-                <td><input type="checkbox" class="save-state" id="cb-18"></td>
-                <td>17-2-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-19"></td>
-                <td>17-2-2</td>
-				<td><input type="checkbox" class="save-state" id="cb-20"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-21"></td>
-                <td>lesson</td>
-                <td>18-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-22"></td>
-                <td>18-1-1</td>
-                <td></td>
-                <td><input type="checkbox" class="save-state" id="cb-23"></td>
-                <td>17-2-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-24"></td>
-                <td>18-1-1</td>
-				<td><input type="checkbox" class="save-state" id="cb-25"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-26"></td>
-                <td>lesson</td>
-                <td>18-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-27"></td>
-                <td>18-1-2</td>
-                <td>27</td>
-                <td><input type="checkbox" class="save-state" id="cb-28"></td>
-                <td>18-1-1</td>
-                <td><input type="checkbox" class="save-state" id="cb-29"></td>
-                <td>18-1-2</td>
-				<td><input type="checkbox" class="save-state" id="cb-30"></td>
-				</tr>
-				</tr>
-				<td><input type="checkbox" class="save-state" id="cb-31"></td>
-                <td>lesson</td>
-                <td>18-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-32"></td>
-                <td>18-2</td>
-                <td></td>
-                <td><input type="checkbox" class="save-state" id="cb-33"></td>
-                <td>18-1-2</td>
-                <td><input type="checkbox" class="save-state" id="cb-34"></td>
-                <td>18-2</td>
-				<td><input type="checkbox" class="save-state" id="cb-35"></td>
-				
-				
-				
-				
             </tr>
             <!-- Добавить остальные строки по аналогии -->
         </tbody>
     </table>
 
     <script>
-        document.addEventListener("DOMContentLoaded", function () {
-            document.querySelectorAll(".save-state").forEach(function (checkbox) {
-                let savedState = localStorage.getItem(checkbox.id);
-                if (savedState === "true") {
-                    checkbox.checked = true;
-                }
-                checkbox.addEventListener("change", function () {
-                    localStorage.setItem(checkbox.id, checkbox.checked);
+        const firebaseConfig = {
+           apiKey: "AIzaSyAYz8rcQuxamOK4uZqCCttbfeYemi3rcfs",
+           authDomain: "lesson-my.firebaseapp.com",
+           databaseURL: "https://lesson-my-default-rtdb.firebaseio.com",
+           projectId: "lesson-my",
+           storageBucket: "lesson-my.firebasestorage.app",
+           messagingSenderId: "121456912805",
+           appId: "1:121456912805:web:e9d0b60204767b708c204c"
+        };
+        
+        firebase.initializeApp(firebaseConfig);
+        const db = firebase.firestore();
+        const auth = firebase.auth();
+        const checkboxes = document.querySelectorAll(".save-state");
+        const loginStatus = document.getElementById("login-status");
+
+        auth.signInAnonymously().then(userCredential => {
+            const user = userCredential.user;
+            loginStatus.innerText = "Вы вошли как анонимный пользователь";
+            
+            document.addEventListener("DOMContentLoaded", async function () {
+                const snapshot = await db.collection("users").doc(user.uid).collection("checkboxes").get();
+                snapshot.forEach(doc => {
+                    const checkbox = document.getElementById(doc.id);
+                    if (checkbox) {
+                        checkbox.checked = doc.data().checked;
+                    }
+                });
+            });
+        }).catch(error => {
+            loginStatus.innerText = "Ошибка авторизации: " + error.message;
+        });
+        
+        checkboxes.forEach(checkbox => {
+            checkbox.addEventListener("change", function () {
+                auth.onAuthStateChanged(user => {
+                    if (user) {
+                        db.collection("users").doc(user.uid).collection("checkboxes").doc(checkbox.id).set({ checked: checkbox.checked });
+                    }
                 });
             });
         });
