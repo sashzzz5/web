@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Учебная таблица</title>
-	<link href="/web/favicon.ico" rel="icon" type="image/ico" />
-    
-    <!-- Firebase SDK -->
+    <link href="/web/favicon.ico" rel="icon" type="image/ico" />
+	
+    <!-- Подключаем Firebase (compat-версии) -->
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
@@ -22,34 +22,23 @@
             align-items: center;
             min-height: 100vh;
         }
-        button {
-            padding: 7px 12px;
-            font-size: 12px;
-            margin-bottom: 10px;
-            cursor: pointer;
-		}
-		.table-container {
-           width: 100%;
-           overflow-x: auto; /* Позволяет прокрутку на мобильных устройствах */
-           display: flex;
-           justify-content: center; /* Центрируем таблицу на экране */
+        #auth-container {
+            margin-bottom: 20px;
+            text-align: center;
         }
-		.table-wrapper {
-           width: 100%;
-           overflow-x: auto; /* Включаем горизонтальную прокрутку на мобильных устройствах */
-           display: flex;
-           justify-content: center; /* Центрируем содержимое */
+        input, button {
+            margin: 5px;
+            padding: 10px;
+            font-size: 16px;
         }
-	    table {
-            width: max-content; /* Таблица занимает ширину по содержимому */
-            max-width: 100%; /* Не выходит за границы экрана */
-            margin: 0 auto; /* Центрируем таблицу */
+        table {
+            width: auto;
             border-collapse: collapse;
             background: white;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
             overflow: hidden;
-           
+            margin: 20px auto;
         }
         th, td {
             border: 1px solid #ddd;
@@ -71,36 +60,47 @@
         input[type="checkbox"] {
             transform: scale(1.2);
         }
-        #login-status {
-            margin-bottom: 7px;
-            font-weight: bold;
+        .table-container {
+            overflow-x: auto;
+            width: 100%;
+            display: flex;
+            justify-content: center;
         }
     </style>
 </head>
 <body>
-    <div id="login-status">Авторизация...</div>
-    <button id="google-login">Войти через Google</button>
-    <button id="logout" style="display: none;">Выйти</button>
-<div class="table-container">
-    <table>
-        <thead>
-            <tr>
-                <th>✔</th>
-                <th>lesson</th>
-                <th>N</th>
-                <th>✔</th>
-                <th>study</th>
-                <th>to page</th>
-                <th>✔</th>
-                <th>RUS->ENG 1</th>
-                <th>✔</th>
-                <th>RUS->ENG 2</th>
-				<th>✔</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-              <td><input type="checkbox" class="save-state" id="cb-1"></td>
+
+    <!-- Форма входа и регистрации -->
+    <div id="auth-container">
+        <h2>Вход в систему</h2>
+        <input type="email" id="email" placeholder="Email">
+        <input type="password" id="password" placeholder="Пароль">
+        <button onclick="signIn()">Войти</button>
+        <button onclick="signUp()">Регистрация</button>
+        <button onclick="signOut()">Выход</button>
+        <p id="login-status">Не авторизован</p>
+    </div>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>✔</th>
+                    <th>lesson</th>
+                    <th>N</th>
+                    <th>✔</th>
+                    <th>study</th>
+                    <th>to page</th>
+                    <th>✔</th>
+                    <th>RUS->ENG 1</th>
+                    <th>✔</th>
+                    <th>RUS->ENG 2</th>
+					<th>✔</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                <td><input type="checkbox" class="save-state" id="cb-1"></td>
                 <td>lesson</td>
                 <td>17-1</td>
                 <td><input type="checkbox" class="save-state" id="cb-2"></td>
@@ -190,12 +190,14 @@
                 <td>18-2</td>
 				<td><input type="checkbox" class="save-state" id="cb-35"></td>
 				
-            </tr>
-        </tbody>
-    </table>
-	</div>
+                </tr>
+                <!-- Добавить остальные строки по аналогии -->
+            </tbody>
+        </table>
+    </div>
 
     <script>
+        // Firebase конфигурация
         const firebaseConfig = {
             apiKey: "AIzaSyAYz8rcQuxamOK4uZqCCttbfeYemi3rcfs",
             authDomain: "lesson-my.firebaseapp.com",
@@ -212,33 +214,38 @@
 
         const checkboxes = document.querySelectorAll(".save-state");
         const loginStatus = document.getElementById("login-status");
-        const googleLoginButton = document.getElementById("google-login");
-        const logoutButton = document.getElementById("logout");
 
-        // Вход через Google
-        googleLoginButton.addEventListener("click", () => {
-            const provider = new firebase.auth.GoogleAuthProvider();
-            auth.signInWithPopup(provider).then(result => {
-                loginStatus.innerText = `Вы вошли как ${result.user.displayName}`;
-                googleLoginButton.style.display = "none";
-                logoutButton.style.display = "inline-block";
-                loadCheckboxes(result.user.uid);
-            }).catch(error => {
-                loginStatus.innerText = "Ошибка авторизации: " + error.message;
-            });
-        });
+        // Функция входа
+        function signIn() {
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+            auth.signInWithEmailAndPassword(email, password)
+                .then(userCredential => {
+                    loginStatus.innerText = "Вы вошли как: " + userCredential.user.email;
+                    loadCheckboxes(userCredential.user.uid);
+                })
+                .catch(error => alert(error.message));
+        }
 
-        // Выход из аккаунта
-        logoutButton.addEventListener("click", () => {
+        // Функция регистрации
+        function signUp() {
+            const email = document.getElementById("email").value;
+            const password = document.getElementById("password").value;
+            auth.createUserWithEmailAndPassword(email, password)
+                .then(userCredential => {
+                    alert("Регистрация успешна! Теперь войдите.");
+                })
+                .catch(error => alert(error.message));
+        }
+
+        // Функция выхода
+        function signOut() {
             auth.signOut().then(() => {
-                loginStatus.innerText = "Вы вышли из аккаунта";
-                googleLoginButton.style.display = "inline-block";
-                logoutButton.style.display = "none";
-                checkboxes.forEach(checkbox => checkbox.checked = false);
+                loginStatus.innerText = "Не авторизован";
             });
-        });
+        }
 
-        // Загрузка состояний чекбоксов
+        // Загрузка чекбоксов из Firestore
         function loadCheckboxes(userId) {
             db.collection("users").doc(userId).collection("checkboxes").get()
                 .then(snapshot => {
@@ -251,32 +258,32 @@
                 });
         }
 
-        // Сохранение состояний чекбоксов
+        // Сохранение чекбоксов в Firestore
+        function saveCheckbox(userId, checkboxId, isChecked) {
+            db.collection("users").doc(userId).collection("checkboxes").doc(checkboxId)
+                .set({ checked: isChecked });
+        }
+
+        // Обработка изменений чекбоксов
         checkboxes.forEach(checkbox => {
             checkbox.addEventListener("change", function () {
-                auth.onAuthStateChanged(user => {
-                    if (user) {
-                        db.collection("users").doc(user.uid).collection("checkboxes").doc(checkbox.id).set({
-                            checked: checkbox.checked
-                        });
-                    }
-                });
+                const user = auth.currentUser;
+                if (user) {
+                    saveCheckbox(user.uid, checkbox.id, checkbox.checked);
+                }
             });
         });
 
-        // Проверка входа при загрузке
+        // Проверка авторизации при загрузке
         auth.onAuthStateChanged(user => {
             if (user) {
-                loginStatus.innerText = `Вы вошли как ${user.displayName || "пользователь"}`;
-                googleLoginButton.style.display = "none";
-                logoutButton.style.display = "inline-block";
+                loginStatus.innerText = "Вы вошли как: " + user.email;
                 loadCheckboxes(user.uid);
             } else {
-                loginStatus.innerText = "Вы не вошли в систему";
-                googleLoginButton.style.display = "inline-block";
-                logoutButton.style.display = "none";
+                loginStatus.innerText = "Не авторизован";
             }
         });
+
     </script>
 </body>
 </html>
