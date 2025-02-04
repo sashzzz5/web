@@ -29,8 +29,10 @@
             cursor: pointer;
 		}
 		.table-container {
-            width: 100%;
-            overflow-x: auto; /* Позволяет горизонтальную прокрутку */
+           width: 100%;
+           overflow-x: auto; /* Позволяет прокрутку на мобильных устройствах */
+           display: flex;
+           justify-content: center; /* Центрируем таблицу на экране */
         }
 	    table {
             width: max-content; /* Делает таблицу шире при необходимости */
