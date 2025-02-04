@@ -34,15 +34,22 @@
            display: flex;
            justify-content: center; /* Центрируем таблицу на экране */
         }
+		.table-wrapper {
+           width: 100%;
+           overflow-x: auto; /* Включаем горизонтальную прокрутку на мобильных устройствах */
+           display: flex;
+           justify-content: center; /* Центрируем содержимое */
+        }
 	    table {
-            width: max-content; /* Делает таблицу шире при необходимости */
-			max-width: 100%; /* Чтобы не выходила за пределы экрана */
+            width: max-content; /* Таблица занимает ширину по содержимому */
+            max-width: 100%; /* Не выходит за границы экрана */
+            margin: 0 auto; /* Центрируем таблицу */
             border-collapse: collapse;
             background: white;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
             overflow: hidden;
-            margin: 20px;
+           
         }
         th, td {
             border: 1px solid #ddd;
