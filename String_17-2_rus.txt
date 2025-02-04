@@ -15,11 +15,11 @@
 Моя тежека уже полная.#My trolley is already full.
 У меня только одна сумка для покупок.#I have only one shopping-bag.
 Там четыре выхода.#There are four exits there.
-Это милая продавщица.#This is nice shopping-assistant.
+Это милая продавщица.#This is nice shop-assistant.
 Многие клиенты уже выходят.#Many customers are already leaving.
 Он потерял свою квитанцию.#He has lost his receipt.
 Ты сделал список покупок?#Have you made a shopping-list?
-На витрине красивое радио.#There is a nice radio in the shopping-window.
+На витрине красивое радио.#There is a nice radio in the shop-window.
 Мы даем большие скидки.#We give large discounts.
 Это тот же автомобиль.#This is the same car.
 Сколько стоят эти часы?#How much is this clock?
@@ -31,7 +31,7 @@
 Это неважно.#That is not important.
 Здесь вряд ли есть соль.#There is hardly any salt.
 Это даже дешевле.#This is even cheaper.
-Ты должне заплатить наличными.#You have to pay cash.
+Ты должен заплатить наличными.#You have to pay cash.
 Продавцы неквалифицированные?#Are shop-assistants unskilled?
 У меня едва хватает денег.#I have hardly enough money.
 Ты довольна своей работой?#Are you satisfied with your job?
