@@ -28,22 +28,21 @@
             margin-bottom: 10px;
             cursor: pointer;
         }
-        .table-container {
-            width: 100%;
-            overflow-x: auto;
+        .controls {
             display: flex;
-            justify-content: center;
+            gap: 10px; /* Отступ между кнопками */
+            margin-bottom: 20px;
         }
-        .table-wrapper {
-            width: 100%;
-            overflow-x: auto;
-            display: flex;
-            justify-content: center;
+        .table-container {
+           width: 100%;
+           overflow-x: auto; /* Позволяет прокрутку на мобильных устройствах */
+           display: flex;
+           justify-content: center; /* Центрируем таблицу на экране */
         }
         table {
-            width: max-content;
-            max-width: 100%;
-            margin: 0 auto;
+            width: max-content; /* Таблица занимает ширину по содержимому */
+            max-width: 100%; /* Не выходит за границы экрана */
+            margin: 0 auto; /* Центрируем таблицу */
             border-collapse: collapse;
             background: white;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -78,10 +77,12 @@
 </head>
 <body>
     <div id="login-status">Авторизация...</div>
-    <button id="google-login">Войти через Google</button>
-    <button id="logout" style="display: none;">Выйти</button>
-    <button id="toggle-rows">Скрыть строки</button> <!-- Новая кнопка для скрытия строк -->
-
+    <div class="controls">
+        <button id="google-login">Войти через Google</button>
+        <button id="logout" style="display: none;">Выйти</button>
+        <button id="toggle-rows">Скрыть строки</button> <!-- Новая кнопка для скрытия строк -->
+    </div>
+    
     <div class="table-container">
         <table>
             <thead>
@@ -100,7 +101,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr class="table-row">
+                <tr class="row-1">
                     <td>18-1-2, 18-2-1</td>
                     <td><input type="checkbox" class="save-state" id="cb-60"></td>
                     <td>19-1-1</td>
@@ -113,7 +114,7 @@
                     <td>19-1</td>
                     <td><input type="checkbox" class="save-state" id="cb-64"></td>
                 </tr>
-                <tr class="table-row">
+                <tr class="row-2">
                     <td>18-2-1, 18-2-2</td>
                     <td><input type="checkbox" class="save-state" id="cb-65"></td>
                     <td>19-1-2</td>
@@ -150,8 +151,8 @@
         const googleLoginButton = document.getElementById("google-login");
         const logoutButton = document.getElementById("logout");
         const toggleRowsButton = document.getElementById("toggle-rows");
-
-        let areRowsHidden = false; // Флаг для состояния скрытых строк
+        
+        let areRowsHidden = false;
 
         // Вход через Google
         googleLoginButton.addEventListener("click", () => {
@@ -161,6 +162,7 @@
                 googleLoginButton.style.display = "none";
                 logoutButton.style.display = "inline-block";
                 loadCheckboxes(result.user.uid);
+                loadRowsVisibility(result.user.uid);
             }).catch(error => {
                 loginStatus.innerText = "Ошибка авторизации: " + error.message;
             });
@@ -186,7 +188,6 @@
                             checkbox.checked = doc.data().checked;
                         }
                     });
-                    toggleRowVisibility(); // После загрузки чекбоксов проверим, какие строки должны быть скрыты
                 });
         }
 
@@ -198,32 +199,47 @@
                         db.collection("users").doc(user.uid).collection("checkboxes").doc(checkbox.id).set({
                             checked: checkbox.checked
                         });
-                        toggleRowVisibility(); // Проверяем, скрывать ли строку после изменения состояния чекбокса
                     }
                 });
             });
         });
 
-        // Проверка видимости строк
+        // Загрузка состояния скрытых строк
+        function loadRowsVisibility(userId) {
+            db.collection("users").doc(userId).collection("settings").doc("rowsVisibility").get()
+                .then(doc => {
+                    if (doc.exists) {
+                        areRowsHidden = doc.data().areRowsHidden;
+                        toggleRowVisibility();
+                    }
+                });
+        }
+
+        // Сохранение состояния скрытых строк
+        function saveRowsVisibility(userId) {
+            db.collection("users").doc(userId).collection("settings").doc("rowsVisibility").set({
+                areRowsHidden
+            });
+        }
+
+        // Переключение видимости строк
         function toggleRowVisibility() {
-            const rows = document.querySelectorAll(".table-row");
+            const rows = document.querySelectorAll("tbody tr");
             rows.forEach(row => {
                 const checkboxesInRow = row.querySelectorAll("input[type='checkbox']");
                 const allChecked = Array.from(checkboxesInRow).every(checkbox => checkbox.checked);
-
                 if (allChecked) {
-                    row.style.display = areRowsHidden ? "none" : "table-row"; // Скрыть или показать строку
-                } else {
-                    row.style.display = "table-row"; // Строка всегда видна, если не все чекбоксы выбраны
+                    row.style.display = areRowsHidden ? "none" : "";
                 }
             });
         }
 
-        // Переключение кнопки для скрытия/показа строк
+        // Слушатель для кнопки скрытия строк
         toggleRowsButton.addEventListener("click", () => {
             areRowsHidden = !areRowsHidden;
-            toggleRowVisibility(); // Обновить видимость строк
-            toggleRowsButton.innerText = areRowsHidden ? "Все строки" : "Скрыть строки"; // Меняем текст на кнопке
+            saveRowsVisibility(auth.currentUser.uid);
+            toggleRowVisibility();
+            toggleRowsButton.innerText = areRowsHidden ? "Показать строки" : "Скрыть строки";
         });
 
         // Проверка входа при загрузке
@@ -233,6 +249,7 @@
                 googleLoginButton.style.display = "none";
                 logoutButton.style.display = "inline-block";
                 loadCheckboxes(user.uid);
+                loadRowsVisibility(user.uid);
             } else {
                 loginStatus.innerText = "Вы не вошли в систему";
                 googleLoginButton.style.display = "inline-block";
