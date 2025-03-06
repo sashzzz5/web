@@ -78,7 +78,7 @@
 <body>
     <div id="login-status">Авторизация...</div>
     <div class="controls">
-	    <button id="google-login">Войти через Google</button>
+        <button id="google-login">Войти через Google</button>
         <button id="logout" style="display: none;">Выйти</button>
         <button id="toggle-rows">Скрыть строки</button> <!-- Новая кнопка для скрытия строк -->
     </div>
@@ -218,6 +218,7 @@
                             checkbox.checked = doc.data().checked;
                         }
                     });
+                    checkRowsVisibility(); // После загрузки состояний чекбоксов проверяем видимость строк
                 });
         }
 
@@ -234,25 +235,21 @@
             });
         });
 
-        // Загрузка состояния скрытых строк
-        function loadRowsVisibility(userId) {
-            db.collection("users").doc(userId).collection("settings").doc("rowsVisibility").get()
-                .then(doc => {
-                    if (doc.exists) {
-                        areRowsHidden = doc.data().areRowsHidden;
-                        toggleRowVisibility();
-                    }
-                });
-        }
-
-        // Сохранение состояния скрытых строк
-        function saveRowsVisibility(userId) {
-            db.collection("users").doc(userId).collection("settings").doc("rowsVisibility").set({
-                areRowsHidden
+        // Проверка состояния скрытых строк
+        function checkRowsVisibility() {
+            const rows = document.querySelectorAll("tbody tr");
+            rows.forEach(row => {
+                const checkboxesInRow = row.querySelectorAll("input[type='checkbox']");
+                const allChecked = Array.from(checkboxesInRow).every(checkbox => checkbox.checked);
+                if (allChecked) {
+                    row.style.display = "none";
+                } else {
+                    row.style.display = "";
+                }
             });
         }
 
-        // Переключение видимости строк
+        // Скрыть или показать строки
         function toggleRowVisibility() {
             const rows = document.querySelectorAll("tbody tr");
             rows.forEach(row => {
@@ -271,6 +268,33 @@
             toggleRowVisibility();
             toggleRowsButton.innerText = areRowsHidden ? "Показать строки" : "Скрыть строки";
         });
+
+        // Сохранение состояния скрытых строк
+        function saveRowsVisibility(userId) {
+            const rows = document.querySelectorAll("tbody tr");
+            const visibility = Array.from(rows).map(row => {
+                const checkboxesInRow = row.querySelectorAll("input[type='checkbox']");
+                const allChecked = Array.from(checkboxesInRow).every(checkbox => checkbox.checked);
+                return allChecked ? "hidden" : "visible";
+            });
+            db.collection("users").doc(userId).set({ rowVisibility: visibility });
+        }
+
+        // Загрузка состояния скрытых строк
+        function loadRowsVisibility(userId) {
+            db.collection("users").doc(userId).get()
+                .then(doc => {
+                    if (doc.exists) {
+                        const visibility = doc.data().rowVisibility || [];
+                        const rows = document.querySelectorAll("tbody tr");
+                        visibility.forEach((state, index) => {
+                            if (rows[index]) {
+                                rows[index].style.display = state === "hidden" ? "none" : "";
+                            }
+                        });
+                    }
+                });
+        }
 
         // Проверка входа при загрузке
         auth.onAuthStateChanged(user => {
