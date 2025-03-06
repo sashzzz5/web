@@ -75,9 +75,6 @@
             margin-bottom: 7px;
             font-weight: bold;
         }
-		 .hidden-row {
-        display: none;
-        }
     </style>
 </head>
 <body>
@@ -99,13 +96,11 @@
 				<th>✔</th>
                 <th>N lessn.</th>
 				<th>✔</th>
-				<th>Скрыть строку</th>
-				<th>✔</th>
 			</tr>
         </thead>
         <tbody>
                 <tr><td>18-1-2, 18-2-1</td><td><input type="checkbox" class="save-state" id="cb-60"></td><td>19-1-1</td><td>7</td><td><input type="checkbox" class="save-state" id="cb-61"></td><td>18-2-2</td><td><input type="checkbox" class="save-state" id="cb-62"></td><td>19-1-1</td><td><input type="checkbox" class="save-state" id="cb-63"></td><td>19-1</td><td><input type="checkbox" class="save-state" id="cb-64"></td></tr>
-                <tr><td>18-2-1, 18-2-2</td><td><input type="checkbox" class="save-state" id="cb-65"></td><td>19-1-2</td><td></td><td><input type="checkbox" class="save-state" id="cb-66"></td><td>19-1-1</td><td><input type="checkbox" class="save-state" id="cb-67"></td><td>19-1-2</td><td><input type="checkbox" class="save-state" id="cb-68"></td><td>19-1</td><td><input type="checkbox" class="save-state" id="cb-69"></td></tr><input type="checkbox" class="hide-row"></td></tr>
+                <tr><td>18-2-1, 18-2-2</td><td><input type="checkbox" class="save-state" id="cb-65"></td><td>19-1-2</td><td></td><td><input type="checkbox" class="save-state" id="cb-66"></td><td>19-1-1</td><td><input type="checkbox" class="save-state" id="cb-67"></td><td>19-1-2</td><td><input type="checkbox" class="save-state" id="cb-68"></td><td>19-1</td><td><input type="checkbox" class="save-state" id="cb-69"></td></tr>
                 <tr><td>18-2-2, 19-1-1</td><td><input type="checkbox" class="save-state" id="cb-70"></td><td>19-2-1</td><td>14</td><td><input type="checkbox" class="save-state" id="cb-71"></td><td>19-1-2</td><td><input type="checkbox" class="save-state" id="cb-72"></td><td>19-2-1</td><td><input type="checkbox" class="save-state" id="cb-73"></td><td>19-2</td><td><input type="checkbox" class="save-state" id="cb-74"></td></tr>
                 <tr><td>19-1-1, 19-1-2</td><td><input type="checkbox" class="save-state" id="cb-75"></td><td>19-2-2</td><td></td><td><input type="checkbox" class="save-state" id="cb-76"></td><td>19-2-1</td><td><input type="checkbox" class="save-state" id="cb-77"></td><td>19-2-2</td><td><input type="checkbox" class="save-state" id="cb-78"></td><td>19-2</td><td><input type="checkbox" class="save-state" id="cb-79"></td></tr>
                 <tr><td>19-1-2, 19-2-1</td><td><input type="checkbox" class="save-state" id="cb-80"></td><td>20-1-1</td><td>27</td><td><input type="checkbox" class="save-state" id="cb-81"></td><td>19-2-2</td><td><input type="checkbox" class="save-state" id="cb-82"></td><td>20-1-1</td><td><input type="checkbox" class="save-state" id="cb-83"></td><td>20-1</td><td><input type="checkbox" class="save-state" id="cb-84"></td></tr>
@@ -245,18 +240,6 @@
                 googleLoginButton.style.display = "inline-block";
                 logoutButton.style.display = "none";
             }
-        });
-		
-		   // JavaScript для скрытия строк
-        document.querySelectorAll('.hide-row').forEach(checkbox => {
-            checkbox.addEventListener('change', function() {
-                const row = this.closest('tr');
-                if (this.checked) {
-                    row.classList.add('hidden-row');
-                } else {
-                    row.classList.remove('hidden-row');
-                }
-            });
         });
     </script>
 </body>
