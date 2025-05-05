@@ -1,5 +1,5 @@
 В чем неисправность?#What is the trouble?
-Безина достаточно?#Is there enough petrol?
+Бензина достаточно?#Is there enough petrol?
 Сколько литров Вы хотите?#How many litres do you want?
 Это тяжелый грузовик.#This is a heavy lorry.
 Я использую дешевый вид масла.#I use a cheap kind of oil.

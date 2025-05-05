@@ -1,7 +1,7 @@
 Озеро - наш главный источник воды.#The lake is our main source of water.
 То море очень маленькое и мелкое.#That sea is very small and shallow.
 Мы живём в гористой местности.#We live in a mountainous region.
-Этим судам нужны грубокие каналы.#These ships need deep canals.
+Этим судам нужны глубокие каналы.#These ships need deep canals.
 Они путешествовали по громадному континенту.#They travelled across a vast continent.
 Ваша страна такая же равнинная как и наша?#Is your country as flat as ours?
 Океаны не мелкие.#The oceans are not shallow.
@@ -38,6 +38,12 @@
 Я выбросила те старые газеты.#I have thrown those old newspapers away.
 Они плавали летом каждый день.#They swam every day in summer.
 Он имел в виду что-то другое.#He has meant something else.
+Ты что-нибудь имеешь против (Ты не возражаешь)…#Do you mind…
+Я ничего не имею против…#I don't mind…
+Я не могу (быть полезен), Я не могу не…#I can't help…
+Трудно…#There is no…
+Это похоже на…#This is like…
+Бесполезно… Ни к чему…#It's no good…
 Не возражаешь, если ты поведешь машину?#Do you mind driving?
 Я ничего не имею против написания этого письма.#I don't mind writing this letter.
 Я не могу удержаться, чтобы не потратить так много денег.#I can't help spending so much money.

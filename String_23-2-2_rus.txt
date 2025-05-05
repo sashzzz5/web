@@ -5,7 +5,7 @@
 Ребёнок нарисовал корабль.#The child has drawn a ship.
 Он запретил мне уходить.#He forbade me to leave.
 Чем ты накормил животных?#What have you fed the animals?
-Он потянулся за солонкой.#He reached for the salt-cellar.
+Он потянулся за солонкой.#He reached for the salt-pot.
 Мы часто переплывали море.#We have often crossed the sea.
 Он уехал в спешке.#He departed in a hurry.
 Ты что-нибудь разбила?#Have you broken anything?
@@ -20,14 +20,14 @@
 Они добрались до Лондона?#Did they reach London?
 Мои родители это запретили.#My parents have forbidden it.
 Ты разбил пять тарелок.#You have broken five plates.
-Они пересекла улицу.#She crossed the street.
+Она пересекла улицу.#She crossed the street.
 Ты их уже накормил?#Have you fed them yet?
 В тот день мы привлекли больше клиентов.#We drew more customers that day.
 Он так никогда и не достиг этого.#He has never reached it.
 Они уже уехали?#Have they departed already?
 Она запретила своей дочери носить её новые вещи.#She forbade her daughter to wear her new clothes.
 Мы продолжали работать всю ночь.#We went on working all night.
-Мы бросил курить?#Have you given up smoking?
+Ты бросил курить?#Have you given up smoking?
 Велосипед ребёнка был украден.#The child's bicycle has been stolen.
 Сколько стоило строительство ратуши?#What has it cost to build the town hall?
 У меня три кота.#I have got three cats.

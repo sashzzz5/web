@@ -37,7 +37,7 @@ He usually leaves early.#Он обычно уходит рано.
 There are hardly any houses for sale.#Вряд ли есть дома для продажи.
 Their toaster is out of order.#Их тостер испорчен.
 The oven is very greasy.#Духовка очень жирная.
-Are there any houses to late?#Сдаются ли какие-то дома внаём?
+Are there any houses to let?#Сдаются ли какие-то дома внаём?
 It is usually delivered.#Это обычно доставляется.
 Insulated wires are more expensive.#Изолированные провода дороже.
 I have left it somewhere.#Я это где-то оставил.

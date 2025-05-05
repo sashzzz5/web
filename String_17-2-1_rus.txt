@@ -12,7 +12,7 @@
 Ты получил квитанцию?#Have you got a receipt?
 Касс достаточно?#Are there enough cash-desks?
 Я люблю распродажи.#I like sales.
-Моя тежека уже полная.#My trolley is already full.
+Моя тележка уже полная.#My trolley is already full.
 У меня только одна сумка для покупок.#I have only one shopping-bag.
 Там четыре выхода.#There are four exits there.
 Это милая продавщица.#This is nice shop-assistant.

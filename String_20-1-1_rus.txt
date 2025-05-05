@@ -16,7 +16,7 @@
 Машина скорой помощи приехала слишком поздно.#The ambulance came too late.
 Я часто езжу на метро.#I often go by underground.
 Не было свидетелей.#There were no witnesses.
-Куды Вы едете? (досл. Каково Ваше место назначения?)#What is your destination?
+Куда Вы едете? (досл. Каково Ваше место назначения?)#What is your destination?
 У нас преимущество проезда?#Do we have right of way?
 собака Ирины#Irena's dog
 велосипед отца#father's bicycle

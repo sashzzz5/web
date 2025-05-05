@@ -16,7 +16,7 @@ The traffic-lights were out of order.#Светофоры были неиспра
 The ambulance came too late.#Машина скорой помощи приехала слишком поздно.
 I often go by underground.#Я часто езжу на метро.
 There were no witnesses.#Не было свидетелей.
-What is your destination?#Куды Вы едете? (досл. Каково Ваше место назначения?)
+What is your destination?#Куда Вы едете? (досл. Каково Ваше место назначения?)
 Do we have right of way?#У нас преимущество проезда?
 Irena's dog#собака Ирины
 father's bicycle#велосипед отца

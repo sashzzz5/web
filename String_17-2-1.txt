@@ -12,7 +12,7 @@ We cannot find the exit.#Мы не можем найти выход.
 Have you got a receipt?#Ты получил квитанцию?
 Are there enough cash-desks?#Касс достаточно?
 I like sales.#Я люблю распродажи.
-My trolley is already full.#Моя тежека уже полная.
+My trolley is already full.#Моя тележка уже полная.
 I have only one shopping-bag.#У меня только одна сумка для покупок.
 There are four exits there.#Там четыре выхода.
 This is nice shop-assistant.#Это милая продавщица.
