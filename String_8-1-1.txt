@@ -1,0 +1,135 @@
+There is snow in winter.#Зимой есть снег.
+You have to pay the barber.#Ты должен заплатить (этому) парикмахеру.
+Is August the third month?#Август - это третий месяц?
+These shoes are expensive.#Эти туфли дорогие.
+Have cats four legs?#У котов четыре лапы?
+He goes to the West.#Он едет на Запад.
+Is the weather nice in December?#В декабре хорошая погода?
+This date is not right.#Эта дата неправильная.
+Can you see the sun then?#Ты можешь тогда увидеть солнце?
+He has more hair than you.#У него больше волос, чем у тебя.
+Many people do not work in August.#Многие люди не работают в августе.
+Is there a date on the letter?#На этом письме есть дата?
+This year there is less snow.#В этом году меньше снега.
+I like to walk in the sun.#Я люблю гулять на солнце.
+This dog has short legs.#У этой собаки короткие ноги.
+Don't worry about the weather.#Не волнуйся о погоде.
+Some people do not like snow.#Некоторые люди не любят снег.
+Has August thirty days?#В августе тридцать дней?
+This barber is my brother.#Этот парикмахер - мой брат.
+Some men have little hair.#Некоторые мужчины имеют мало волос.
+We live in the West.#Мы живем на Западе.
+Are there many apples in December?#В декабре много яблок?
+Do women to like short hair?#Женщины любят короткие волосы?
+What date was that?#В какой день (дата) это было?
+It was on a day without sun.#Это было в день без солнца.
+We talked to those people.#Мы разговаривали с теми людьми.
+Are there forty days in a month?#В месяце сорок дней?
+We shall sing ten songs.#Мы споем десять песен.
+Do you read a lot in winter?#Вы много читаете зимой?
+Our legs are too white.#Наши ноги слишком белые.
+She has black shoes.#У нее черные туфли.
+Is brown hair nice?#Каштановые волосы красивы?
+English is not difficult.#Английский язык не трудный.
+It will soon be summer.#Скоро будет лето.
+What else do you want?#Что ты еще хочешь?
+All my pens are bad.#Все мои ручки плохие.
+This is something else.#Это что-то другое.
+It is almost time to go.#Почти пора идти.
+The baby has brown eyes.#У ребенка (досл.: Этот ребенок имеет) карие глаза.
+I shall soon be twenty.#Скоро мне будет двадцать лет.
+Is snow white or black?#Снег белый или черный?
+This music is too difficult.#Эта музыка слишком трудна.
+What else is there on the table?#Что еще на (этом) столе?
+I worked almost all afternoon.#Я работала почти всю вторую половину дня.
+A black desk.#Черный письменный стол.
+This difficult book.#Эта трудная книга.
+I shall write soon.#Я скоро напишу.
+He sees a brown animal.#Он видит коричневое животное.
+It is almost evening.#Почти вечер.
+Is this all?#Это все?
+What else does a cat eat?#Что еще есть кот?
+We shall soon see the sun.#Скоро мы увидим солнце.
+Is it difficult to be rich?#Трудно быть богатым?
+We talked for almost twenty minutes.#Мы разговаривали почти двадцать минут.
+Do you want all the books?#Ты хочешь все книги?
+What else is there to drink?#Что еще есть выпить?
+Many people can sing.#Многие люди могут петь.
+It is almost eleven o'clock.#Уже почти одиннадцать.
+They have the biggest fish.#У них самая большая рыба.
+These women are sisters.#Эти женщины - сестры.
+This is the fastest car.#Это самая быстрая машина.
+They asked us to come soon.#Они просили нас прийти скоро.
+Who are those black men?#Кто те черные мужчины?
+What else can you sing?#Что еще ты можешь спеть?
+All doors are open.#Все двери открыты.
+Can there be a snow in August?#Может быть снег в августе?
+I like the afternoon sun.#Я люблю послеполуденное солнце.
+The days are shorter in winter.#Зимой дни короче.
+These shoes are too expensive.#Эти туфли слишком дорогие.
+he takes#он берет
+you came#ты приходил
+you have come#ты пришел (и ты есть - связь с настоящим)
+we took#мы брали
+she has taken#она забрала (теперь у нее есть)
+he comes#он приходит
+you have taken#вы забрали (и до сих пор имеете)
+she has come#она пришла (и находится здесь)
+he took#он брал
+He puts the book on the table.#Он кладет (эту) книгу на (этот) стол.
+We made a chair.#Мы сделали стул.
+It rained a lot in August.#В августе было много дождей.
+I cut my hand yesterday.#Я вчера порезал (свою) руку.
+We must go together.#Мы должны идти вместе.
+Where have you put the tea?#Где ты положила чай? (Где он сейчас находится?)
+The sun shone.#Светило солнце.
+I have cut my foot.#Я порезал себе ногу. (Она у меня порезана.)
+Where has she put the book?#Где она положила (эту) книгу? (Где книга сейчас?)
+It rained last night.#Вчера вечером шел дождь.
+He makes something.#Он что-то делает.
+What have you done?#Что ты сделал? (к настоящему моменту)
+He has put the book on the table.#Он положил (эту) книгу на (этот) стол.
+I know these men.#Я знаю этих мужчин.
+This plane is bigger.#Этот самолет больше.
+What date is it?#Какая дата? Какое число?
+It is the first of August.#Первое августа.
+She has brown hair.#У нее каштановые волосы.
+There are more than forty cars.#Есть больше, чем сорок машин.
+We took the apples.#Мы взяли (эти) яблоки.
+I shall soon forget it.#Я скоро это забуду.
+She like black cats.#Она любит черных котов.
+The barber is tall.#(Этот) Парикмахер высокий.
+It has not rained much.#Дождь был небольшой.
+We must go to school.#Мы должны идти в школу.
+My legs are too short.#Мои ноги слишком короткие.
+The sun shines for all people.#Солнце светит для всех людей.
+This book is difficult.#Эта книга трудная.
+We live in the East of Ukraine.#Мы живем на востоке Украины.
+She came in December.#Она пришла в декабре.
+They have cut their hands.#Они порезали свои руки.
+He put his shoes on the desk.#Он поставил свои туфли на письменный стол.
+What else is there to ask?#Что еще спросить?
+I thanked these women.#Я поблагодарил этих женщин.
+You waited for forty days.#Вы ждали в течение сорока дней.
+Who likes bad weather?#Кто любит плохую погоду?
+They walked through the snow.#Они шли через снег.
+Has he made this clock?#Он сделал эти часы? (Они работают сейчас?)
+Is he taller than you?#Он выше тебя?
+It is almost summer.#Почти лето.
+She has taken the pens.#Она взяла (эти) ручки. (Их у меня нет.)
+Not all cars are fast.#Не все машины быстрые.
+He takes a cigarette.#Он берет сигарету.
+We talked to those poor peoples.#Мы говорили с теми бедными людьми.
+Sometimes the sun doesn't shine.#Временами солнце не светит.
+They made a chair.#Они сделали кресло.
+We have come together.#Мы пришли вместе. (Вот мы здесь.)
+Is it difficult?#Это трудно?
+Sixty men were in the chapel.#Шестьдесят мужчин были в (этой) часовне.
+You were in the garden without shoes.#Вы были в (этом) саду без туфель.
+Pay me soon!#Заплати мне скорее.
+we shall wait for nice weather.#Мы подождем хорошей погоды.
+The sun is in the West.#Солнце на западе.
+These women came yesterday.#Эти женщины пришли вчера.
+There is snow on your hair.#На твоих волосах снег.
+Do not cut your hand!#Не порежь свою руку!
+It is almost time to stop.#Почти пора остановиться.

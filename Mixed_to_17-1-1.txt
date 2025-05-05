@@ -1,0 +1,1438 @@
+to see the train#видеть (этот) поезд
+to visit the station#посещать (эту) станцию
+to enter the house#войти в (этот) дом
+to open the door#открыть (эту) дверь
+to enter a shop#войти в магазин
+to see the street#видеть (эту) улицу
+to open the door#открыть (эту) дверь
+to visit a tower#посетить башню
+to enter a church#войти в церковь
+to open a door#открыть дверь
+to see the tower#видеть (эту) башню
+to visit the shop#посещать (этот) магазин
+to enter the station#войти в (эту) станцию
+to see a house#видеть дом
+to see the street#видеть (эту) улицу
+I enter the church.#Я вхожу в (эту) церковь.
+They visit the tower.#Они посещают (эту) башню.
+We see the train.#Мы видим (этот) поезд.
+You open the door.#Ты открываешь (эту) дверь.
+We see the tower.#Мы видим (эту) башню.
+I enter a shop.#Я вхожу в магазин.
+You see the station.#Ты видишь (эту) станцию.
+They visit a church.#Они посещают церковь.
+I open the door.#Я открываю (эту) дверь.
+You visit the house.#Ты посещаешь (этот) дом.
+They see the street.#Они видят (эту) улицу.
+We enter the railway station and I see the train.#Мы входим на (эту) железнодорожную станцию, и я вижу (этот) поезд.
+You open the door and I enter the house.#Ты открываешь (эту дверь, и я вхожу в (этот) дом.
+I see a car.#Я вижу машину.
+I open the door.#Я открываю (эту) дверь.
+You enter the building.#Ты входить в (это) здание.
+We see the boy.#Мы видим (этого) мальчика.
+They visit the woman.#Они навещают (эту) женщину.
+You enter the apartment.#Ты входить в (эту) квартиру.
+I see the sidewalk.#Я вижу (этот) тротуар.
+I see the entrance.#Я вижу (этот) вход.
+to go to the church#идти в (эту) церковь
+to walk to the station#идти пешком, ходить к (этой) станции
+I drive a car.#Я вожу машину.
+We go to the house.#Мы идем в (этот) дом.
+They have no apartment.#У них нет квартиры.
+You look at the sidewalk.#Ты смотришь на (этот) тротуар.
+I have a car.#У меня есть машина.
+We look at the woman.#Мы смотрим на (эту) женщину.
+I have to go to the entrance.#Я должен пройти к (этому) выходу.
+The woman drives a car.#Женщина ведет машину.
+She looks at the building.#Она смотрит на (это) здание.
+He sees the car.#Он видит (эту) машину.
+They enter the building and go to an apartment.#Они входят в это здание и идут в квартиру.
+We look at the car.#Мы смотрим на (эту) машину.
+You see the door.#Вы видите (эту) дверь.
+They visit a tower.#Они посещают башню.
+The woman goes to a shop.#(Эта) женщина идет в магазин.
+The street has a sidewalk.#(Эта) улица имеет тротуар.
+The bus has a door.#В (этом) автобусе есть дверь.
+The church has a tower.#У (этой) церкви есть башня.
+The shop has a door.#У (этого) магазина есть дверь.
+I go to the bus station.#Я иду на (эту) автостанцию.
+She goes to a church.#Она идет в церковь.
+He looks at the apartment.#Он смотрит на (эту) квартиру.
+We see the boy and a woman.#Мы видим (этого) мальчика и женщину.
+He goes to Kiev. He goes by train.#Он едет в Киев. Он едет поездом.
+The train enters the station.#(Этот) поезд входит на (эту) станцию.
+He looks at the buildings.#Он смотрит на (это) здание.
+He has no car, so he has to walk.#Он не имеет машины, поэтому он должен идти пешком.
+He sees a church tower. The tower has a door.#Он видит церковную башню. (Эта) башня имеет дверь.
+He visits the tower and he looks at Kiev.#Он посещает (эту) башню и он смотрит на Киев.
+Then he goes to a shop.#Затем он идет в магазин.
+She reads a newspaper.#Она читает газету.
+Is it still spring?#Еще весна?
+We have tools in the shed.#У нас инструменты в сарае.
+Do you like sugar?#Ты любишь сахар?
+This magazine is in the car.#Этот журнал в машине.
+The nurse works in the hospital.#Медсестра работает в больнице.
+His sister is a typist.#Его сестра - машинистка.
+Is there a match tonight?#Сегодня вечером есть матч?
+They don't like football.#Они не любят футбол.
+Children often drink milk.#Дети часто пьют молоко.
+Autumn comes after summer.#Осень приходит после лета.
+My friend is a baker.#Мой друг - пекарь.
+Tools are expensive.#Инструменты дорогие.
+The trees are green in spring.#Весной деревья зеленые.
+The typists are busy.#Машинистки заняты.
+Give me a milk or water.#Дай мне молока или воды.
+That match was bad.#Тот матч был плохой.
+Is sugar always white?#Сахар всегда белый?
+The baker works in a cellar.#(Этот) Пекарь работает в подвале.
+The nurse went downstairs.#(Эта) Медсестра пошла вниз по лестнице.
+Do all children like football?#Все ли дети любят футбол?
+The leaves are brown in autumn.#Осенью листья коричневые.
+It is in this magazine.#Это в этом журнале.
+The newspaper is on that chair.#Газета на том стуле.
+We have often been to Russia.#Мы часто бывали в России.
+What did you eat yesterday?#Что ты ел вчера?
+I thought he was here.#Я думала, что он здесь.
+The plane flew to the West.#(Этот) Самолет летел на запад.
+Have you given the money?#Ты отдал деньги?
+We understood the question.#Мы поняли вопрос.
+Have you read the book?#Ты прочитал книгу?
+I wrote the letter last month.#В прошлом месяце я написал письмо.
+I read a book yesterday.#Я читала эту книгу вчера.
+He was in Kiev last month.#Он был в Киеве в прошлом месяце.
+I have read this book this week.#Я прочитала эту книгу на этой неделе (неделя еще длится).
+He has been to Kiev this month.#Он был в Киеве в этом месяце (месяц еще продолжается).
+He was in the cellar.#Он был в подвале. (прост.прош.)
+What have you done?#Что ты сделал? (наст.заверш.)
+I have thought a lot.#Я много думал. (наст.заверш.)
+Have you ever flown?#Ты когда-нибудь летал? (наст.заверш.)
+We gave many tomatoes.#Мы дали много помидоров. (прост.прош.)
+Have you understood him?#Ты его понял? (наст.заверш.)
+I read the book in August.#Я читала (эту) книгу в августе. (прост.прош.)
+She wrote a long letter.#Она написала длинное письмо (прост.прош.)
+Have you ever been in England?#Ты была когда-нибудь в Англии? (наст.заверш.)
+What did you do yesterday?#Что ты делала вчера? (прост.прош.)
+I thought I knew her.#Я думала, что знаю ее. (согласование времен)
+We flew to Paris.#Мы летели в Париж. (прост.прош.)
+She has given me shoes.#Она дала мне туфли. (наст.заверш.)
+She understood I wanted coffee.#Она поняла, что я хочу кофе. (согласование времен)
+I have read that newspaper.#Я прочитала ту газету. (наст.заверш.)
+Have you written this?#Ты это написал? (наст.заверш.)
+Are you ready?#Ты готова?
+I want other pens.#Я хочу другие ручки.
+Not water, but tea.#Не вода, а чай.
+This cup is full.#Это чашка полная.
+We work till five.#Мы работаем до пяти.
+I shall go with him.#Я пойду с ним.
+Give me that book, please.#Дай мне ту книгу, пожалуйста.
+Here you are.#Вот она. (какой то предмет)
+Thank you.#Спасибо.
+We have all kinds of plants in the garden.#У нас в саду есть все виды растений.
+They saw all sorts of animals there.#Они видели там различных животных.
+We visited all kinds of shops.#Мы посетили разные магазины.
+They looked at us.#Они посмотрели на нас.
+She looked at her friend.#Она посмотрела на своего друга.
+Children like to watch television.#Детям нравится смотреть телевизор.
+I often watch a football match.#Я часто смотрю футбольный матч.
+How are you?#Как ты себя чувствуешь? Как Вы себя чувствуете?
+How is she?#Как у нее дела?
+How are they?#Как у них дела?
+How is your brother?#Как дела у твоего брата?
+March is a spring month.#Март - весенний месяц.
+Come with me.#Идем со мной!
+He reads all kinds of newspapers.#Он читает разные газеты.
+Drink milk. it is good.#Пей молоко! Это полезно.
+How is he?#Как у него дела?
+He wrote in a magazine.#Он писал в журнале.
+She has done the work.#Она сделала (эту) работу.
+The baker gave me a loaf.#Пекарь дал мне буханку.
+We shall stay till April.#Мы останемся до апреля.
+I watch the children.#Я смотрю за детьми.
+She flew to London in June.#Она летала в июне в Лондон.
+He wants other shoes.#Он хочет другие туфли.
+The typist understood me.#Машинистка меня поняла.
+The corner is full of water.#Подвал полон воды.
+Jule is in summer.#Июль - летом.
+March is the third month.#Март - третий месяц.
+I have books but no tools.#У меня есть книги, но нет инструментов.
+How are your parents?#Как дела у твоих родителей?
+I like tea with sugar.#Я люблю чай с сахаром.
+The baker works till seven.#Пекарь работает до семи.
+Can the nurse drive a car?#(Эта) Медсестра может водить машину?
+There are all kinds of trees there.#Там растут всякие деревья.
+Do all cats like milk?#Все кошки любят молоко?
+The match was in the evening.#(Этот) Матч был вечером.
+I knew the room was full.#Я знал, что комната заполнена.
+She often watches the birds.#Она часто наблюдает за птицами.
+I have a magazine for you.#У меня есть для тебя журнал.
+Here you are!#Вот, пожалуйста! (предоставить что то)
+His other sister is not here.#Другой его сестры здесь нет.
+When will breakfast be ready?#Когда будет готов завтрак?
+She went to school with me.#Она пошла в школу со мной.
+He saw the other typist.#Он увидел другую машинистку.
+Is she still a nurse?#Она еще медсестра?
+Have they ever flown?#Они когда-либо летали?
+We don't like autumn.#Мы не любим осень.
+There's a match tonight.#Сегодня вечером матч.
+He reads all sorts of books.#Он читает разные книги.
+The tools are in the corner.#Инструменты в (этом) углу.
+The cinema was full of people.#(Этот) Кинотеатр был полон народа.
+But what else does she want?#Но что она еще хочет?
+Milk and sugar are white.#Молоко и сахар белые.
+Do you often watch television?#Ты часто смотришь телевизор?
+February is a short month.#Февраль короткий месяц.
+Have you read the letter?#Ты прочитал письмо?
+He will wait for the nurse.#Он будет ждать (эту) медсестру.
+I was in this town last autumn.#Я был в этом городе прошлой осенью.
+Look at that animal.#Посмотри на того зверя!
+It is a goose.#Это - гусь.
+The tools are in the shed.#(Эти) Инструменты - в (этом) сарае.
+His wife likes that magazine.#Его жена любит тот журнал.
+Is the typist ready?#(Эта) Машинистка готова?
+We saw all sorts of bookcases.#Мы видели всякие книжные шкафы.
+How is your daughter?#Как дела у твоей дочери?
+He likes football matches.#Он любит матчи по футболу.
+Our baker cannot come today.#Наш пекарь не может сегодня прийти.
+There is a newspaper on the desk.#На (этом) письменном столе - газета.
+Put the lamp on the television set.#Поставь (эту) лампу на (этот) телевизор.
+Coffee with sugar, please.#Пожалуйста, кофе с сахаром.
+Here you are.#Вот, пожалуйста! (предоставить что то)
+She gave me the other tie.#Она дала мне другой галстук.
+I shall do it after six.#Я сделаю это после шести.
+This cup is too full.#Эта чашка слишком полная.
+The barber cut your hair yesterday.#Вчера парикмахер подстриг тебе волосы.
+They had ten loaves.#У них было десять буханок.
+It rained till a quarter past two.#Дождь шел до четверти третьего.
+He saw the Moon last night.#Вчера вечером он видел Луну.
+Is it a potato?#Это картофель?
+She drove a fast car.#Она водила быстроходный автомобиль.
+He went to the prison every Sunday.#Он приходил в тюрьму каждое воскресенье. (прост.прош.время)
+Did his wife go too?#Его жена тоже ходила?
+They always went after four.#Они всегда ходили после четырех.
+The streets are full of cars.#Улицы полны машин.
+But many people have to walk.#Но многие люди должны ходить пешком.
+Through the window I watch the traffic.#Через окно я наблюдаю уличное движение.
+Is this a football magazine?#Этот журнал о футболе?
+She likes coffee without sugar.#Она любит кофе без сахара.
+Have you ever seen deer?#Ты когда-нибудь видел оленей? (наст.заверш.вр.)
+We have seen all kinds of animals.#Мы увидели животных всех видов.
+There are many seats in the cinema.#В кинотеатре много (сидячих) мест.
+Are you too busy to write?#Ты слишком занят, чтобы написать?
+The children go to school together.#Дети вместе ходят в школу.
+What time does the newspaper come?#В котором часу приходит газета?
+It is summer again.#Снова лето.
+He has written a book about England.#Он написал книгу об Англии. (наст.заверш.вр)
+Can the nurse bring me some tea?#Медсестра может принести мне чай?
+Put one foot in front of the other.#Поставь одну ногу перед другой.
+There is a restaurant at the corner.#На (этом) углу - ресторан.
+There are nice plants on the window.#На (этом) окне - красивые растения.
+Don't forget your socks.#Не забудь свои носки.
+April has thirty days.#В апреле тридцать дней.
+Put the books on those shelves.#Поставь (эти) книги на те полки.
+We always read in the living-room.#Мы всегда читаем в гостиной.
+Can you make the a chair with these tools?#Вы можете сделать кресло этими инструментами?
+My parents often go to the cinema.#Мои родители часто ходят в кино.
+The other match was better.#(Этот) Другой матч был лучше.
+Did he know where my socks were?#Он знал, где (были) мои носки? (согласование времен)
+This typist doesn't like sugar.#Эта машинистка не любит сахар.
+I never smoke before breakfast.#Я никогда не курю перед завтраком.
+Your tie is on that chair.#Твой галстук на том кресле.
+The bus is full again.#(Этот) Автобус снова полон.
+This bird is red and green.#Эта птица красно-зеленая.
+Is January the first month?#Январь - первый месяц?
+I don't know yet.#Я все еще не знаю.
+The potatoes are in the corner.#Картофель в (этом) углу.
+These seats are for children.#Эти сиденья для детей.
+Have you been here before?#Ты бывал здесь раньше? (наст.заверш.вр.)
+They are busy too.#Они тоже заняты.
+I shall enter after him.#Я войду за ним.
+Will the baker be here in time?#Будет ли (этот) пекарь здесь вовремя?
+Those women are nurses.#Те женщины - медсестры.
+The television set is downstairs.#Телевизор внизу.
+She is in prison.#Она в тюрьме.
+Are there bookcases in the prison?#В (этой) тюрьме есть книжные шкафы?
+Can we park here or there?#Мы можем припарковаться здесь или там?
+When it rains we stay at home.#Когда идет дождь, мы остаемся дома.
+I cut the bread in two halves.#Я разрезаю хлеб на две половины.
+Our socks are too short.#Наши носки слишком короткие.
+Their socks  are short too.#Их носки тоже короткие.
+We saw three oxen.#Мы видели трех быков.
+They are ready to go.#Они готовы идти.
+It is in the newspaper.#Это в газете.
+Are these green things tomatoes?#Эти зеленые предметы - помидоры?
+Do you know what he has done?#Ты знаешь, что он сделал? (наст.заверш.вр)
+I don't like this cold.#Я не люблю такой холод.
+Put on your coat.#Надень свой плащ.
+There is much wind.#Сильный ветер. (досл. Много ветра.)
+Do you like this heat?#Тебе нравится эта жара?
+We listen to the weather-forecast.#Мы слушаем прогноз погоды.
+He sees the clouds.#Он видит тучи.
+This is my best shawl.#Это мой лучшая шаль.
+Is this a nice temperature?#Это приятная температура?
+There is fog in winter.#Зимой бывает туман.
+Is the sun in the sky?#Есть солнце на небе?
+It is a day without wind.#Это день без ветра.
+I cannot see her in the fog.#Я не могу видеть ее в тумане.
+What temperature is it in May?#Какая температура в мае?
+The sky is blue today.#Сегодня небо голубое.
+Is this his coat?#Это его плащ?
+They like this heat.#Они любят эту жару.
+The moon is behind the clouds.#Луна за тучами.
+The weather-forecast is in the newspaper.#Прогноз погоды в (этой) газете.
+Are those boots expensive?#Те ботинки дорогие?
+She wants to buy a shawl.#Она хочет купить шаль.
+The wind enters through the window.#Ветер врывается в  (досл.: входит через) окно.
+I have to work in the cold.#Я должен работать в холоде.
+She is a typist.#Она машинистка.
+My brother is a doctor.#Мой брат - врач.
+Olga is a nurse.#Ольга - медсестра.
+He is a baker.#Он пекарь.
+Is this man a barber?#Этот мужчина парикмахер?
+I am a Roman Catholic.#Я католик.
+Who is president of the USA?#Кто президент США?
+Yesterday was a windy day.#Вчера был ветреный день.
+In January the temperature is low.#В январе температура низкая.
+It was a sunny afternoon.#День был солнечный.
+The children are outside.#(Эти) Дети во дворе.
+I like high temperatures.#Я люблю высокие температуры.
+The sky is cloudy.#Небо облачное
+November is often foggy.#Ноябрь часто туманный.
+We were in a windy square.#Мы были на ветреной площади.
+It is a foggy evening.#Это туманный вечер.
+Shall we eat outside?#Мы будем есть во дворе?
+Is June always a sunny month?#Июнь всегда солнечный месяц?
+Yesterday the temperature was low.#Вчера температура была низкая.
+Is the sky blue or cloudy?#Небо голубое или облачное?
+The temperature is higher than last week.#Температура выше, чем на прошлой неделе.
+She was dressed in white.#Она была одета в белое.
+We went by car.#Мы поехали на машине.
+He will go by bicycle.#Он поедет на велосипеде.
+They are still at work.#Они еще на работе.
+We shall drive East.#Мы поедем на восток.
+They were at table when we entered.#Они были за столом, когда мы вошли.
+He will be in town on Tuesday.#Он будет во вторник в городе.
+She lives in Oxford Street.#Она живет на Оксфордской улице.
+We go to market every Friday.#Мы ходим на рынок каждую пятницу.
+Translate this into English.#Переведи это на английский.
+She brought it to me.#Она принесла это мне.
+Have you eaten the apple?#Ты съел (это) яблоко?
+They kept many animals.#Они держали много животных.
+You have taught me this.#Ты научил меня этому.
+He heard the traffic.#Он слышал уличное движение.
+We have paid the money.#Мы заплатили (эти) деньги.
+Have you brought the book?#Ты принес (эту) книгу.
+They ate much that day.#Они много съели в тот день.
+Have you kept your cigarettes?#Ты сохранил свои сигареты?
+She taught me that song.#Она учила меня той песне.
+I have heard you.#Я услышал тебя.
+Her daughter has eaten the fish.#Ее дочь съела (эту) рыбу.
+They brought it to my desk.#Они принесли это к моему столу.
+Have they paid in time?#Они заплатили вовремя?
+She heard the radio.#Она слышала радио.
+I have taught it to him.#Я научила его этому.
+You kept many sheep.#Вы держали много овец.
+We eat two loaves last night.#Вчера вечером мы съели две буханки.
+Have they brought the tools?#Они принесли эти инструменты?
+He paid a lot of money.#Он заплатил много денег.
+I have heard it on the radio.#Я услышал это по радио.
+They taught me to read at school.#Они учили меня читать в школе.
+I have kept all my books.#Я сохранил все свои книги.
+Their son wants to be a doctor.#Их сын хочет быть врачом.
+Will they go to market by bus?#Они поедут на рынок автобусом?
+We go outside when it is sunny.#Мы выходим на улицу, когда солнечно.
+Is this a cheap coat?#Это дешевый плащ?
+You cannot work in this heat.#Вы не можете работать в такую жару.
+I put my boots on in winter.#Я надеваю ботинки зимой.
+Have you heard the weather-forecast?#Ты слышал прогноз погоды?
+There is less rain then last year.#Дождей меньше, чем в прошлом году.
+He has brought his cat.#Он принес своего кота.
+My shawl is red and blue.#Моя шаль красно-голубая.
+I can't see that car in the fog.#Я не вижу (не могу видеть) в тумане машину.
+Can you go by bicycle in such wind?#Ты можешь ехать на велосипеде в такой ветер?
+She will dress in red.#Она оденется в красное.
+The nurse is still at work.#(Эта) Медсестра еще на работе.
+I hear the wind outside.#Я слышу ветер на улице.
+Have you eaten your breakfast?#Ты съел свой завтрак?
+There isn't a cloud in the sky.#На небе нет ни облачка.
+I have brought the newspaper.#Я принес (эту) газету.
+Is April a sunny month?#Апрель солнечный месяц?
+She kept coffee in the kitchen.#Она держала кофе в кухне.
+Do deer like heat?#Олени любят жару?
+The temperature is low tonight.#Сегодня вечером температура низкая.
+We went to West on that foggy day.#Мы пошли на запад в тот туманный день.
+Is this man a Roman Catholic?#Этот мужчина католик?
+She buys stamps.#Она покупает почтовые марки.
+We have tickets for the bus.#У нас есть билеты на (этот) автобус.
+There are telephones in the office.#В (этом) офисе есть телефоны.
+Do you read novels?#Ты читаешь новеллы?
+She is a secretary.#Она секретарь.
+We shall go by tram.#Мы поедем трамваем.
+The bus stop is at the corner.#(Эта) Автобусная остановка на углу.
+These are nice flowers.#Это красивые цветы.
+There are many bus stops.#Есть много автобусных остановок.
+There is a calendar in the kitchen.#В (этой) кухне есть календарь.
+I have to go to the bank.#Я должен идти в (этот) банк.
+Have you seen my purse?#Вы видели мой кошелек?
+Her daughter is a secretary.#Ее дочь - секретарь.
+Shall we go by tram?#Мы поедем трамваем?
+Wait at the bus stop!#Подожди на автобусной остановке!
+This is a long novel.#Это длинный роман.
+Is this their calendar?#Это их календарь?
+There is little money in my purse.#В моем кошельке мало денег.
+There is a tram stop in the square.#На площади есть трамвайная остановка.
+This telephone doesn't work.#Этот телефон не работает.
+Is this ticket all right?#Этот билет годится?
+Put these stamps on the letter.#Приклей эти марки на (это) письмо.
+The bank is opposite the hotel.#(Этот) Банк напротив (этой) гостиницы.
+Put the flowers on her desk.#Поставь (эти) цветы на ее стол.
+It is still early.#Все еще рано.
+I get on the bus at six.#Я сажусь в автобус в шесть.
+Our house is next to the bank.#Наш дом находится возле (этого) банка.
+What time is it now?#Который сейчас час?
+I get off at the tram stop.#Я выхожу на трамвайной остановке.
+It was late in the evening.#Это было поздно вечером.
+I want to get off here.#Я хочу выйти здесь.
+You are early today.#Вы сегодня рано.
+He wants to have it now.#Он хочет иметь это сейчас.
+She is on the seat next to you.#Она на сидении возле тебя.
+It was late in May.#Это было в конце мая.
+I got on the bus after him.#Я сел в автобус после него.
+He sat on that chair.#Он сидел на том стуле.
+I have shown my ticket.#Я показал свой билет.
+She bought many apples.#Она купила много яблок.
+We have sung a song.#Мы спели песенку.
+They drank much last night.#Они много пили вчера вечером.
+You have forgotten the date.#Ты забыл (эту) дату.
+We have sat here all day.#Мы просидели здесь весь день.
+She showed her coat.#Она показывала свое пальто.
+What have you bought?#Что ты купил?
+They sang together.#Они пели вместе.
+Have you drunk your tea?#Ты выпила свой чай?
+I forgot to thank him.#Я забыл его поблагодарить.
+Have you forgotten to take your pen?#Ты забыл (взять) свою ручку?
+We sang this last week.#Мы пели это на прошлой неделе.
+I have shown him my car.#Я показал ему свой автомобиль.
+He sat on my desk.#Он сел  на мой письменный стол.
+She has bought flowers.#Она купила цветы.
+He drank water at breakfast.#Он пил воду за завтраком.
+I forgot he was there too.#Я забыл, что он тоже был там.
+We have sung many songs.#Мы спели много песен.
+They showed their house.#Они показали свой дом.
+I often sat there.#Я часто там сидел.
+I have bought a ticket.#Я купил билет.
+We have drunk a cup of coffee.#Мы выпили чашку кофе
+The bus was late.#Автобус опоздал (был опоздавшим).
+I got to the bank too late.#Я попал в банк слишком поздно.
+He was late for breakfast.#Он опоздал на завтрак.
+He was too late for breakfast.#Он пришел на завтрак слишком поздно.
+I got on the bus early.#Я села в автобус рано.
+Have you ever bought a novel?#Ты когда-либо покупал роман?
+Don't forget to go to the bank.#Не забудь пойти в банк.
+She sat next to the telephone.#Она сидела возле телефона.
+Are there flowers in late September?#Есть ли цветы в конце сентября?
+The secretary buys stamps.#(Эта) Секретарь покупает почтовые марки.
+We got off at the bus stop.#Мы вышли на (этой) автобусной остановке.
+It is too late to work.#Уже слишком поздно, чтобы работать.
+Is the office open now?#(Этот) Офис сейчас открыт?
+She has an expensive purse.#У нее дорогой кошелек.
+Is there a tram stop in this street?#На этой улице есть трамвайная остановка?
+Write it on the calendar.#Напиши это на (этом) календаре.
+The bus stop is next to the factory.#(Эта) Автобусная остановка возле (этой) фабрики.
+I want to get off now.#Я хочу сейчас выйти.
+He has forgotten to buy a ticket.#Он забыл купить билет.
+The secretary has got on the bus.#(Эта) Секретарь села в (этот) автобус.
+He drank much water.#Он выпил много воды.
+He showed me his tools.#Он показывал мне свои инструменты.
+I read novels in winter.#Зимой я читаю романы.
+He drinks tea at five.#Он пьет чай в 5.
+The money is in my purse.#(Эти) Деньги в моем кошельке.
+Have you bought these stamps?#Вы купили эти почтовые марки?
+I have forgotten the telephone.#Я забыла (этот) телефон.
+The tram was late.#Трамвай опоздал.
+I have bought these boots.#Я купила эти сапоги.
+They ate potatoes.#Они ели картофель.
+Has he ever kept animals?#Он держал когда-нибудь животных?
+We drank our tea outside.#Мы пили (свой) чай во дворе.
+Have you heard the weather-forecast?#Ты слышал прогноз погоды?
+She likes to dress in red.#Она любит одеваться в красное.
+The sky was cloudy.#Небо было облачным.
+But the temperature was high.#Но температура была высокой.
+The secretaries are at work.#(Эти) Секретари на работе.
+Is this a foggy day? -Yes, it is.#День туманный? -Да.
+Saturday was a windy day.#Суббота была ветреным днем.
+Who has taught you this?#Кто научил тебя этому?
+My friend is a doctor.#Мой друг - врач.
+Did he get off in Poltava?#Он вышел в Полтаве?
+We have breakfast early.#Мы завтракаем рано.
+She ate five tomatoes.#Она съела пять помидоров.
+Is there a telephone in the office?#В (этом) офисе есть телефон?
+Can he pay the money? Yes, he can.#Он может заплатить (эти) деньги? -Да.
+She brought it by bicycle.#Она привезла это  на велосипеде.
+Your purse is next to your pen.#Твой кошелек возле твоей ручки.
+Have you bought tickets?#Ты купил билеты?
+The stamps are in my coat.#(Эти) Почтовые марки в моем пальто.
+I have forgotten his name.#Я забыла его имя.
+This cold is bad for babies.#Этот холод плох для младенцев.
+The carpet is on the floor.#(Этот) Ковер на полу.
+I like this settee.#Мне нравится этот диван.
+The curtains are brown.#(Эти) Шторы коричневые.
+We have a fireplace.#У нас есть камин.
+This is a cheap wall-paper.#Это дешевые обои.
+I have bought an ashtray.#Я купил пепельницу.
+Is the table-lamp on the floor?#(Эта) Настольная лампа на полу?
+We have two easy chairs.#У нас два кресла.
+This ceiling is very high.#Этот потолок очень высокий.
+Is there a socket here?#Тут есть розетка?
+The pictures are on the wall.#(Эти) Картины на (этой) стене.
+The socket is behind that chair.#(Эта) Розетка за тем стулом.
+Carpets are expensive.#Ковры дорогие.
+The ceiling is white.#(Этот) Потолок белый.
+Have you seen their wall-paper?#Ты видел их обои?
+This is a big easy chair.#Это большое кресло.
+There is no table-lamp in the kitchen.#В (этой) кухне нет настольной лампы.
+Look at this picture.#Посмотри на эту картину.
+The girl bought curtains.#(Эта) Девушка купила шторы.
+We sat on their settee.#Мы сидели на их диване.
+Give me that ashtray, please.#Пожалуйста, дай мне ту пепельницу.
+It is on the floor.#Это на полу.
+Have you a fireplace too?#У тебя тоже есть камин?
+The letter is written by me.#(Это) Письмо написано мной.
+He will be ready by next week.#Он будет готов (самое позднее) к следующей неделе.
+They sat by the window.#Они сидели у (этого) окна.
+Give them one by one.#Давай им по одной.
+He is a Ukrainian.#Он - украинец.
+We shall go by train.#Мы поедем поездом.
+He walks across the street.#Он переходит через улицу.
+The office is across the square.#(Этот) Офис на другой стороне площади.
+The plane is over the town.#(Этот) Самолет над (этим) городом.
+I can't see you from my chair.#С моего стула я не могу тебя увидеть.
+I walk from you to him.#Я иду от тебя к нему.
+The dog is under the bookcase.#(Эта) Собака под (этим) книжным шкафом.
+The lamp hangs over the desk.#(Эта) Лампа висит над (этим) письменным столом.
+The cat is under my chair.#(Этот) Кот под моим стулом.
+I see her across the street.#Я вижу ее по другую сторону улицы.
+We work from nine to five.#Мы работаем с девяти до пяти.
+From my room I can see the factory.#Из моей комнаты я могу видеть (эту) фабрику.
+The work is done by him.#(Эта) Работа сделана им.
+She will go by bus.#Она поедет автобусом.
+When will they come?#Когда они придут?
+When do you have breakfast?#Когда у Вас завтрак?
+I see many sheep.#Я вижу много овец.  (исчисл)
+He eats much bread.#Он есть много хлеба. (неисчил)
+I see a lot of sheep.#Я вижу много овец.  (исчисл)
+He eats a lot of bread.#Он есть много хлеба. (неисчил)
+He took the ashtray outside.#Он вынес (эту) пепельницу из дома. (досл.: Он взял пепельницу на улицу.)
+When will you bring the picture?#Когда ты принесешь (эту) картину?
+We have made a few easy chairs.#Мы сделали несколько кресел.
+You have a lot of wall-paper.#У вас много обоев.
+The sun shines on the floor.#Солнце светит на (этот) пол.
+She walked across the square.#Она пошла через (эту) площадь.
+The lamp hangs over the settee.#(Эта) Лампа висит над (этим) диваном.
+Does he ever sit by the window?#Он когда-либо сидит возле (этого) окна?
+The carpet is bought by us.#(Этот) Ковер куплен нами.
+We walked home from the bus stop.#Мы пошли к дому от (этой) автобусной остановки.
+Is there a socket behind the desk?#За (этим) письменным столом есть розетка?
+It will rain till evening.#До вечера будет идти дождь.
+He is an Englishman.#Он англичанин.
+Are these curtains expensive?#Эти шторы дорогие?
+The fireplace is in the corner.#(Этот) Камин находится в (этом) углу.
+Is this picture by Renoir?#Это картина Ренуара?
+When will you listen to me?#Когда ты будешь меня слушать?
+I saw her across the room.#Я видел ее в другой стороне комнаты.
+When will you bring it?#Когда ты это принесешь?
+Teach me to translate this.#Научи меня переводить это.
+She always dresses in brown.#Она всегда одевается в коричневое.
+You have to pay from these books.#Ты должен заплатить за эти книги.
+It was very windy outside.#На дворе было очень ветрено.
+Are these their shawls?#Это их шали?
+In such heat you have to drink a lot.#В такую жару нужно много пить.
+Will there be rain before five?#До пяти будет дождь?
+Is this market day on the calendar?#Этот торговый день есть в календаре?
+He bought a few novels yesterday.#Он купил вчера несколько романов.
+Take this money to the bank.#Отнеси эти деньги в банк.
+There was much sugar on the floor.#На полу было много сахара.
+She took her purse off the table.#Она забрала свой кошелек со стола.
+They ate some tomatoes in the morning.#Они съели утром несколько помидоров.
+Have you kept all your books?#Ты сохранил все свои книги?
+He sat by the telephone all day.#Он сидел целый день у телефона.
+Have I shown you my table lamp?#Я показала тебе мою настольную лампу?
+The easy chair is next to the fireplace.#(Это) Кресло около (этого) камина.
+The stamp is under the letter.#(Эта) Почтовая марка под (этим) письмом.
+From my seat I can see the sun.#С моего места я могу видеть солнце.
+They got on the bus too.#Они тоже сели в (этот) автобус.
+It is too late now to come.#Уже слишком поздно, чтобы прийти.
+They forgot to buy tickets.#Они забыли купить билеты.
+In such cold I go by bus.#В такой холод я еду автобусом.
+Can you put the cigarettes in the ashtray?#Можешь положить (эти) сигареты в (эту) пепельницу?
+He has bought a settee.#Он купил диван.
+Today we got up early.#Сегодня мы встали рано.
+This temperature is too high for me.#Эта температура для меня слишком высока.
+I haven't drunk coffee for a long time.#Я давно не пил кофе.
+Cut you that wall-paper for me.#Разрежь для меня те обои.
+I can't smoke when I am at work.#Я не могу курить, когда я на работе.
+We heard his shoes on the floor.#Мы слышали его шарканье (досл.: туфли на полу) по полу.
+Put a coat on in such foggy weather.#Надевайте пальто в такую туманную погоду!
+The living-room has a low ceiling.#В (этой) гостиной низкий потолок.
+They saw expensive pictures.#Они видели дорогие картины.
+Is there a socket in the kitchen?#В (этой) кухне есть розетка?
+She made all kinds of things.#Она делала разные вещи.
+The sun hasn't shone this week.#Солнца не было (досл.: еще не светило) на этой неделе.
+The sky is not always cloudy.#Небо не всегда облачно.
+It will rain in less than an hour.#Дождь будет идти меньше, чем через час.
+You have to get off at the bus stop.#Ты должен выйти на (этой) автобусной остановке.
+They saw us across the square.#Они видели нас на другой стороне (этой) площади.
+The planes were over London.#Самолеты были над Лондоном.
+We sat outside when it was sunny.#Мы сидели во дворе, когда было солнечно.
+Is his brother a doctor?#Его брат врач?
+They came too late.#Они пришли слишком поздно.
+She put the book on the chair.#Она положила (эту) книгу на (этот) стул.
+I have made this clock.#Я сделал эти часы.
+He cut his hand.#Он порезал (себе) руку.
+The sun has shone all day.#Солнце светило целый день.
+Has she come?#Она пришла?
+I have put it there.#Я это положила (там).
+He made a table.#Он сделал стол.
+Have you cut your leg?#Ты порезал (себе) ногу?
+The moon shone last night.#Вчера ночью светил месяц.
+John came from Paris.#Джон приехал из Парижа.
+Did you put it on the floor.#Ты положил это на пол?
+Have you made this?#Ты это сделал?
+The doctor has come for you.#Врач пришел за тобой.
+The sun shone for one hour.#Солнце светило в течение часа.
+I came early.#Я пришла рано.
+Has she cut your hair?#Она тебя подстригла?
+He made our breakfast.#Он приготовил наш завтрак.
+The sun shone thought my window.#Солнце светило через мое окно.
+They came to the hotel.#Они пришли в (эту) гостиницу.
+Have you put it under the ashtray?#Ты положил это под (эту) пепельницу?
+He cut the ticket in two.#Он разрезал (этот) билет надвое.
+He has made these chairs.#Он сделал эти стулья.
+They have come to visit us.#Они пришли нас навестить.
+She put it next to the telephone.#Она положила это возле телефона.
+Have you cut these curtains?#Ты обрезал эти шторы?
+You have made a nice bookcase.#Ты сделал хороший книжный шкаф.
+The sun hasn't shone for weeks.#Солнца не было (досл.: не светило) неделями.
+Who cut your hair last month?#Кто подстриг тебе волосы в прошлом месяце?
+Have you put it in your room?#Ты положил это в своей комнате?
+She made a good lunch.#Она приготовила (досл.: сделала) хороший обед.
+He put the sugar in the kitchen.#Он положил сахар в кухне.
+We have large plates.#У нас большие тарелки.
+Here is your fork.#Вот твоя вилка.
+Where is the other spoon?#Где другая ложка?
+This is a nice salt-pot.#Это хорошая солонка.
+We have to buy salt.#Мы должны купить соль.
+I put butter on my bread.#Я кладу масло на (свой) хлеб.
+Do you like eggs?#Ты любишь яйца?
+A cup without a saucer.#Чашка без блюдца.
+This cheese is white.#Этот сыр белый.
+Give me this napkin, please.#Дай мне, пожалуйста, эту салфетку.
+Put the bread in the toaster.#Положи хлеб в тостер.
+These are cheap egg-cups.#Это дешевые подставки для яиц.
+Put the toaster on the table.#Поставь (этот) тостер на стол.
+Are there six plates?#Есть шесть тарелок?
+These spoons are too short.#Эти ложки слишком короткие.
+Salt is expensive.#Соль дорогая.
+I eat an egg every day.#Я съедаю яйцо каждый день.
+He doesn't like cheese.#Он не любит сыр.
+The egg-cups are from England.#(Эти) Подставки для яиц из Англии.
+The fork is on my plate.#(Эта) Вилка на моей тарелке.
+The salt-pot is full.#(Эта) Солонка полная.
+I never eat butter.#Я никогда не ем масла.
+The saucers are in the kitchen.#(Эти) Блюдца в кухне.
+The napkin is under your chair.#(Эта) Салфетка под твоим стулом.
+He goes to church on Sundays.#Он ходит в церковь по воскресеньям.
+We always have breakfast at eight.#Мы всегда завтракаем в восемь.
+I go to work every day.#Я хожу на работу каждый день.
+They live in Kharkov.#Они живут в Харькове.
+I like music.#Я люблю музыку.
+Snow is white.#Снег (есть) белый.
+I hear the radio.#Я слышу радио.
+He loves your sister.#Он любит твою сестру.
+He thinks you are a doctor.#Он думает, что ты врач.
+The boys start school on Monday.#Мальчики пойдут в школу в понедельник.
+I go to Berlin tonight.#Сегодня вечером я еду в Берлин.
+These tomatoes are delicious.#Эти помидоры вкусные.
+Are they here already?#Они уже здесь?
+Don't eat in a hurry.#Не ешь в спешке.
+He likes fried potatoes.#Он любит жареный картофель.
+Your cup is empty.#Твоя чашка пуста.
+She smoked while I ate.#Она курила, пока я ел.
+Too much fat is not good.#Слишком много жира нехорошо.
+Who is that fat boy?#Кто тот толстый парень?
+That fat man eats too much.#Тот толстый мужчина слишком много ест.
+Don't walk outside while it rains.#Не гуляй во дворе, когда идет дождь.
+Is her plate empty?#Ее тарелка пустая?
+I like fried fish.#Я люблю жареную рыбу.
+Are you in a hurry?#Ты спешишь? (досл.: Ты в спешке?)
+She has already got up.#Она уже встала.
+The cheese is delicious.#(Этот) Сыр вкусный.
+Is there much fat in it?#В нем (сыре) много жира?
+This bicycle is mine.#Этот велосипед мой.
+Is that book yours?#Те книга твоя?
+Those pens are his.#Те ручки его.
+That coat is hers.#То пальто её.
+The apples are ours.#Эти яблоки наши.
+Are these cigarettes yours?#Эти сигареты Ваши?
+They are theirs.#Они (есть ) их.
+This clock is his.#Эти часы его.
+Is that car hers?#Тот автомобиль её?
+Those cups are yours.#Те чашки Ваши.
+These desks are theirs.#Эти письменные столы их.
+This money is mine.#Эти деньги мои.
+Those cats are ours.#Те коты наши.
+These shoes are yours.#Эти туфли твои.
+They have left.#Они уехали.
+She boiled eggs.#Она варила (готовила) яйца.
+Have you sent a letter?#Ты отправила письмо?
+I sent it yesterday.#Я послала его вчера.
+We have used it.#Мы это использовали.
+He poured out the coffee.#Он разлил (этот) кофе.
+Pass the sugar, please.#Передай, пожалуйста, сахар.
+She said it was too late.#Она сказала, что слишком поздно.
+Have you told your father?#Ты рассказал своему отцу?
+Have you poured out the tea?#Ты разлил чай?
+They used bad pens.#Они пользовались плохими ручками.
+Has she passed the salt?#Она передала соль?
+I left at eight.#Я вышел в восемь.
+He has left her.#Он покинул ее.
+I didn't say that.#Я этого не говорила.
+She sent the money long ago.#Она давно выслала деньги.
+He told us all he knew.#Он рассказал нам все, что знал.
+I have boiled them.#Я сварил их.
+We have sent flowers.#Мы выслали цветы.
+You used too much salt.#Вы использовали слишком много соли.
+She said it in a hurry.#Она сказала это в спешке.
+Have they left already?#Они уже вышли?
+They have sent us a few letters.#Они послали нам несколько писем.
+The salt-pot is empty.#(Эта) Солонка пуста.
+She poured the tea while I boiled an egg.#Она наливала чай, пока я варил яйцо.
+Isn't this fried fish delicious?#Разве эта жареная рыба не вкусная?
+Have I told you you are too fat?#Говорила ли я тебе, что ты слишком толстый?
+We sent the books in last month.#Мы выслали (эти) книги в прошлом месяце.
+They eat cheese for breakfast.#Они едят на завтрак сыр.
+Your napkin is on your plate.#Твоя салфетка на (твоей) тарелке.
+Are these forks ours?#Эти вилки наши?
+You have long arms.#У тебя длинные руки.
+She was on her knees.#Она стояла (досл.: была) на коленях.
+We have ten toes.#У нас десять пальцев (на ногах).
+He has to cut his nails.#Он должен обрезать свои ногти.
+I can't use this finger.#Я не могу пользоваться этим пальцем.
+I put my hand on my belly.#Я кладу (свою) руку на (свой) живот.
+There is much hair on his chest.#На его грудной клетке много волос.
+Show me your elbow.#Покажи мне (досл.: твой) локоть.
+I have cut my wrist.#Я порезал свое запястье.
+This wrist-watch is hers.#Эти наручные часы её.
+Your back is white.#Твоя спина белая.
+Put the chair on my shoulders.#Поставь мне на плечи (этот) стул.
+She put her elbows on the table.#Она положила свои локти на стол.
+The sun shines on my belly.#Солнце светит на мой живот.
+Keep your nails short.#Содержи ногти короткими.
+The cat was on my knees.#(Этот) Кот был на моих коленях.
+She worries about his arm.#Она беспокоится о его руке.
+She was on her back.#Она лежала (была) на (своей) спине.
+Use your shoulders.#Используй свои плечи.
+This is a cheap wrist-watch.#Это дешевые наручные часы.
+Your chest is brown.#Твоя грудь коричневая.
+Can you do it with your fingers?#Ты можешь это сделать своими пальцами,
+I want to see your wrist.#Я хочу увидеть твое запястье.
+Has a dog toes too?#У собаки тоже есть пальцы на ногах?
+Whose money is this?#Чьи это деньги?
+Whose friends have you seen?#Чьих друзей ты видел?
+Whose car is cheap?#Чей автомобиль дешевый?
+Whose dog is this?#Чья это собака?
+Whose books are these?#Чьи это книги?
+Whose office have you visited?#Чей офис ты посетил?
+Whose son is a doctor?#Чей сын врач?
+I open the door because I want to go out.#Я открываю дверь, потому что я хочу выйти.
+Have they electric tools?#У них есть электроинструменты?
+I am tired.#Я устал(а).
+Sugar is sweet.#Сахар сладкий.
+You have only one apple.#У тебя только одно яблоко.
+This is her only brother.#Это ее единственный брат.
+Are these apples sweet?#Эти яблоки сладкие?
+We have an electric toaster.#У нас есть электрический тостер.
+This is my only pen.#Это моя единственная ручка.
+Why was he tired yesterday?#Почему он вчера был уставшим?
+Because the train was late.#Потому что опоздал поезд.
+There are only two sheep.#Есть только две овцы.
+Have you tasted this?#Ты это пробовал?
+It tastes sweet.#Это - сладкое на вкус.
+How do you feel?#Как ты себя чувствуешь?
+We began to smile.#Мы начали улыбаться.
+Who has built this house?#Кто построил этот дом?
+I can't feel my toes.#Я не чувствую (досл.: не могу чувствовать) пальцев ног.
+They caught five birds.#Они поймали пять птиц.
+He has caught the bus.#Он успел (досл.: поймал) на автобус.
+The ashtray fell from the table.#(Эта) Пепельница упала со стола.
+He built this office.#Он строил этот офис.
+I have never felt better.#Я никогда не чувствовал себя лучше.
+The child has fallen.#(Этот) Ребенок упал.
+This water tastes sweet.#Эта вода сладкая на вкус.
+She has begun.#Она начала.
+We caught a tram last night.#Вчера вечером мы успели на трамвай.
+He is hungry.#Он голоден.
+We are thirsty.#Нам хочется пить. (Мы испытываем жажду.)
+We work at another office.#Мы работаем в другом офисе.
+Do you want another cup of tea.#Хочешь еще одну чашку чая?
+We are working.#Мы работаем.
+She is walking.#Она гуляет.
+They are waiting.#Они ждут.
+What are you doing?#Что ты делаешь?
+I am reading.#Я читаю.
+He is smoking.#Он курит.
+She is writing.#Она пишет.
+They are talking.#Они разговаривают.
+He is eating.#Он ест.
+What are you making?#Что ты делаешь (создаешь)?
+She is parking the car.#Она паркует машину.
+They are building an office.#Они строят офис.
+She is pouring tea.#Она наливает чай.
+We are sitting on the floor.#Мы сидим на полу.
+She is singing a song.#Она поёт песню.
+Are you drinking water?#Ты пьешь воду?
+She is showing her shoes.#Она показывает свои туфли.
+We are listening to the music.#Мы слушаем музыку.
+He is looking for me.#Он меня ищет.
+The sun is shining.#Солнце светит.
+It isn't raining.#Дождь не идет.
+He is driving a car.#Он ведет машину.
+They are getting up.#Они встают.
+We are leaving.#Мы уходим.
+I am using his tools.#Я пользуюсь его инструментами.
+They like cheese.#Они любят сыр.
+This butter is too fat.#Это масло слишком жирное.
+We always use these spoons.#Мы всегда пользуемся этими ложками.
+Are those plates yours?#Те тарелки Ваши?
+The empty cup is mine.#(Эта) Пустая чашка моя.
+Do you like boiled eggs?#Ты любишь варёные яйца?
+He left the house in a hurry.#Он покинул (этот) дом в спешке.
+These fried potatoes taste good.#Этот жареный картофель хороший на вкус.
+He is cutting his nails.#Он обрезает (свои) ногти.
+She is hungry.#Она голодна.
+Do it while I pour the coffee.#Сделай это, пока я налью кофе.
+Do you wait another year?#Ты можешь подождать еще год?
+Your wrist-watch has fallen on the floor.#Твои наручные часы упали на пол.
+He feels better now.#Он теперь чувствует себя лучше.
+Are you thirsty?#У вас жажда? (вы хотите пить?)
+These tomatoes are delicious.#Эти помидоры вкусные.
+Are they waiting for us?#Они ждут нас?
+Why don't you use a napkin?#Почему ты не пользуешься салфеткой?
+Don't put your elbows on the table.#Не клади (свои) локти на стол.
+He said he was tired.#Он сказал, что устал. (согл. времен)
+A hammer is a tool.#Молоток - это инструмент.
+My key is on the table.#Мой ключ на (этом) столе.
+Have you heard the news?#Ты слышал (эти) новости?
+There were many people on the platform.#На (этой) платформе было много людей.
+There was an accident in the street.#На улице была авария.
+Do you eat much meat?#Ты ешь много мяса?
+He drank a glass of water.#Он выпил стакан воды.
+This ashtray is made of glass.#Эта пепельница сделана из стекла.
+We sometimes drink beer.#Иногда мы пьем пиво.
+Who has told you that story?#Кто рассказал тебе ту историю?
+We use wood to make a chair.#Для изготовления стула мы используем древесину.
+Are all vegetables green?#Все овощи зеленые?
+There are many woods in England.#В Англии много лесов.
+Give my another glass of beer.#Дай мне еще один стакан пива.
+The hammer fell on the floor.#(Этот) Молоток упал на пол.
+This is a long story.#Это длинная история.
+Is there news after the accident?#Есть новости после происшествия?
+Her keys are under the chair.#Ее ключи под (этим) стулом.
+Put the meat on your plate.#Положи (это) мясо на свою тарелку.
+They live near the wood.#Они живут возле леса.
+You can look through the glass.#Ты можешь посмотреть сквозь стекло.
+They want to buy wood.#Они хотят купить древесину.
+The train leaves from platform 1.#(Этот) Поезд отходит от 1-ой платформы.
+The vegetables are often expensive.#(Эти) Овощи часто дорогие.
+He has built his own house.#Он построил свой собственный дом.
+She wants her own glass.#Она хочет свой собственный стакан.
+They are in their own room.#Они в своей собственной комнате.
+She has a car of her own.#У нее свой собственный автомобиль.
+I have a house of my own.#У меня свой собственный дом.
+We have a garden of our own.#У нас свой собственный сад.
+Have you a library of your own?#У тебя есть своя собственная библиотека?
+He has a plane of his own.#У нее есть свой собственный самолет.
+Is this your own cat?#Это твой собственный кот?
+She has a radio of her own.#У нее свое собственное радио.
+I can't feel my own toes.#Я не чувствую своих собственных пальцев на ногах.
+He drove his own car.#Он ехал на своем собственном автомобиле.
+My brother has a hotel of his own.#У моего брата собственная гостиница.
+Has she a child of her own?#У нее есть собственный ребенок?
+We make our own breakfast.#Мы готовим наш собственный завтрак.
+She helped me to write this.#Она помогла мне это написать.
+Have you sold your car?#Ты продал свою машину?
+He cleaned his own shoes.#Он чистил свои собственные туфли.
+They have found the tickets.#Они нашли (эти) билеты.
+I hurt my knee last night.#Вчера вечером я ударил (свое) колено.
+His arm hurts.#У него болит рука.
+Switch on the toaster, please.#Пожалуйста, включи тостер!
+Has he switched it off?#Он это выключил?
+I have helped him today.#Я помогла ему сегодня.
+They sold potatoes last year.#В пошлом году они продавали картофель.
+Have you cleaned your room?#Ты убрала свою комнату?
+We found money in the street.#Мы нашли деньги на улице.
+She has hurt her back.#Она ушибла (свою) спину.
+My elbow has hurt all week.#Всю неделю у меня болел локоть.
+He switched on the television set.#Он включил телевизор.
+Switch off the table-lamp.#Выключи (эту) настольную лампу.
+I can't find my keys.#Я не могу найти свои ключи.
+We sell these things cheap.#Мы продаем эти вещи дешево.
+Her sister often helped her.#Ее сестра часто ей помогала.
+I hurt my wrist last week .#На прошлой неделе я поранил себе запястье.
+He has switched on the lamp.#Он включил (эту) лампу.
+Have you sold many books?#Ты продал много книг?
+She has found a black shoe.#Она нашла черную туфлю.
+They cleaned their car.#Они вымыли свою машину.
+He switched off the radio.#Он выключил (это) радио.
+Her back hurts.#У нее болит спина. (досл.: Ее спина болит.)
+Have you cleaned the living-room?#Вы убрали (почистили) (эту) жилую комнату?
+They sold a lot of fish.#Они продавали много рыбы.
+Has she hurt her fingers?#Она ушибла (поранила) свои пальцы?
+My toes have hurt all day.#У меня целый день болели пальцы ног.
+Have you switched off the tools?#Ты отключил приборы?
+We found a cat in our shed.#Мы нашли кота в нашем сарае.
+They switched on the lamps. #Они включили (эти) лампы.
+We have helped them.#Мы помогли им.
+Everybody knows her.#Все знают ее.
+There is nothing in the ashtray.#В пепельнице ничего нет.
+This is an old magazine.#Это старый журнал.
+He has forgotten everything.#Он все забыл.
+I have bought a new suit.#Я купил новый костюм.
+There was nobody in the room.#В (этой) комнате никого не было.
+Are these socks clean?#Эти носки чистые?
+New books are expensive.#Новые книги дорогие.
+Is there nothing I can do?#(Разве) нет ничего, что я могу сделать?
+Who is this old man?#Кто этот старый человек?
+Don't tell everybody.#Не рассказывай всем и каждому.
+Everything is ready.#Все готово.
+She has seen nobody.#Они никого не видела.
+I like a clean floor.#Я люблю чистый пол.
+There was nobody in the room.#Никого не было в комнате.
+Is there nothing I can do?#Нет ничего, что можно сделать?
+They are smoking.#Они курят.
+We are working.#Мы работаем.
+He is cleaning the room.#Он убирает (эту) комнату.
+They were working when I entered.#Они работали, когда я вошел.
+It was raining an hour ago.#Час назад шел дождь.
+She was visiting us last week.#Она находилась у нас (досл.: посещала нас) на прошлой неделе.
+It was raining all day yesterday.#Весь день вчера шел дождь.
+It rained all day yesterday.#Весь день вчера шел дождь.
+I was reading last night.#Вчера вечером я читал.
+He was helping me when it began to rain.#Он мне помогал, когда начал идти дождь.
+Why were you smiling when I said that?#Почему ты улыбался, когда я это сказал?
+I was cleaning my room when I heard the news.#Я убирал свою комнату, когда (я) услышал (эту) новость.
+They were still talking at five o'clock.#В пять часов они еще разговаривали.
+What were you writing when I entered?#Что ты писала, когда я вошел?
+She was pouring tea when I came home.#Когда я пришел домой, она наливала чай.
+What were you doing last night?#Что ты делал вчера вечером?
+Was the sun shining when you left?#Когда ты уходил, солнце светило?
+I saw him when I was getting off.#Я его видел, когда я высаживался (из машины).
+What were you looking for an hour ago?#Что ты искал час назад?
+Was he teaching a two o'clock?#Преподавал ли он в два часа?
+In the bus I was sitting opposite her.#В автобусе я сидел напротив нее.
+Has he already come?#Он уже (так быстро) пришел?
+The room is already clean.#Комната уже чистая.
+Have you read it yet?#Ты уже это прочитал?
+Has she bought new shoes yet?#Она уже купила новые туфли?
+I have not yet talked to him.#Я еще не разговаривал с ним.
+I have not talked to him yet.#Я еще не разговаривал с ним. (yet в конце)
+Many people were waiting on the platform.#Много людей ждало на (этой) платформе.
+Have you found your keys yet?#Ты уже нашел свои ключи?
+They have sold all the wood.#Она продали всю (эту) древесину.
+He has a desk of his own.#У него есть собственный письменный стол.
+Were you using your own tools yesterday?#Ты вчера пользовался своими собственными инструментами?
+Have they cleaned everything?#Они все почистили?
+We have seen nothing all day.#Мы ничего не видели целый день.
+She has a new car already.#У нее уже новая машина.
+He has not switched off the radio yet.#Он еще не выключил (это) радио.
+I hurt my arm in the accident.#Я поранил себе руку в (этой) аварии.
+Nobody reads old newspapers.#Никто не читает старые газеты.
+He sold his own coat.#Он продал собственное пальто.
+Has she bought meat yet?#Она уже купила мясо?
+We found the hammer under the bookcase.#Мы нашли (этот) молоток под (этим) книжным шкафом.
+Have you tasted the beer?#Вы пробовали (это) пиво?
+We switched it on at four already.#Мы уже включили это в четыре.
+Are these vegetables clean?#Эти овощи чистые?
+This is made of wood.#Это сделано из дерева.
+The sun was shining  when the children went to school.#Солнце светило, когда дети шли в школу.
+We have boiled five eggs already.#Мы уже сварили пять яиц.
+He uses old egg-cups.#Они пользуется старыми подставками для яиц.
+Eggs taste better with salt.#Яйца вкуснее с солью.
+I see your glass is empty.#Я вижу, что твой стакан пуст.
+Are you still thirsty?#Ты все еще хочешь пить (испытываешь жажду)?
+Then I shall pour you another glass.#Так я налью Вам еще один стакан.
+This bread is delicious.#Этот хлеб вкусный.
+He isn't old yet.#Он (хлеб) еще не старый.
+This afternoon I shall buy another loaf.#Сегодня после полудня я куплю еще одну буханку.
+Has she left yet?#Она уже ушла?
+Yesterday she left at eight already.#Вчера в восемь она уже ушла.
+Why are some people fat?#Почему некоторые люди толстые?
+Because they eat a lot of fat.#Потому что они едят много жира.
+Can you walk on your toes?#Ты умеешь ходить на цыпочках (досл.: на пальцах)?
+I think I'm too tired now.#Я думаю, что я сейчас слишком устал.
+Isn't that hammer yours?#(Разве) Тот молоток не твой?
+I haven't a hammer my of own.#У меня нет собственного молотка.
+Those electric tools are ours.#Те электроинструменты наши.
+I saw they were looking for their keys.#Я видел, что они ищут свои ключи. (солгасование времен)
+Have they stopped already?#Они уже остановились?
+I thought they were still working.#Я думал, что они еще работают. (солгасование времен)
+They left the factory at three.#Они покинули фабрику в три.
+We always have to work on our knees.#Мы всегда должны работать на коленях.
+After a few hours they begin to hurt.#Через несколько часов они начинают болеть.
+Whose telephone is this?#Чей это телефон?
+I think it is his.#Я думаю, что его.
+Everybody wanted to help him.#Все хотели ему помочь.
+Have they always helped you?#Они всегда тебе помогали?
+There is nothing on that table.#На том столе ничего нет.
+Have you cleaned the windows?#Ты почистил (эти) окна?
+They are selling toasters.#Они продавали тостеры.
+Have they sold everything yet?#Они уже все продали?
+It is five o'clock already.#Уже пять часов.
+We have to catch the train.#Мы должны успеть на поезд.
+From what platform does it leave?#От какой платформы он отходит?
+You have hurt your wrist.#Ты поранил себе запястье.
+It hurt all day yesterday.#Это болело вчера целый день.
+Switch off the radio, please.#Выключи, пожалуйста, радио.
+He feels better already.#Он уже лучше себя чувствует.
+Can you pass me the butter?#Ты можешь передать мне масло?
+The child fell from the window.#(Этот) ребенок выпал из (этого) окна.
+I have read this story already.#Я уже прочитал этот рассказ.
+He forgot to tell me the news.#Он забыл мне сообщить (эти) новости.
+Put on a clean shirt.#Надень чистую сорочку.
+Have they ever sold wall-paper?#Они когда-либо продавали обои?
+He said nothing when was leaving.#Он ничего не сказал, когда уходил.
+Don't drink beer when you have to drive.#Не пей пива, когда ты должен вести машину.
+Did you catch the bus yesterday?#Ты вчера успел сесть (досл.: схватить) на автобус?
+I caught it because it was late.#Я успел на него, потому что он опоздал.
+She wants to taste these fried potatoes.#Она хочет попробовать этот жареный картофель.
+Has the water boiled yet?#(Эта) Вода уже закипела?
+We buy food every day.#Каждый день мы покупаем продукты.
+These pears are sweet.#Эти груши сладкие.
+There is a change in the weather.#Погода меняется. (досл.: В погоде есть изменение.)
+Grapes are delicious.#Виноград вкусный.
+Give me the bill, please.#Дай мне, пожалуйста, (этот) счёт.
+What colour is her coat?#Какого цвета её пальто?
+There are two breaks.#Два перерыва.
+Taste one of those oranges.#Попробуй один из тех апельсинов.
+Have you seen your new neighbours yet?#Ты видел уже своих новых соседей?
+They eat much fruit.#Они едят много фруктов.
+There is grass in our garden.#В нашем саду есть трава.
+Is the library open all day?#Библиотека открыта целый день?
+Are there many bills in your purse?#В твоем кошельке много банкнот?
+They sold fruit last year.#В прошлом году они продавали фрукты.
+Are oranges expensive?#Апельсины дорогие?
+Orange is a nice colour.#Оранжевый красивый цвет.
+We have left the food.#Мы оставили продукты (еду).
+There isn't much change.#Изменений немного.
+Have you nice neighbours?#У вас хорошие соседи?
+I don't like pears.#Я не люблю груши.
+We had a long break.#У нас был долгий перерыв.
+Can you tell me the way to the library?#Вы можете мне указать (рассказать) дорогу к (этой) библиотеке?
+She ate a lot of grapes.#Она съела много винограда.
+This grass is sometimes brown.#Эта трава бывает иногда коричневой.
+These are beautiful flowers.#Это красивые цветы.
+We worked during the night.#Мы работали в течение ночи.
+It was a sad day.#Это был печальный день.
+Are these vegetables fresh?#Эти овощи свежие?
+I am glad you are ready.#Я рад, что ты готов.
+The hotel is an ugly building.#(Эта) Гостиница - уродливое здание.
+I like fresh fruit.#Я люблю свежие фрукты.
+What did you do during the evening?#Что ты делал (этим) вечером?
+Do you think he is ugly?#Ты думаешь, что он некрасивый?
+He was glad I was there.#Он был рад, что я была там.
+Why are you sad?#Почему ты печален?
+This is a beautiful picture.#Это красивая картина.
+I slept four hours.#Я спал четыре часа.
+We have enjoyed this day.#Нам понравился этот день.
+She remembered the match.#Она помнила (этот) матч.
+You have changed.#Вы изменились.
+Can you change this bill?#Ты можешь разменять эту банкноту?
+They returned before six.#Они вернулись до шести.
+The grass has become brown.#(Эта) Трава стала коричневой.
+What happened yesterday?#Что случилось вчера?
+I haven't slept for two days.#Я не спал два дня.
+He enjoyed the book.#Ему понравилась (эта) книга.
+The weather soon changed.#Погода в скором времени изменилась.
+We have returned the books to the library.#Мы вернули (эти) книги в библиотеку.
+He became rich.#Он стал богатым.
+An accident has happened.#Произошел несчастный случай.
+The sky has become blue.#Небо стало голубым.
+She changed two bills.#Она разменяла две банкноты.
+He slept on the floor.#Он спал на полу.
+What happened during the match?#Что случилось во время (этого) матча?
+She has returned.#Она вернулась.
+They enjoyed the autumn sun.#Они радовались осеннему солнцу.
+Do you remember that day?#Ты помнишь тот день?
+He became a father last week.#На прошлой неделе он стал отцом.
+Have you changed this suit?#Вы сменили этот костюм?
+She hasn't done it yet.#Она еще не сделала этого.
+What happened?#Что случилось?
+You returned this book late.#Ты поздно вернул эту книгу.
+Have you enjoyed the evening?#У вас был приятный вечер? (Вам понравился вечер?)
+We have remembered everything.#Мы все запомнили.
+Don't leave the door open if you go out.#Не оставляй дверь открытой, если уходишь.
+If you go out I shall go with you.#Если ты уходишь, я пойду с тобой.
+I don't know if he will come.#Я не знаю, придет ли он.
+We buy bread at the baker's.#Мы покупаем хлеб в булочной.
+I saw him at my brother's.#Я видел его у моего брата.
+Have you ever been to St.John's?#Ты когда-нибудь бывал в соборе Св.Джона?
+Have you done your homework?#Ты уже сделал свою домашнюю работу?
+He has a long beard.#У него длинная борода.
+It is a great loss to me.#Это для меня большая утрата.
+The meeting will be at five.#Собрание состоится в 5 часов.
+What time is their departure?#В котором часу их вылет?
+Our town has an airport.#В нашем городе есть аэропорт.
+We were watching the sunrise.#Мы наблюдали восход солнца.
+She drives a van.#Она водит микроавтобус.
+You buy meat at the butcher's.#Ты покупаешь мясо в (этой) мясной лавке.
+Nobody saw their arrival.#Никто не видел их прибытия.
+The grocer is at the corner.#Бакалейщик на углу.
+The greengrocer sells vegetables.#(Этот) Владелец овощного магазина продает овощи.
+Are you a greengrocer?#Вы владелец овощного магазина?
+Their departure was in the afternoon.#Их вылет был после полудня.
+We live next to the butcher's.#Мы живем возле мясного магазина.
+Is this your van?#Это твой микроавтобус?
+He worries about his loss.#Он беспокоится о своей потере.
+Have you always had a beard?#У тебя всегда была борода?
+The sunrise was beautiful.#Восход солнца был прекрасен.
+I'll see you at the airport.#Я увижу тебя в аэропорту.
+His father is a grocer.#Его отец - владелец бакалейного магазина.
+It happened before her arrival.#Это случилось перед ее приездом.
+Is there much homework?#Домашней работы много?
+There is a meeting is in his office.#В его офисе собрание.
+Are there enough lamps?#Ламп достаточно?
+This is a light room.#Это светлая комната.
+December has dark days.#В декабре дни темные.
+The bookcase is heavy.#(Этот) Книжный шкаф тяжелый.
+My parents' chairs are light.#Стулья моих родителей легкие.
+It was a strange accident.#Это был странный случай.
+We live on a wide street.#Мы живем на широкой улице.
+She bought a light coat.#Она купила легкое пальто.
+I can't read in a dark room.#Я не могу читать в темной комнате.
+He has a wide car.#У него широкая машина.
+Is this enough for one day?#Это достаточно на один день?
+Have you read that strange book?#Ты прочитал ту странную книгу?
+The sky was very light.#Небо было очень ясное.
+This clock is too heavy for me.#Эти часы слишком тяжелые для меня.
+Her sister is nicer.#Ее сестра милее.
+Is this the shortest way?#Это самый короткий путь?
+Your car is more expensive.#Твоя машина дороже.
+Is this book easier?#Эта книга легче?
+This is the most difficult song.#Это самая трудная песня.
+His glass is fuller.#Его стакан полнее.
+This was the sunniest day.#Это был самый солнечный день.
+Can you come by an earlier train?#Ты можешь приехать более ранним поездом?
+What is the most delicious food?#Какая еда самая вкусная?
+Is he older than you?#Он старше тебя?
+They have the cleanest floor.#У них самый чистый пол.
+This is the saddest story.#Это самая печальная история.
+This fruit is fresher.#Эти фрукты свежее.
+The streets are wider here.#Здесь улицы шире.
+She is the cleverest child.#Она самый способный ребенок.
+It is simpler than you think.#Это проще, чем ты думаешь.
+Are these children the politest?#Эти дети самые вежливые?
+She has lost her purse.#Она потеряла свой кошелек.
+His beard grew fast.#Его борода росла быстро.
+We have met before.#Мы встречались раньше.
+The sun rose at seven.#Солнце взошло в семь.
+It was growing dark.#Становилось темно.
+What time did you rise?#В котором часу ты встал?
+Shut the door, please.#Закрой, пожалуйста, дверь.
+She shut her eyes.#Она закрыла (свои) глаза.
+You have grown a lot.#Ты очень вырос.
+We spent that week in Russia.#Ту неделю мы провели в России.
+The plane rose into a blue sky.#Самолет поднялся в голубое небо.
+I have spent all my money.#Я истратил все свои деньги.
+We lost the keys yesterday.#Мы вчера потеряли (эти) ключи.
+He met her in the street.#Он встретил ее на улице.
+Have they risen yet?#Они уже встали?
+She shut the window.#Она захлопнула (это) окно.
+Where did you spend the day?#Где ты провел (этот) день?
+They met in a shop.#Они встретились в магазине.
+Have you shut the door?#Ты закрыл дверь?
+She lost her ticket.#Она потеряла свой билет.
+The grass hasn't grown much.#Трава не очень выросла.
+I rose from my chair.#Я встал со своего стула.
+Have you spent it all?#Ты все истратил?
+We always met at the office.#Мы всегда встречались в офисе.
+They shut the windows before they left.#Они закрыли окна, прежде чем ушли.
+She has lost everything.#Она все потеряла.
+His hair grew dark.#Его волосы стали темными.
+The moon has risen already.#Уже взошел месяц.
+They spent a lot that day.#Они много истратили в тот день.
+My car is as expensive as yours.#Моя машина такая же дорогая, как и твоя.
+He is not so old as I am.#Он не такой старый, как я.
+They are as good in it as you are.#Они в этом так же хороши, как и вы.
+This apple is not so sweet as that one.#Это яблоко не такое сладкое, как то.
+The desk is heavier than the chair.#(Этот) Письменный стол тяжелее, чем (этот) стул. (или: (Этот) Письменный стол тяжелее (этого) стула.)
+He is taller than his father.#Он выше, чем его отец. (или: Он выше своего отца.)
+We met at the butcher's.#Мы встретились у мясника.
+The hotel is not so ugly as the office.#(Эта) Гостиница не такая некрасивая, как (этот) офис.
+Are these oranges fresh?#Эти апельсины свежие?
+I remember it was a beautiful day.#Я помню, что это был прекрасный день.
+They slept during the break.#Они спали во время перерыва.
+This is a nicer colour.#Это более приятный цвет.
+I shall be glad if it happens.#Я буду очень рад, если это случится.
+The baker's van is wider.#Микроавтобус кондитера шире.
+Did you enjoy the match yesterday?#Тебе понравился матч вчера?
+Bills are very light.#Банкноты очень легкие.
+I think you have spent enough money.#Я думаю, что ты истратил достаточно денег.
+She has returned her friend's letter.#Она вернула письмо своих друзей.
+It has not become dark yet.#Еще не стемнело.
+The greengrocer sells pears.#(Этот) Владелец овощного магазина продает груши.
+It was the most beautiful sunrise.#Это был самый красивый восход солнца.
+Your homework is simpler than ours.#Ваша домашняя работа проще нашей.
+I met her last year.#Я встретил ее в прошлом году.
+It happened long ago.#Это случилось давно.
+It is cloudy if it rains.#Если идет дождь, облачно.
+We don't sell it if it is not good.#Мы не продаем это, если это нехорошее.
+I don't know if he is ready.#Я не знаю, готов ли он.
+We bought this at Harrod's yesterday.#Вчера мы купили это в магазине Хэррода.
+Go to the grocer's, please.#Сходи в бакалейную лавку, пожалуйста.
+Are there enough buttons?#Пуговиц достаточно?
+The sleeves are too short.#(Эти) Рукава слишком короткие.
+When did you buy that skirt?#Когда ты купила эту юбку?
+My money is in my handbag.#Мои деньги в моей сумочке.
+Those ear-rings are ugly.#Те серьги некрасивые.
+What is in your pockets?#Что в твоих карманах?
+What kind of clothes do you like?#Какой тип одежды ты любишь?
+I have a red-and-white jersey.#У меня красно-белый свитер.
+Is this necklace hers?#Это ее ожерелье?
+The collars are wider.#(Эти) Воротники шире.
+She has a new blouse.#У нее новая блузка.
+Put on this hat.#Надень эту шляпу.
+They sell the cheapest hats.#Они продают самые дешевые шляпы.
+She was putting on hers new skirt.#Она надевала свою новую юбку.
+You have to return that handbag.#Ты должен вернуть ту сумочку.
+I want the most expensive jersey.#Я хочу самый дорогой свитер.
+He doesn't like this collar.#Ему не нравится этот воротник.
+Your clothes are on that chair.#Твоя одежда на том стуле.
+I bought the ear-rings.#Я купила серьги.
+The suit has no pockets!#В (этом) костюме нет карманов!
+Do you want a simpler necklace?#Вы хотите более простое ожерелье?
+She wants black buttons.#Она хочет черные пуговицы.
+Why has the blouse no sleeves?#Почему у (этой) блузки нет рукавов?
+She has taken your blouse.#Она взяла твою блузку.
+We have worked today.#Мы сегодня работали.
+She has read the book this week.#Она прочитала книгу на этой неделе.
+It is out of fashion already.#Это уже немодно.
+Have you changed yet?#Ты уже переоделась?
+Your sleeves are soaked.#Твои рукава промокли.
+Do you want this worn coat?#Ты хочешь этот поношенный плащ?
+I like woollen jerseys.#Я люблю шерстяные свитера.
+These clothes are waterproof.#Это одежда непромокаемая.
+Do you like the latest fashion?#Тебе нравиться последняя мода?
+Is this woollen skirt for winter days?#Эта шерстяная юбка для зимы?
+Hats are out of fashion.#Шляпы немодные.
+This worn blouse is ugly.#Эта поношенная блузка некрасивая.
+Is the coat waterproof?#(Этот) Плащ непромокаемый?
+He changed in a hurry.#Он в спешке переоделся.
+The latest fashion is expensive.#Самая модная одежда (досл.: последняя мода) дорогая.
+They were soaked when they entered.#Они были промокшими, когда вошли.
+I have known him for years.#Я знаю его много лет.
+We have lived here since 1950.#Мы живем здесь с 1950 года.
+She has finished school this year.#В этом году она закончила школу.
+It has rained today.#Сегодня прошел дождь.
+Look, it has snowed!#Смотри, выпал снег! (подраз.: В эту минуту снег лежит на земле.)
+I have read that book.#Я прочитал ту книгу. (подраз.: Я теперь знаю, о чем она.)
+I have put handbag on the table.#Я положила сумочку на стол. (подраз.: Сумочка лежит на столе в данную минуту.)
+We live in a cheap house.#Мы живем в дешевом доме.
+I helped him yesterday.#Я вчера помог ему.
+He has put on his new suit.#Он надел свой новый костюм.
+We are enjoying our break.#Мы наслаждаемся своим перерывом.
+She has waited for three hours.#Она прождала три часа.
+I have eaten the apple.#Я съела (это) яблоко.
+He drank a lot last night.#Он вчера вечером много выпил.
+Have you heard the news?#Ты слышал новости?
+She hasn't smoked for a week.#Она уже неделю не курит.
+We haven't met since last year.#Мы не встречались с прошлого года.
+He has given her this book.#Он дал ей эту книгу.
+They get up when it is still dark.#Они встают затемно.
+Did you see him at the match?#Ты его видел на матче?
+She has shown me this magazine.#Она показала мне этот журнал.
+She wore a green jersey.#Она носила зеленый свитер.
+These shoes have never fitted me.#Эти туфли мне никогда не подходили.
+He zipped up his coat.#Он застегнул свое пальто на молнию.
+Have you tried it on yet?#Ты это уже примерил?
+She knitted a collar.#Она связала воротник.
+Have you ever worn this shirt?#Ты когда-нибудь носил эту рубашку?
+The black blouse almost fitted.#(Эта) Черная блузка почти подошла (мне).
+Why haven't you zipped it up?#Почему ты не застегнул (куртку) на молнию?
+He tried on the brown shoes.#Он примерил (эти) коричневые туфли.
+Have you knitted this?#Это ты связала?
+He hasn't tried them on yet.#Он еще не примерил их.
+I shall not buy the suit if it doesn't fit.#Я не куплю этот костюм, если он мне не подойдет.
+She is zipping up her coat.#Она застегивает свое пальто на молнию.
+I have knitted this for you.#Я связала это для тебя.
+He wore a jersey on that windy day.#Он был одет в свитер в тот ветреный день.
+She tried on a blue skirt.#Она примерила голубую юбку.
+The expensive suit fitted you better.#Дорогой костюм больше походил тебе.
+Zip up your coat when you go outside.#Застегивай свое пальто на молнию, когда выходишь на улицу.
+What are they knitting?#Что они вяжут?
+Whom (разг.: who) did you meet there?#Кого ты там встретила?
+Whom (разг.: who) have you given it to?#Кому ты это отдал?
+Whom (разг.: who) are you talking to?#С кем ты разговариваешь?
+Whom (разг.: who) will you go to?#К кому ты пойдешь?
+Whom have you told the news?#Кому ты рассказал эти новости?
+They drink the least coffee.#Они пьют меньше всего кофе.
+There are fewer clouds than yesterday.#Туч меньше, чем вчера.
+Your collar is soaked.#Твой воротник промок.
+This is the worst hat I have ever seen.#Это самая плохая шляпа, какую я когда-либо видел.
+There is less tea in his cup than in mine.#В его чашке меньше чая, чем в моей.
+We have cleaned the kitchen.#Мы убрали кухню.
+I have done my homework.#Я сделал свою домашнюю работу.
+We have walked since seven o'clock.#Мы гуляем с семи часов.
+She has written four letters.#Она написала четыре письма.
+She has worked at the office for five years.#Она работает в этом офисе пять лет.
+Is this worn coat waterproof?#Этот поношенный плащ непромокаем?
+You have worn that jersey for years.#Ты носишь тот свитер много лет.
+What did she wear at that meeting?#Что на ней было надето на том собрании?
+That shop has fewer skirts than last year.#В том магазине меньше юбок, чем в прошлом году.
+Have we sold all our blouses?#Мы продали все наши блузки?
+We have been here all morning.#Мы были тут все утро.
+We are changing.#Мы переодеваемся.
+She lost her ear-rings last week.#На прошлой неделе она потеряла свои серьги.
+I always use little salt.#Я всегда употребляю мало соли.
+He changed the bill.#Он разменял (эту) банкноту.
+Whom have you returned it?#Кому ты это вернул?
+She lost it on the way to the airport.#Она потеряла это по дороге в аэропорт.
+It is more difficult when it is dark.#Это гораздо сложнее, когда темно.
+The library is next to the baker's.#(Эта) Библиотека находится рядом с кондитерской.
+We have become neighbours.#Мы стали соседями.
+What is the ugliest colour?#Какой цвет самый некрасивый?
+It is heavier than I thought.#Это тяжелее, чем я думал.
+What happened after their arrival?#Что случилось после их приезда?
+This summer we saw fewer birds than last year.#Этим летом мы видели меньше птиц, чем в прошлом году.
+She hasn't slept for a week.#Она не спала неделю.
+Have you read all those books?#Ты прочитал все те книги?
+I wear woollen socks in winter.#Я ношу зимой шерстяные носки.
+He likes to wear light colours.#Он любит одеваться в светлые тона (цвета).
+Who spent the least money?#Кто истратил меньше всего денег?
+The children have grown.#Дети выросли.
+My father is a grocer.#Мой отец - владелец бакалейного магазина.
+He is as old as you.#Он такого же возраста, что и ты.
+We spent our breaks outside.#Мы проводили наши перерывы вне здания.
+We have read all evening.#Мы читали весь вечер.
+Last night we worked.#Вчера вечером мы работали.
+Have you shut the windows?#Ты закрыла окна?
+I shut them when I was leaving.#Я закрыла их, когда выходила.
+Does he get up early?#Он рано встает?
+I have put the ear-rings on the table.#Я положила (эти) серьги на стол.
+Are jerseys out of fashion?#Свитера не модны?
+Have you met my sister?#Ты встретил мою сестру?
+They were trying on shoes.#Они примеряли туфли.
+Did they fit?#Они подошли?
+Boys have the strangest things in their pockets.#У мальчиков в карманах находятся самые удивительные вещи.
+He enjoyed the match.#Он наслаждался матчем.
+They were soaked when they returned.#Они вернулись промокшими.
+The food was worse there than at home.#Еда была там хуже, чем дома.
+He zipped up his waterproof coat.#Он застегнул свой непромокаемый плащ на молнию.
+This necklace is more beautiful.#Это ожерелье красивее.
+That skirt has fewer buttons.#На той юбке меньше пуговиц.
+She changed before dinner.#Она переоделась перед обедом.
+Are these chairs heavier?#Эти стулья тяжелее?
+You have changed.#Ты изменилась.
+She is knitting shorter sleeves.#Она вяжет более короткие рукава.
+This van is not so wide as theirs.#Этот микроавтобус не такой широкий, как их.
+They have known us since May.#Они знают нас с мая.
+There is enough fresh fruit.#Свежих фруктов достаточно.
+His beard grew fast.#Его борода быстро росла.
+They have the easiest homework.#У них самое легкое домашнее задание.
+I remember you worked at the butcher's.#Я помню, что ты работал у мясника.
+He rose when I entered.#Когда я вошел, он встал.
+I was glad to be at their departure.#Я была рада, что присутствовала при их отъезде.
+It was the saddest thing I have ever seen.#Это была самая печальная вещь, которую я когда-либо видела.
+Is this the narrowest street?#Это самая узкая улица?
+We have lived here for ten years.#Мы живем здесь десять лет.
+She has worked there since April.#Она там работает с апреля.
+I have parked the car in the square.#Я припарковал машину на площади. (подрз.: Она там еще стоит.)
+The flowers have fallen.#Цветы упали. (домысливается: Они сейчас разбросаны.)
+I have many colleagues.#У меня много коллег.
+There will be negotiations.#Состоятся переговоры.
+We are waiting for the management.#Мы ждем дирекцию.
+He has lost his job.#Он потерял (свою) работу.
+The employees want to talk.#Служащие хотят поговорить.
+Have you got a raise?#Ты получил повышение?
+Many members have already left.#Многие члены уже вышли.
+Unemployment has become worse.#Безработица возросла. (досл.: ухудшилась)
+What will happen to the labourers?#Что произойдет с рабочими?
+There will be a strike.#Будет забастовка.
+We shall talk about our wages.#Мы будем говорить о наших заработках.
+He will write to his trade-union.#Он напишет в свой профсоюз.
+Is there news about the strike?#Есть сведения о забастовке?
+The negotiations have stopped.#Переговоры остановились.
+What kinds of job have you got?#Какая у тебя работа?
+We have fewer members.#У нас меньше членов.
+They get a raise every year.#Они каждый год получают повышение.
+My colleagues help me.#Мои коллеги помогают мне.
+Is there much unemployment?#Большая безработица?
+Our wages are good.#У нас хорошие заработки. (досл.: Наши заработки хорошие.)
+The management will meet tonight.#Дирекция соберется сегодня вечером.
+The labourers are meeting now.#Сейчас собираются рабочие.
+The employees have worried for a long time.#Служащие волнуются долгое время.
+The trade-unions do a lot of work.#Профсоюзы много работают.
+The boy opened the window.#Мальчик открыл окно.
+The window was opened by the boy.#Окно было открыто мальчиком.
+The door is opened.#Дверь открыта.
+We are visited.#Нас посещают.
+The letter is written.#Письмо пишется.
+The book is returned.#Книга возвращается.
+The newspaper is read.#Газета читается.
+The bread was eaten.#Хлеб был съеден.
+The money was paid.#Деньги были уплачены.
+The car was shown.#Машина была показана.
+The songs were sung.#Песни были спеты.
+The chairs were made.#Стулья были сделаны.
+The book has been returned.#Книга была возвращена.
+He opened the door.#Он открыл дверь.
+The door was opened by him.#Дверь была открыта им.
+We negotiated for five hours.#Мы вели переговоры пять часов.
+Our wages were raised.#Наши заработки были повышены.
+Two employees were fired.#Двух служащих уволили с работы.
+I have applied for that job.#Я обратился за той работой.
+Do they earn less?#Они зарабатывают меньше?
+Unemployment was reduced last year.#Безработица уменьшилась (досл.: была сокращена) в прошлом году.
+They have negotiated all afternoon.#Они вели переговоры всю вторую половину дня.
+Wages have been raised.#Заработки были повышены.
+I have been fired.#Меня уволили (с работы).
+Two men applied for a job.#Двое мужчин обратились за работой.
+I have always earned enough.#Я всегда зарабатывал достаточно.
+They have reduced our wages.#Они сократили (срезали) наши заработки.
+The trade-union negotiated for us.#Профсоюз вел переговоры вместо нас.
+What job have you applied for?#За какой работой Вы обратились?
+All labourers have been fired.#Всех рабочих уволили.
+The money was earned in one day.#Деньги были заработаны за один день.
+The car was driven by her.#Машина управлялась ею.
+How many bicycle were sold?#Сколько велосипедов было продано?
+The book was given to me.#Книга была дана мне.
+The kitchen is cleaned.#Кухня убрана.
+They were fired last week.#Их уволили с работы на прошлой неделе.
+There jobs were not applied for.#На эти рабочие места претендентов не было.
+The letter has been sent.#Письмо было отправлено.
+The room is used by us.#(Эта) Комната используется нами.
+The clothes are worn by everybody.#(Эта) Одежда носится всеми.
+The hotel was opened last month.#(Эта) Гостиница была открыта в прошлом месяце.
+He was seen by us.#Он был замечен нами.
+Our wages have been raised.#Нам были повышены заработки.
+Few suits are sold.#Продается мало костюмов.
+The work is done in a hurry.#Работа делается в спешке.
+The water has been drunk by the animals.#Вода была выпита животными.
+The money have been paid too late.#Деньги были уплачены слишком поздно.
+The children are brought by car.#Детей привозят на машине.
+We were thanked by the management.#Нас поблагодарила дирекция. (досл.: Мы были отблагодарены дирекцией.)
+It was understood by everybody.#Это было понятно всем (досл.: понято всеми).
+It has been forgotten.#Это было забыто.
+The music was heard by them.#Музыка была услышана ими.
+Have you been fired?#Тебя уволили с работы?
+The coat was put on by her.#Пальто было надето ею.
+The coffee is poured out by us.#Кофе разлит нами.
+The door was shut by me.#Дверь была захлопнута мной.
+The contents are expensive.#Содержимое дорого.
+Oats are eaten by horses.#Лошади едят овёс. (досл.: Овёс поедается лошадьми.)
+What are the proceeds from this shop?#Какой доход с этого магазина?
+His riches are known to all of us.#Всем нам известно о его богатстве.
+I gave them my thanks.#Я поблагодарил их. (досл.: Я дал им свою благодарность)
+These are nice surroundings.#Это милые окрестности.
+His savings have been used.#Его сбережения были использованы.
+There are some tools in the shed.#В гараже есть кое-какие инструменты.
+Are there any tools in the shed?#В гараже есть какие-нибудь инструменты?
+There are no tools in the shed.#В гараже нет никаких инструментов.
